@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+.pytest_cache/
+
+# Node / frontend
+node_modules/
+frontend/dist/
+*.local
+
+# 备份文件与中间产物（不入库）
+*.jsonl.bak
+*.json.pre-recalc
+*.json.partial
+checkpoints/
+experiments/biographletqa/filtered_ds.jsonl
+# 旧版批量运行输出（正式数据集为 .jsonl；.json 为历史单次运行产物）
+langgraph_batch_output.json
+
+# 本地 AI 工具与内部协作文档（脱敏：不公开）
+.claude/
+.agents/
+CLAUDE.md
+AGENTS.md
+paper_modification_tracking.md
+suggestion.md
+PaperOrchestra/
+
+# 论文（未发表，不入公开仓库）
+APBC/
+
+# M4-B2 B2：HTTP 检索缓存（SQLite，本地运行时生成）
+.cache/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# LaTeX 编译产物（PDF 保留：唯一编译版本，随仓库共享）
+APBC/paper_template_latex/*.aux
+APBC/paper_template_latex/*.fdb_latexmk
+APBC/paper_template_latex/*.fls
+APBC/paper_template_latex/*.log
+APBC/paper_template_latex/*.out

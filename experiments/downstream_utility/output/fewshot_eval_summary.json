@@ -1,0 +1,65 @@
+{
+  "Zero-Shot": {
+    "n": 199,
+    "correct": 161,
+    "errors": 0,
+    "accuracy": 0.809,
+    "accuracy_raw": 0.809,
+    "per_label": {
+      "yes": {
+        "n": 110,
+        "accuracy": 0.9273
+      },
+      "no": {
+        "n": 67,
+        "accuracy": 0.8358
+      },
+      "maybe": {
+        "n": 22,
+        "accuracy": 0.1364
+      }
+    }
+  },
+  "Few-Shot ReasonMed": {
+    "n": 199,
+    "correct": 156,
+    "errors": 0,
+    "accuracy": 0.7839,
+    "accuracy_raw": 0.7839,
+    "per_label": {
+      "yes": {
+        "n": 110,
+        "accuracy": 0.9182
+      },
+      "no": {
+        "n": 67,
+        "accuracy": 0.7761
+      },
+      "maybe": {
+        "n": 22,
+        "accuracy": 0.1364
+      }
+    }
+  },
+  "Few-Shot MedQA-LangGraph": {
+    "n": 199,
+    "correct": 152,
+    "errors": 0,
+    "accuracy": 0.7638,
+    "accuracy_raw": 0.7638,
+    "per_label": {
+      "yes": {
+        "n": 110,
+        "accuracy": 0.8818
+      },
+      "no": {
+        "n": 67,
+        "accuracy": 0.7612
+      },
+      "maybe": {
+        "n": 22,
+        "accuracy": 0.1818
+      }
+    }
+  }
+}

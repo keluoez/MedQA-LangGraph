@@ -1,0 +1,30 @@
+{
+  "vanilla_llm": {
+    "n": 100,
+    "mean_factuality": 3.84,
+    "mean_granularity": 2.85,
+    "mean_grounding": 0.61,
+    "mean_total": 7.3
+  },
+  "standard_rag": {
+    "n": 100,
+    "mean_factuality": 2.72,
+    "mean_granularity": 1.755,
+    "mean_grounding": 0.84,
+    "mean_total": 5.315
+  },
+  "iterative_rag": {
+    "n": 100,
+    "mean_factuality": 3.08,
+    "mean_granularity": 2.205,
+    "mean_grounding": 1.76,
+    "mean_total": 7.045
+  },
+  "proposed": {
+    "n": 100,
+    "mean_factuality": 3.8,
+    "mean_granularity": 2.745,
+    "mean_grounding": 2.8,
+    "mean_total": 9.345
+  }
+}

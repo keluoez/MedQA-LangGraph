@@ -1,0 +1,1002 @@
+[
+  {
+    "question": "What test is used to track the transfer of mutans streptococci (MS) from mother to infant to detect the risk of early childhood caries?",
+    "answer": "To track the transfer of *mutans streptococci* (MS) from mother to infant and detect the risk of early childhood caries, several diagnostic methods are commonly used:\n\n1. **MSB Agar Culturing**: This is a traditional and widely used method. Saliva samples are cultured on Mitis Salivarius Bacitracin ...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.5\n3. 证据可追溯性：0.0\n4. 总分 = 6.0\n5. 简要理由：答案中的方法描述基本正确，但未提供具体的证据支持（如PMID、UniProt、DrugBank等）。机制描述较为详细，但缺少一些具体的分子机制信息。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 39-year-old man comes to the physician for a follow-up examination. He was diagnosed with latent tuberculosis infection 3 months ago. He has had generalized fatigue and dyspnea on exertion for the p...",
+    "answer": "The most likely cause of this patient's symptoms is D. Adverse effect of medication. The laboratory findings indicate microcytic anemia with a high serum iron and ferritin, but a low total iron-binding capacity (TIBC). These results are consistent with sideroblastic anemia, which can be caused by th...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.5\n3. 证据可追溯性：0.0\n4. 总分 = 6.0\n5. 简要理由：事实正确性较高，解释了患者症状与实验室结果的关联，但提到的机制（维生素B6代谢干扰）不够详细。机制精细度接近完整，但缺少具体分子机制的描述。证据可追溯性为0，因为没有提供任何可验证的证据来源。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 14-year-old girl presents with malaise, chest pain, and a recent history of sore throat, a high temperature, subcutaneous nodules, and a new-onset early systolic murmur. A diagnostic endomysial biop...",
+    "answer": "In the context of your scenario, it seems there might be a mix-up with the type of biopsy described. The symptoms and clinical picture you're presenting are indeed highly indicative of acute rheumatic fever, especially with the combination of recent sore throat, fever, subcutaneous nodules, and a ne...",
+    "factuality": 3.0,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.0\n2. 机制精细度：2.0\n3. 证据可追溯性：0.0\n4. 总分：5.0\n5. 简要理由：答案中关于急性风湿热的症状和病理特征（Aschoff bodies）的描述是正确的，但对“endomysial biopsy”和“endomyocardial biopsy”的混淆导致部分细节不够精准。机制描述较为宏观，缺乏具体的分子机制。没有提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 40-year-old man with a history of gradually worsening shortness of breath, a history of smoking, and findings of an increased anteroposterior diameter of the chest and diminished breath sounds, alon...",
+    "answer": "Based on the provided description, the 40-year-old man is exhibiting classic signs of emphysema, which is a subtype of Chronic Obstructive Pulmonary Disease (COPD). His history of smoking, along with the physical and radiological findings such as increased anteroposterior diameter of the chest, dimi...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.0\n3. 证据可追溯性：0.0\n4. 总分：5.5\n5. 简要理由：答案中的核心机制和症状描述基本正确，但对自发性气胸的具体机制描述不够精细。没有提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "In a 68-year old man with congestive heart failure and a recent syncopal episode, characterized by a grade III/IV harsh systolic murmur and an echocardiogram showing a disproportionately thickened ven...",
+    "answer": "In the scenario you described, the most likely diagnosis is hypertrophic obstructive cardiomyopathy (HOCM), which is characterized by the thickened ventricular septum and systolic anterior motion of the mitral valve. This condition causes a harsh systolic murmur due to obstruction of blood flow.\n\nSq...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.5\n3. 证据可追溯性：0.0\n4. 总分：6.0\n5. 简要理由：答案中的核心机制和诊断基本正确，但缺少具体的证据支持。机制描述较为完整，但未提供详细的分子机制或具体数据来源。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "What is the most probable diagnosis for a 24-year-old occasional alcoholic who has developed changes in behavior, including suspicions of conspiracy without justification and experiencing auditory hal...",
+    "answer": "The symptoms you've described—suspiciousness without justification and auditory hallucinations such as hearing voices commenting on actions—are characteristic of psychotic disorders, with schizophrenia being a primary consideration. Schizophrenia is particularly noted for such symptoms and often beg...",
+    "factuality": 3.5,
+    "granularity": 0.0,
+    "grounding": 0.0,
+    "total": 3.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：0.0\n3. 证据可追溯性：0.0\n4. 总分 = 3.5\n5. 简要理由：答案中的症状描述和诊断考虑基本正确，但没有提供具体的分子机制或药物-靶点作用机制。此外，没有提供任何可验证的证据来源。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "What is the genetic mutation responsible for chronic hemolysis and abnormal RBC shape observed in an Afroamerican boy with abdominal pain, as described in the clinical presentation?",
+    "answer": "The genetic mutation responsible for the symptoms described is the HbS mutation in the HBB gene. This mutation involves a substitution of valine for glutamic acid at the sixth position of the beta-globin chain, leading to sickle cell disease. This results in chronic hemolysis and the abnormal sickle...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.5,
+    "raw_evaluation": "1. 事实正确性：4.0\n2. 机制精细度：2.5\n3. 证据可追溯性：0.0\n4. 总分 = 6.5\n5. 简要理由：事实描述完全正确，机制较为完整但缺少下游效应的详细描述，没有提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "Identify the substances from the following list that are not typically associated with the pathophysiology of schizophrenia: Prostaglandins E, Norepinephrine, Ascorbic acid, 5-HT.",
+    "answer": "The substances that are not typically associated with the pathophysiology of schizophrenia from the list provided are prostaglandins E and ascorbic acid.",
+    "factuality": 3.5,
+    "granularity": 1.0,
+    "grounding": 0.0,
+    "total": 4.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：1.0\n3. 证据可追溯性：0.0\n4. 总分 = 4.5\n5. 简要理由：答案基本正确，前列腺素E和抗坏血酸确实不常与精神分裂症的病理生理相关。但未提供具体机制细节，且无任何可验证的证据支持。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 42-year-old man with a history of trauma on the left side from a car accident exhibits fractures of the left tenth, eleventh, and twelfth ribs, and the left tibia and fibula. He presents with hematu...",
+    "answer": "In this clinical scenario, the patient presents with signs that are highly suggestive of a potential vascular injury to the left kidney, especially considering the absence of excretion and the history of trauma. Given the concern for a renal artery injury, which could have serious implications for t...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.0\n3. 证据可追溯性：0.0\n4. 总分：5.5\n5. 简要理由：答案中的核心机制（潜在的肾动脉损伤）是正确的，但缺乏具体细节和证据支持。机制描述较为笼统，未提供具体的分子或细胞层面的细节。没有提供任何可验证的证据来源。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "During an exhumation where only the skull bone is found, with the basiocciput fused with the basisphenoid, what is the approximate age of the individual?",
+    "answer": "Based on anthropological and forensic studies, when the basiocciput and basisphenoid in the skull have fused, it typically indicates that the individual was a young adult. This fusion generally occurs between the ages of 18 to 25. Therefore, given that these bones have fused, the approximate age of ...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：1.5\n3. 证据可追溯性：0.0\n4. 总分 = 5.0\n5. 简要理由：事实基本正确，但缺乏具体研究数据支持；机制描述较为笼统，仅说明了骨融合现象；没有提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "In a case where an elderly male presents with vision blurring, cotton wool spots on retina, decreased peripheral sensations, and increased urine output, what would a renal biopsy likely reveal, indica...",
+    "answer": "In this case, given the symptoms of blurred vision with retinal findings, decreased peripheral sensation, and increased urine output, all pointing towards complications of diabetes, a renal biopsy would likely reveal nodular glomerulosclerosis. This finding is characteristic of diabetic nephropathy ...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.5\n3. 证据可追溯性：0.0\n4. 总分 = 6.0\n5. 简要理由：答案中的核心机制（糖尿病并发症导致的肾病变）基本正确，但未提供具体证据支持。机制描述较为详细，但缺少一些分子层面的细节。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "Given a 27-year-old primigravid woman at 37 weeks' gestation experiencing increasing frequent uterine contractions with clear fluid in the vagina, a cervix that is 80% effaced and 6 cm dilated, and an...",
+    "answer": "The most appropriate next step in managing this 27-year-old primigravid woman at 37 weeks' gestation, given the inconclusive pelvic examination for fetal head position, is to perform an ultrasound. This will allow healthcare providers to accurately determine the fetal position, which is crucial for ...",
+    "factuality": 3.5,
+    "granularity": 0.0,
+    "grounding": 0.0,
+    "total": 3.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：0.0\n3. 证据可追溯性：0.0\n4. 总分 = 3.5\n5. 简要理由：答案中的建议（进行超声检查）是合理的，但没有提供具体的药物-靶点作用机制。此外，没有提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "What underlying assumption is critical to support the conclusion that the risk of surgical hypertension during pheochromocytoma removal is 3.4 times greater in patients with MEN type 2 syndromes compa...",
+    "answer": "The critical underlying assumption necessary to support the conclusion derived from the odds ratio is that surgical hypertension during pheochromocytoma removal is a rare event. This assumption is vital because, in case-control studies, the odds ratio can serve as a good approximation of the relativ...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.0\n3. 证据可追溯性：0.0\n4. 总分 = 5.5\n5. 简要理由：答案中的核心假设（手术高血压是罕见事件）基本正确，但未提供具体证据支持这一假设。此外，答案提到了病例和对照组的可比性，但未详细说明其机制。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "Given a population of 5000 people, where 50 people suffer from cholera and 10 among them have died, but the total number of deaths is 50, what is the death rate per 1000 people in the population?",
+    "answer": "To calculate the death rate per 1000 people in the given population, we start with the total number of deaths, which is 50. The community size is 5000 individuals.\n\nTo determine the death rate per 1000 people, we use the following calculation:\n\n1. Divide the total number of deaths (50) by the total ...",
+    "factuality": 4.0,
+    "granularity": 0.0,
+    "grounding": 0.0,
+    "total": 4.0,
+    "raw_evaluation": "1. 事实正确性：4.0\n2. 机制精细度：0.0\n3. 证据可追溯性：0.0\n4. 总分：4.0\n5. 简要理由：答案中的计算和结果是正确的，但问题与药物-靶点作用机制无关，因此机制精细度和证据可追溯性均为0。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "From which fascia is the axillary sheath, surrounding the subclavian artery and the brachial plexus, derived?",
+    "answer": "The axillary sheath is derived from the prevertebral fascia, which is part of the deep fascia in the neck region. This fascia extends from the neck into the axilla, forming the axillary sheath that encases the axillary artery and the cords of the brachial plexus, providing essential support and prot...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.5,
+    "raw_evaluation": "1. 事实正确性：4.0\n2. 机制精细度：2.5\n3. 证据可追溯性：0.0\n4. 总分 = 6.5\n5. 简要理由：事实描述完全正确，但机制精细度略显不足，未详细说明具体的作用类型和下游效应。没有提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 35-year-old woman is involved in a car accident and presents with an open fracture of the left femur and severe bleeding from the left femoral artery. No past medical history or current medications....",
+    "answer": "The most correct statement about the patient's condition is:\n\nE. This patient’s laboratory findings will likely demonstrate a normocytic anemia.\n\nFollowing the trauma and acute blood loss, the patient's lab findings would typically show a normocytic anemia. This is because both red blood cells and p...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.5\n3. 证据可追溯性：0.0\n4. 总分 = 6.0\n5. 简要理由：事实正确性较高，解释了急性失血后出现的贫血类型及其原因，但未提供具体文献或数据库ID支持。机制精细度较好，描述了红细胞和血浆的快速丢失，但未详细说明具体分子机制。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 40-year-old man presents with a 5-month history of watery diarrhea, episodic crampy abdominal pain, facial flushing, and a history of asthma. He also exhibits a 1.8-kg weight loss, despite normal ap...",
+    "answer": "Based on the symptoms provided, the patient is likely experiencing carcinoid syndrome, which is associated with neuroendocrine tumors that secrete serotonin. The classic presentation includes flushing, diarrhea, and right-sided heart issues due to serotonin's effects on heart valves. With untreated ...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.5\n3. 证据可追溯性：0.0\n4. 总分：6.0\n5. 简要理由：答案中的核心机制基本正确，描述了 serotonin 的作用及其对心脏的影响，但未提供具体证据支持。机制描述较为全面，但缺少一些分子细节。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "What is the procedure to determine if there is a perforation into the maxillary sinus after the mesio buccal root of an upper first molar is suspected to have been displaced?",
+    "answer": "To determine if there's a perforation into the maxillary sinus after the mesio buccal root of an upper first molar is suspected to have been displaced, follow these steps:\n\n1. **Clinical Examination**: Start with a thorough examination of the area. Look for signs such as swelling, bleeding, or any o...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.0\n3. 证据可追溯性：0.0\n4. 总分 = 5.5\n5. 简要理由：答案中的步骤基本正确，但缺少具体的科学依据和文献支持。机制描述较为宏观，未涉及具体的分子或细胞水平的细节。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 29-year-old African American woman presents with bilateral hilar lymphadenopathy on a chest radiograph. She reports a cough, dyspnea, and angina, and an elevated level of angiotensin-converting enzy...",
+    "answer": "The clinical picture provided strongly suggests sarcoidosis, especially given the presentation of bilateral hilar lymphadenopathy, the patient's demographics, and the elevated angiotensin-converting enzyme (ACE) levels. In sarcoidosis, the mechanism causing the hilar adenopathy is primarily due to t...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.5\n3. 证据可追溯性：0.0\n4. 总分 = 6.0\n5. 简要理由：答案中的核心机制描述基本正确，但未提供具体的PMID、UniProt或DrugBank等可验证证据。机制描述较为详细，但缺少一些分子层面的具体细节。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "In a research study evaluating a novel blood test to screen for breast cancer, a pharmaceutical corporation enrolled 800 patients, half of whom have breast cancer, while the other half are age-matched...",
+    "answer": "The sensitivity of the test is 82.5%. Sensitivity is calculated by dividing the number of true positives (patients who have the disease and tested positive) by the total number of patients who have the disease. In this study, 330 out of 400 patients with breast cancer tested positive. Thus, the sens...",
+    "factuality": 4.0,
+    "granularity": 0.0,
+    "grounding": 0.0,
+    "total": 4.0,
+    "raw_evaluation": "1. 事实正确性：4.0\n2. 机制精细度：0.0\n3. 证据可追溯性：0.0\n4. 总分 = 4.0\n5. 简要理由：答案中的计算和结果完全正确，但问题与药物-靶点作用机制无关，因此机制精细度和证据可追溯性均为0。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 5-month-old child presented to the dermatology OPD with dryness along with white, fine scales on most pas of the body with sparing of face. The child was born at 39 weeks gestation spontaneous vagin...",
+    "answer": "The clinical presentation described, particularly the fine white scaling with sparing of the face, is characteristic of ichthyosis vulgaris. This condition is often associated with a defect in the filaggrin gene. The described scaling on extensor surfaces such as the lower limbs and other characteri...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：4.0\n2. 机制精细度：2.0\n3. 证据可追溯性：0.0\n4. 总分：6.0\n5. 简要理由：答案中描述的临床表现和基因缺陷均正确，但未提供详细的分子机制信息。此外，没有提供任何可验证的证据来源。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "An AIDS patient complains of headaches and disorientation. A clinical diagnosis of Toxoplasma encephalitis is made and Toxoplasma cysts were observed in a brain section. Which one of the following ant...",
+    "answer": "In an AIDS patient diagnosed with Toxoplasma encephalitis, we would expect the antibody profile to reflect the reactivation of a latent infection rather than a new infection. In such a situation, IgM antibodies, which indicate a recent infection, are usually nonreactive since the infection is not ne...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.0\n3. 证据可追溯性：0.0\n4. 总分 = 5.5\n5. 简要理由：答案中的核心机制基本正确，但提到IgG抗体可能在低滴度时没有明确的依据。机制描述较为简略，主要集中在抗体类型和滴度的解释，缺乏详细的分子机制。没有提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "You are administering anesthesia in a location without an oxygen supply line, using an E-cylinder that reads 500 psig. If your oxygen flow rate is 10 L/min, how long will it take for the E-cylinder to...",
+    "answer": "Given the current conditions, where the E-cylinder reads 500 psi and the flow rate is set to 10 liters per minute, the cylinder will provide oxygen for approximately 16.5 minutes. This calculation is based on the fact that a full E-cylinder at 2000 psi contains 660 liters of oxygen, and at 500 psi, ...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：4.0\n2. 机制精细度：2.0\n3. 证据可追溯性：0.0\n4. 总分 = 6.0\n5. 简要理由：事实正确，计算方法和结果均准确。机制精细度较低，因为仅涉及气体流量和时间的计算，没有分子机制。无任何可验证证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A newborn developed bile-stained vomiting and epigastric distention shortly after birth. The abdomen was scaphoid with visible peristalsis in the upper abdomen, and no stool was found in the rectum up...",
+    "answer": "The clinical presentation you described, including the bile-stained vomiting, epigastric distention, scaphoid abdomen, and the X-ray showing a 'double bubble' sign, is characteristic of duodenal atresia. This condition is a congenital obstruction in the duodenum where a segment is either absent or c...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：4.0\n2. 机制精细度：2.0\n3. 证据可追溯性：0.0\n4. 总分 = 6.0\n5. 简要理由：答案描述了典型的十二指肠闭锁临床表现和正确的治疗选择，事实正确性高。机制精细度仅说明了手术的类型和目的，但未提供详细的分子机制。证据可追溯性方面，答案未提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "What is the probable laxative agent that could cause dark brown to black pigmentary deposits in the large intestine lining and pigment-laden macrophages in the lamina propria, associated with prolonge...",
+    "answer": "The probable laxative agent causing dark brown to black pigmentary deposits in the large intestine lining and pigment-laden macrophages in the lamina propria, associated with prolonged use, is likely to be senna. Senna is an anthraquinone laxative and is commonly associated with a condition known as...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 0.5,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.0\n3. 证据可追溯性：0.5\n4. 总分 = 6.0\n5. 简要理由：事实正确性较高，但未详细说明senna导致色素沉积的具体机制；机制精细度一般，仅说明了功能变化；证据可追溯性较低，仅有数据库名（如DrugBank）但未提供具体ID。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "What is the process called that involves the variation in gene expression depending on the parent from whom the gene is inherited?",
+    "answer": "The process that involves variation in gene expression depending on the parent from whom the gene is inherited is called genomic imprinting. This phenomenon occurs when epigenetic mechanisms, such as DNA methylation, create marks or \"imprints\" that result in the differential expression of genes, dep...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.5,
+    "raw_evaluation": "1. 事实正确性：4.0\n2. 机制精细度：2.5\n3. 证据可追溯性：0.0\n4. 总分 = 6.5\n5. 简要理由：答案中的核心机制描述完全正确，但机制精细度略显不足，未详细说明具体的分子机制和下游效应。答案中没有提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "What is the most likely cause of restlessness and sweating in a patient being administered intravenous quinine?",
+    "answer": "The most likely cause of restlessness and sweating in a patient being administered intravenous quinine is hypoglycemia. Quinine can induce hypoglycemia by affecting insulin release or metabolism, particularly in malaria patients. The symptoms of hypoglycemia, which include sweating and restlessness,...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.0\n3. 证据可追溯性：0.0\n4. 总分 = 6.0\n5. 简要理由：事实基本正确，但未提供具体证据支持。机制描述了分子功能变化，但不够精细，未详细说明具体作用类型和下游效应。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "What is the term used to describe the inability to perform specific functions or activities that are typically expected for a person's age or sex?",
+    "answer": "The term you are looking for is \"disability.\" A disability is generally defined as an impairment that may be physical, mental, sensory, or developmental, which results in restrictions or limitations in performing certain activities or functions that are typically expected for someone of a particular...",
+    "factuality": 3.5,
+    "granularity": 0.0,
+    "grounding": 0.0,
+    "total": 3.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：0.0\n3. 证据可追溯性：0.0\n4. 总分 = 3.5\n5. 简要理由：答案对“disability”的定义基本正确，但问题与药物-靶点作用机制无关，因此机制精细度和证据可追溯性均为0。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 62-year-old man presents with epigastric pain worsening with food, excessive belching, and a lack of response to omeprazole. An upper endoscopy shows a hemorrhagic ulcer in the gastric antrum, and g...",
+    "answer": "Given the information provided, the next best step in managing this patient's condition is to initiate treatment with triple therapy. Triple therapy typically consists of two antibiotics, usually clarithromycin and amoxicillin (or metronidazole if the patient is allergic to penicillin), combined wit...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.0\n3. 证据可追溯性：0.0\n4. 总分 = 5.5\n5. 简要理由：答案中的治疗方案（三联疗法）是正确的，但对具体机制的描述较为笼统，缺乏详细的分子机制信息。此外，没有提供任何可验证的证据来源。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 28-year-old pregnant female undergoes a routine screening ultrasound at 20 weeks gestation. The ultrasound reveals that the fetus has bilateral multicystic dysplastic kidneys, and her pregnancy has ...",
+    "answer": "Based on the information provided, the child is most likely to exhibit a secondary physical deformity known as clubbed feet. This condition is associated with the Potter sequence, which results from oligohydramnios due to issues like bilateral multicystic dysplastic kidneys. The lack of adequate amn...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.0\n3. 证据可追溯性：0.0\n4. 总分 = 5.5\n5. 简要理由：事实正确性较高，但未提供具体证据支持 Potter 序列的机制。机制精细度一般，描述了药理效应但缺乏分子细节。证据可追溯性为零，未提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 3-year-old child has experienced a single episode of generalized tonic-clonic seizure lasting 3-4 minutes, accompanied by a fever of 102°F and mild coryza, 6 hours prior. The child is now conscious,...",
+    "answer": "The situation you've described is consistent with a simple febrile seizure, which is a common occurrence in young children. Here’s the recommended management strategy:\n\n1. **Parental Reassurance and Education:** Educate the parents about febrile seizures, emphasizing their benign nature and that the...",
+    "factuality": 3.5,
+    "granularity": 1.0,
+    "grounding": 0.0,
+    "total": 4.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：1.0\n3. 证据可追溯性：0.0\n4. 总分：4.5\n5. 简要理由：答案对简单热性惊厥的管理策略描述基本正确，但缺乏具体的分子机制和证据支持。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 69-year-old woman presents with fatigue and a decrease in hemoglobin from 14 g/dL to 9.0 g/dL over the past year. She has no additional symptoms. Based on these findings, what is the most appropriat...",
+    "answer": "A colonoscopy would be the most appropriate next diagnostic test to identify a potential underlying cause of her anemia. Given her age and the significant drop in hemoglobin, it is essential to rule out any serious gastrointestinal issues, such as polyps, ulcers, or cancer, which could be causing ch...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：1.5\n3. 证据可追溯性：0.0\n4. 总分 = 5.0\n5. 简要理由：答案中提到的诊断测试（结肠镜检查）是合理的，但未提供具体证据支持。机制描述较为笼统，仅说明了可能的出血原因，缺乏分子层面的细节。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "Extracranial complications of CSOM -a) Labyrinthitisb) Otitic hyrocephalusc) Bezold's abscessd) Facial nerve plasye) Lateral sinus thrombophlebitis\nA. abc\nB. ad\nC. bc\nD. acd",
+    "answer": "The extracranial complications of Chronic Suppurative Otitis Media (CSOM) include Bezold's abscess and facial nerve palsy. Bezold's abscess occurs when the infection spreads to the neck muscles, and facial nerve palsy can occur if the inflammation affects the facial nerve outside of the brain. There...",
+    "factuality": 3.0,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.0\n2. 机制精细度：2.0\n3. 证据可追溯性：0.0\n4. 总分 = 5.0\n5. 简要理由：答案中提到的 Bezold's abscess 和 facial nerve palsy 确实是 CSOM 的常见并发症，但未提供具体的感染传播路径和炎症影响的详细机制。此外，答案未提供任何可验证的证据来源。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 14 year old boy has difficulty expressing himself in writing, makes frequent spelling mistakes, does not follow instructions, and cannot wait his turn while playing a game. What condition is he like...",
+    "answer": "Based on the symptoms described—difficulty with writing and spelling, challenges in following instructions, and impulsiveness during games—the boy is likely to be suffering from ADHD (Attention Deficit Hyperactivity Disorder). ADHD can manifest in difficulties with attention and impulse control, whi...",
+    "factuality": 3.5,
+    "granularity": 0.0,
+    "grounding": 0.0,
+    "total": 3.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：0.0\n3. 证据可追溯性：0.0\n4. 总分 = 3.5\n5. 简要理由：答案中的症状描述和对ADHD的推测基本正确，但没有提供具体的分子机制或药物-靶点作用机制。此外，没有提供任何可验证的证据来源。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A neonate presents with cataract, deafness, and cardiac defects. What group of viruses is most likely responsible for the mother's infection during pregnancy?",
+    "answer": "The group of viruses most likely responsible for the mother's infection during pregnancy, given the neonate's presentation of cataract, deafness, and cardiac defects, is the 'TORCH' group. Specifically, these symptoms are highly indicative of congenital Rubella syndrome, which is part of the 'Rubell...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：1.5\n3. 证据可追溯性：0.0\n4. 总分 = 5.0\n5. 简要理由：答案中提到的TORCH组病毒和Rubella病毒导致的先天性症状是正确的，但缺乏具体的分子机制和证据支持。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "For a manual x-ray film processing where the developer solution is at a temperature of 68°F, how long should an x-ray film be kept in the developer solution?",
+    "answer": "For manual x-ray film processing at a temperature of 68°F, the standard time to keep the film in the developer solution is typically around 5 minutes. This duration is commonly used because it allows the image to develop fully, ensuring that the details are clear while minimizing the risk of fogging...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：1.5\n3. 证据可追溯性：0.0\n4. 总分 = 5.0\n5. 简要理由：答案中的时间基本正确，但具体时间可能因不同胶片和显影剂而异，存在轻微不精确。机制仅说明了抑制/激活的作用，缺乏分子细节。没有提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "What bacterial infection is most likely responsible for causing a hyperemic edema of the larynx and epiglottis that rapidly leads to respiratory obstruction in young children?",
+    "answer": "Haemophilus influenzae type b (Hib) is the bacterial infection most commonly associated with causing hyperemic edema of the larynx and epiglottis, leading to rapid respiratory obstruction in young children. This condition, known as epiglottitis, was particularly feared before the introduction of the...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：1.5\n3. 证据可追溯性：0.0\n4. 总分 = 5.0\n5. 简要理由：事实正确性较高，但未具体说明Hib导致这些症状的详细机制。机制精细度较低，仅描述了作用结果。证据可追溯性为零，没有提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 78-year-old man presents with aphasia, right facial droop, and right-sided weakness that began abruptly one hour ago, along with a history of hypertension, type 2 diabetes mellitus, and coronary art...",
+    "answer": "The 78-year-old man's symptoms, including aphasia, right facial droop, and right-sided weakness with an abrupt onset, strongly suggest a stroke, most likely ischemic in nature, due to blockage in a blood vessel supplying the brain. Considering the presentation of right-sided motor and facial deficit...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.0\n3. 证据可追溯性：0.0\n4. 总分：5.5\n5. 简要理由：答案中的核心机制（脑卒中，特别是左MCA区域的缺血性卒中）是正确的，但缺乏具体分子机制的描述。没有提供任何可验证的证据来源。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 28-year-old woman is diagnosed with vulvar carcinoma presenting as a 3 cm lesion on the right labia, away from the midline, with stromal invasion of 2 mm and no palpable inguinal lymph nodes. What i...",
+    "answer": "The recommended treatment approach for a 28-year-old woman with vulvar carcinoma, presenting as a 3 cm lesion on the right labia with 2 mm stromal invasion and no palpable inguinal lymph nodes, would typically involve a surgical intervention. In this case, a wide local excision or partial vulvectomy...",
+    "factuality": 3.5,
+    "granularity": 0.0,
+    "grounding": 0.0,
+    "total": 3.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：0.0\n3. 证据可追溯性：0.0\n4. 总分：3.5\n5. 简要理由：答案中的治疗建议基本正确，但未提供具体的分子机制和证据支持。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "TPN is initiated in a 44-year-old woman with Crohn's disease. In parenteral alimentation, carbohydrates should be provided in an optimal ratio of which of the following?\nA. 1 kcal/g nitrogen\nB. 5 kcal...",
+    "answer": "In total parenteral nutrition (TPN), it is crucial to provide carbohydrates in an optimal ratio to nitrogen to efficiently utilize protein and prevent its breakdown. The standard range for this balance is between 70 and 150 calories per gram of nitrogen. With this in mind, among the options provided...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.0\n3. 证据可追溯性：0.0\n4. 总分 = 5.5\n5. 简要理由：事实基本正确，但标准范围的具体数值可能有轻微不精确。机制说明了碳水化合物与氮的比例对蛋白质利用的影响，但缺乏更详细的分子机制。没有提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "Four hours after undergoing an open emergency surgery under general anesthesia for a bleeding abdominal aortic aneurysm, a 55-year-old man is unable to move both his legs. During the surgery, he had p...",
+    "answer": "The situation you've described is highly suggestive of anterior spinal artery syndrome, which can occur due to insufficient blood supply to the anterior portion of the spinal cord. This can happen as a complication of prolonged hypotension during surgery, especially one involving the abdominal aorta...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.5\n3. 证据可追溯性：0.0\n4. 总分：6.0\n5. 简要理由：答案对前脊髓动脉综合征的描述基本正确，解释了为何患者会失去下肢运动功能和痛温觉，但保留了本体感觉。机制描述较为详细，但缺少具体的分子机制。没有提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "In a 6-year-old boy diagnosed with IgA nephropathy and recurrent gross hematuria, with a urinary protein excretion of 130 mg/day, what is the most appropriate next step in management?",
+    "answer": "In the case of a 6-year-old boy with IgA nephropathy, characterized by recurrent gross hematuria and a mild proteinuria of 130 mg/day, the most appropriate next step in management generally focuses on the conservative approach. However, considering the recurrent gross hematuria, the discussion of co...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：1.5\n3. 证据可追溯性：0.0\n4. 总分：5.0\n5. 简要理由：答案中的管理建议基本正确，但对具体机制的描述不够精细，且未提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "If the Purkinje fibers, situated distal to the A-V junction, become the pacemaker of the hea, what is the expected hea rate?\nA. 30/min\nB. 50/min\nC. 60/min\nD. 70/min",
+    "answer": "If the Purkinje fibers, located distal to the A-V junction, take over as the pacemaker of the heart, the expected heart rate is approximately 30 beats per minute. Therefore, the correct answer is A. 30/min.",
+    "factuality": 4.0,
+    "granularity": 1.0,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：4.0\n2. 机制精细度：1.0\n3. 证据可追溯性：0.0\n4. 总分 = 5.0\n5. 简要理由：事实正确，Purkinje纤维作为心脏的异位起搏点时，心率确实会降低到约30次/分钟。机制精细度较低，仅说明了心率变化，未提供分子或细胞水平的详细机制。无任何可验证的证据引用。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "What condition is indicated by a woman experiencing profuse yellowish frothy vaginal discharge, intense itching, and a 'strawberry' like cervix upon examination?",
+    "answer": "The symptoms described—a profuse yellowish frothy vaginal discharge, intense itching, and a 'strawberry' cervix upon examination—are indicative of trichomoniasis. Trichomoniasis is a sexually transmitted infection caused by the parasite Trichomonas vaginalis. The hallmark features of this infection,...",
+    "factuality": 4.0,
+    "granularity": 1.0,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：4.0\n2. 机制精细度：1.0\n3. 证据可追溯性：0.0\n4. 总分 = 5.0\n5. 简要理由：答案正确地指出了症状对应的疾病（trichomoniasis），但没有提供具体的分子机制或药理效应。此外，没有提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 30-year-old male with massive hematemesis has an ulcer on the posterior aspect of the first part of the duodenum observed during upper GI endoscopy, with unsuccessful endoscopic control of the bleed...",
+    "answer": "In the scenario described, where a posterior duodenal ulcer is causing significant bleeding that couldn't be managed endoscopically, and considering the need to address the underlying cause, a comprehensive surgical approach is required. \n\nFirstly, the immediate priority in surgery would be to contr...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.5\n3. 证据可追溯性：0.0\n4. 总分 = 6.0\n5. 简要理由：答案中的核心机制（ oversewing the ulcer, truncal vagotomy, and pyloroplasty）基本正确，但未提供具体文献或数据库ID支持，且对胃酸分泌的具体分子机制描述不够精细。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "What is the rarest opportunistic fungal infection seen in AIDS patients?",
+    "answer": "The rarest opportunistic fungal infections in AIDS patients can vary based on geographic and environmental factors. However, Talaromyces marneffei, for instance, is considered rare outside its endemic regions of Southeast Asia and Southern China. Among globally lesser-encountered fungi in AIDS patie...",
+    "factuality": 3.5,
+    "granularity": 0.0,
+    "grounding": 0.0,
+    "total": 3.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：0.0\n3. 证据可追溯性：0.0\n4. 总分：3.5\n5. 简要理由：答案中的事实基本正确，提到了Talaromyces marneffei和Trichosporon在AIDS患者中较为罕见，但没有提供具体的机制信息和可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "In the investigation of a patient suspected of having humoral immunodeficiency, which infection is not typically associated with this condition?",
+    "answer": "In patients suspected of having humoral immunodeficiency, the types of infections they usually experience are those that the antibody responses, which are impaired in these conditions, would normally control. Such infections often include those caused by encapsulated bacteria like Streptococcus pneu...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.5\n3. 证据可追溯性：0.0\n4. 总分：6.0\n5. 简要理由：答案中的核心机制基本正确，但对某些细节的描述不够精确，例如“Pneumocystis carinii”现已更名为“Pneumocystis jirovecii”。机制描述较为详细，但未达到完整的分子机制水平。没有提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "What test is used to differentiate between maternal and fetal blood in a given sample?",
+    "answer": "To differentiate between maternal and fetal blood in a given sample, the Kleihauer-Betke test is commonly used. This test utilizes the principle that fetal hemoglobin is more resistant to acidic conditions, allowing fetal cells to be stained and identified under a microscope. For specific scenarios ...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.5\n3. 证据可追溯性：0.0\n4. 总分 = 6.0\n5. 简要理由：答案中的核心机制基本正确，但提到的 Apt 测试和 Flow 细胞术的细节不够精确。机制描述较为简略，缺少具体分子细节。没有提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 68-year-old man presents with fatigue, night sweats, chills, and an 11-lb weight loss over 3 weeks. He has a history of being treated for a hematological malignancy 8 years ago, where biopsy showed ...",
+    "answer": "Given the patient's history and current symptoms, the most likely explanation for his current hematological condition is therapy-related acute myeloid leukemia (AML). His previous treatment for Hodgkin lymphoma, which is characterized by CD15+ and CD30+ cell markers, likely involved chemotherapy and...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.0\n3. 证据可追溯性：0.0\n4. 总分：5.5\n5. 简要理由：答案中的核心机制基本正确，但未提供具体证据支持（如PMID、UniProt、DrugBank等）。机制描述较为宏观，未涉及具体的分子机制。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 68-year-old man presents with a 3-month history of difficulty starting urination, weak stream, and terminal dribbling. The patient has no history of serious illnesses and is not under any medication...",
+    "answer": "The most appropriate next step in the management of this patient with localized prostate cancer, given his age and the details provided, is C. Radiation therapy + androgen deprivation therapy. This approach is effective for treating localized prostate cancer without the immediate risks associated wi...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：1.5\n3. 证据可追溯性：0.0\n4. 总分：5.0\n5. 简要理由：答案中提到的治疗方案基本正确，但未详细说明具体机制。没有提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 38-year-old woman at 32 weeks' gestation has type 1 diabetes mellitus and an ultrasound showing an amniotic fluid index of 5 cm. Given these findings, what condition is her child at the greatest ris...",
+    "answer": "The child of this 38-year-old woman, who is 32 weeks pregnant, is at greatest risk of developing pulmonary hypoplasia. The amniotic fluid index of 5 cm indicates oligohydramnios, which is a lower-than-normal level of amniotic fluid. Amniotic fluid is crucial for fetal lung development, and insuffici...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.0\n3. 证据可追溯性：0.0\n4. 总分 = 5.5\n5. 简要理由：答案中的核心机制（低羊水导致肺发育不良）基本正确，但未提供具体证据支持。机制描述较为宏观，缺乏分子层面的细节。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 52-year-old man diagnosed with rapidly progressive glomerulonephritis requires a kidney transplant. His human leukocyte antigen (HLA) genotype is A7/A5, B2/B9, C8/C3. Which donor would be considered...",
+    "answer": "Based on the provided information and analyzing the HLA genotypes for potential donors, Donor 1 emerges as the closest match for the 52-year-old patient requiring a kidney transplant. Donor 1 matches at locus A with both A7/A5 alleles, which is significant, although there is partial matching at loci...",
+    "factuality": 3.0,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 4.5,
+    "raw_evaluation": "1. 事实正确性：3.0\n2. 机制精细度：1.5\n3. 证据可追溯性：0.0\n4. 总分 = 4.5\n5. 简要理由：答案中提到的HLA匹配信息基本正确，但未详细说明部分匹配的具体情况。机制描述较为笼统，仅提到匹配增强移植成功可能性，缺乏具体分子机制。没有提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A new experimental anti-cancer medication intercalates DNA during the G2 phase of the cell cycle. Considering its mechanism of action, to which existing anti-cancer agent is this new medication most c...",
+    "answer": "The new experimental anti-cancer medication you've described, which intercalates DNA during the G2 phase of the cell cycle, is most comparable to Bleomycin. Bleomycin is known to cause DNA strand breaks and primarily affects the G2 phase, inhibiting cells from progressing to mitosis. This phase-spec...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.5\n3. 证据可追溯性：0.0\n4. 总分 = 6.0\n5. 简要理由：事实正确性较高，但Bleomycin主要影响G2期的描述略有不精确，Bleomycin实际上可以影响多个细胞周期阶段。机制精细度较好，描述了DNA插入和细胞周期阻滞，但缺少具体的分子细节。证据可追溯性为0，没有提供任何可验证的证据来源。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "In the context of clonidine's use as an antihypertensive agent, what is the mechanism by which a fast intravenous injection of clonidine can lead to an increase in blood pressure?",
+    "answer": "When clonidine is administered via a fast intravenous injection, it can initially cause an increase in blood pressure due to its action on peripheral alpha-2 adrenergic receptors. Although clonidine is primarily known for its central action, where it activates alpha-2 receptors in the brain to reduc...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.5\n3. 证据可追溯性：0.0\n4. 总分：6.0\n5. 简要理由：答案基本正确，解释了快静脉注射导致血压短暂升高的机制，但未提供具体证据支持。机制描述较为完整，但缺少一些细节，如具体受体位置和下游效应。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 23-year-old pregnant patient at 10 weeks gestation presents with recurrent palpitations and an irregular heart rate. Her examination reveals an opening snap, a diastolic decrescendo murmur at the ap...",
+    "answer": "Based on the details provided, the most appropriate drug class for managing rate control in this pregnant patient with atrial fibrillation and mitral stenosis is beta-blockers. Beta-blockers are generally considered safe in pregnancy and effective for controlling heart rate, particularly in the cont...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：1.5\n3. 证据可追溯性：0.0\n4. 总分 = 5.0\n5. 简要理由：答案中提到的药物选择（beta-blockers）是正确的，但在机制描述上较为笼统，未提供具体的分子机制。此外，没有提供任何可验证的证据来源。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 15-year-old girl presents with a 2-month history of progressive fatigue, weakness, and recurrent severe headaches. Her blood pressure is 185/95 mm Hg, and laboratory tests reveal a morning renin act...",
+    "answer": "The clinical findings and laboratory results point towards fibromuscular dysplasia as the underlying condition causing renal artery stenosis in this 15-year-old girl. The most likely histological finding in her renal artery that would explain her condition is \"medial fibroplasia.\" Medial fibroplasia...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.5\n3. 证据可追溯性：0.0\n4. 总分 = 6.0\n5. 简要理由：答案中的核心机制（肾动脉狭窄导致肾素-血管紧张素-醛固酮系统激活）基本正确，但未提供具体的证据支持，且缺少对“medial fibroplasia”导致具体分子机制的详细描述。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 16-year-old boy complains of pain in the right eye and is prescribed a +3.5 D sphere lens after refractometry. The cover test is normal, and there is no heterophoria. What is the diagnosis?",
+    "answer": "The diagnosis for the 16-year-old boy is likely hyperopia, or farsightedness. The prescription of a +3.5 D sphere lens indicates a significant degree of farsightedness, which can cause eye strain or discomfort, particularly when focusing on nearby objects without corrective lenses. Since the cover t...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.0\n3. 证据可追溯性：0.0\n4. 总分 = 5.5\n5. 简要理由：答案中的诊断和解释基本正确，但未提供具体的证据支持。机制描述较为笼统，仅说明了眼痛的原因是由于视近时的调节紧张，缺乏详细的分子或生理机制。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 59-year-old woman, ten days post-emergent colectomy for a ruptured bowel, presents with abdominal pain, fever, tachycardia, hypoactive bowel sounds, and tenderness in the right upper quadrant. Her s...",
+    "answer": "Based on the clinical presentation and laboratory findings, the most likely diagnosis for this 59-year-old woman is acalculous cholecystitis. This condition refers to inflammation of the gallbladder without the presence of gallstones and is often seen in critically ill patients or following major su...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：1.5\n3. 证据可追溯性：0.0\n4. 总分 = 5.0\n5. 简要理由：答案中的诊断基本正确，但未详细说明具体的分子机制。没有提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "The national level system that provides annual national as well as state level reliable estimates of fertility and mortality is called:\nA. Civil Registration System\nB. Census\nC. Adhoc Survey\nD. Sample...",
+    "answer": "The national level system that provides annual national as well as state level reliable estimates of fertility and mortality is called the Sample Registration System (D).",
+    "factuality": 4.0,
+    "granularity": 0.0,
+    "grounding": 0.0,
+    "total": 4.0,
+    "raw_evaluation": "1. 事实正确性：4.0\n2. 机制精细度：0.0\n3. 证据可追溯性：0.0\n4. 总分 = 4.0\n5. 简要理由：答案正确，但该问题与药物-靶点作用机制无关，因此机制精细度和证据可追溯性不适用。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "When diagnosing acute pancreatitis in a patient with severe upper abdominal pain, what is one condition that does not need to be ruled out as part of the differential diagnosis?",
+    "answer": "When diagnosing acute pancreatitis in a patient with severe upper abdominal pain, a condition that does not need to be ruled out as part of the differential diagnosis is a migraine. Migraines typically present with symptoms such as headaches and do not align with the abdominal pain associated with a...",
+    "factuality": 3.5,
+    "granularity": 0.5,
+    "grounding": 0.0,
+    "total": 4.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：0.5\n3. 证据可追溯性：0.0\n4. 总分 = 4.0\n5. 简要理由：答案基本正确，指出 migraine 与急性胰腺炎的临床表现不同，但缺乏更详细的对比和证据支持。机制精细度较低，仅描述了药理效应，无分子机制。没有提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 65-year-old man with a history of benign prostatic hyperplasia and type 2 diabetes mellitus presents with acute abdominal pain, chills, nausea, and vomiting. His physical examination reveals left co...",
+    "answer": "Given the presentation of this patient—a 65-year-old man with acute abdominal pain, fever, tachycardia, left costovertebral angle tenderness, and a history of benign prostatic hyperplasia and diabetes mellitus—the clinical picture strongly suggests acute pyelonephritis. This suspicion is bolstered b...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：1.5\n3. 证据可追溯性：0.0\n4. 总分：5.0\n5. 简要理由：答案中对急性肾盂肾炎的诊断和治疗建议基本正确，但未提供具体机制细节。此外，答案中没有提供任何可验证的证据来源。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 20-year-old male develops acute renal failure symptoms five days after experiencing diarrhea. His blood work reveals thrombocytopenia and a hemoglobin level of 10 gm%. What is the most likely underl...",
+    "answer": "The symptoms you've described—a combination of acute renal failure, thrombocytopenia (low platelet count), anemia (hemoglobin level of 10 gm%), and the recent history of diarrhea—strongly suggest Hemolytic Uremic Syndrome (HUS) as the underlying condition. HUS is commonly associated with certain bac...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.5,
+    "raw_evaluation": "1. 事实正确性：4.0\n2. 机制精细度：2.5\n3. 证据可追溯性：0.0\n4. 总分 = 6.5\n5. 简要理由：答案中的核心机制和症状描述完全正确，但机制精细度略显不足，未详细说明Shiga毒素的具体作用机制。此外，答案中没有提供任何可验证的证据来源。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "In which skin conditions is the pseudo Koebner phenomenon observed, specifically focusing on the ones triggered by viral infections?",
+    "answer": "The pseudo Koebner phenomenon, where lesions appear at sites of trauma in a previously unaffected area, is observed in several skin conditions caused by viral infections. The most notable examples include:\n\n1. **Molluscum Contagiosum**: This viral skin infection, caused by a poxvirus, is a classic e...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.5\n3. 证据可追溯性：0.0\n4. 总分：6.0\n5. 简要理由：答案中的核心机制基本正确，但对其他病毒如 herpes simplex 的描述存在轻微不精确。机制描述较为详细，但未达到完整分子机制的水平。没有提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "An elderly female presents with symptoms of fever, headache, and diplopia. A biopsy of the temporal artery reveals panarteritis. What is the most probable diagnosis for this condition?",
+    "answer": "The symptoms described — fever, headache, and diplopia, alongside the biopsy findings of panarteritis in the temporal artery — are highly indicative of Giant Cell Arteritis. This condition, also known as temporal arteritis, is a form of vasculitis commonly affecting elderly individuals and involves ...",
+    "factuality": 4.0,
+    "granularity": 1.0,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：4.0\n2. 机制精细度：1.0\n3. 证据可追溯性：0.0\n4. 总分 = 5.0\n5. 简要理由：答案中的诊断和临床表现描述完全正确，但未提供具体的分子机制或药理效应。此外，没有提供任何可验证的证据来源。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 9-year-old boy has a history of recurrent pulmonary infections and is showing signs of decreased FEV1/FVC ratio and increased FRC. A resident is considering gene therapy to introduce a defective gen...",
+    "answer": "In this scenario, the 9-year-old boy is most likely affected by cystic fibrosis, given his age, the recurring lung infections, and the specific pulmonary function test results you mentioned, which are indicative of an obstructive lung disease. Cystic fibrosis is indeed commonly caused by mutations i...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.0\n3. 证据可追溯性：0.0\n4. 总分 = 5.5\n5. 简要理由：答案中关于囊性纤维化和CFTR基因的描述基本正确，但未提供具体证据支持腺病毒载体的选择。机制描述较为笼统，未涉及具体分子机制。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "In a hemoglobin gel electrophoresis test for a 7-year-old girl with homozygous sickle cell disease, which lane would show the characteristic pattern of hemoglobin S?",
+    "answer": "In a hemoglobin gel electrophoresis test for a 7-year-old girl with homozygous sickle cell disease, the lane showing the characteristic pattern would primarily display hemoglobin S (HbS). Since the girl has homozygous sickle cell disease, her sample would lack the normal hemoglobin A (HbA) and inste...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.5,
+    "raw_evaluation": "1. 事实正确性：4.0\n2. 机制精细度：2.5\n3. 证据可追溯性：0.0\n4. 总分 = 6.5\n5. 简要理由：事实正确，详细解释了HbS在电泳中的表现和原因。机制描述较为宏观，未涉及具体分子机制。无任何可验证的证据引用。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 17-year-old boy suffers from allergic rhinitis in September, presenting with sneezing, nasal congestion, itching, and postnasal drainage. Considering he has no prior medication attempts for his cond...",
+    "answer": "For managing a 17-year-old boy's allergic rhinitis symptoms, especially considering the mix of sneezing, nasal congestion, itching, and postnasal drainage, initiating treatment with an intranasal corticosteroid is likely the most effective approach. Intranasal corticosteroids are well-regarded for t...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：1.5\n3. 证据可追溯性：0.0\n4. 总分 = 5.0\n5. 简要理由：答案中的治疗建议基本正确，但未详细说明具体机制。缺乏任何可验证的证据引用。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "In a study conducted on depression using the Patient Health Questionnaire (PHQ-9) survey data from a social media network with 500,000 participants, the sample population has a mean score of 14 and a ...",
+    "answer": "To determine how many participants have PHQ-9 scores greater than 22, we can use the properties of a normal distribution.\n\nFirst, we calculate the Z-score for a score of 22:\n\n\\[ Z = \\frac{(X - \\text{mean})}{\\text{standard deviation}} = \\frac{(22 - 14)}{4} = 2 \\]\n\nNext, we look up the cumulative prob...",
+    "factuality": 4.0,
+    "granularity": 0.0,
+    "grounding": 0.0,
+    "total": 4.0,
+    "raw_evaluation": "1. 事实正确性：4.0\n2. 机制精细度：0.0\n3. 证据可追溯性：0.0\n4. 总分 = 4.0 + 0.0 + 0.0 = 4.0\n5. 简要理由：答案中的计算和推理过程完全正确，但该问题与药物-靶点作用机制无关，因此机制精细度和证据可追溯性均为0。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 6-hour-old newborn male presents with a 3x3 cm fluctuant swelling over the right parietal bone that does not cross the midline, following a vacuum-assisted vaginal delivery after prolonged labor. Th...",
+    "answer": "Given the situation described, the best next step in management for this newborn with a cephalohematoma is conservative monitoring. Cephalohematomas typically resolve on their own without intervention. It’s important to continue observing the swelling to ensure it doesn't increase in size or change ...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：1.5\n3. 证据可追溯性：0.0\n4. 总分：5.0\n5. 简要理由：答案中的管理建议基本正确，但对 cephalohematoma 的具体机制描述不够精细。没有提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "Based on the microscopic examination images provided, what is the most appropriate pathological diagnosis?",
+    "answer": "Based on the microscopic features examined and the considerations of factors such as inflammation, cell morphology, and tissue type, the most appropriate pathological diagnosis appears to be chronic superficial active gastritis. This diagnosis is supported by the observed inflammation and the cellul...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：1.5\n3. 证据可追溯性：0.0\n4. 总分 = 5.0\n5. 简要理由：事实正确性较高，诊断与描述的病理特征基本一致，但缺乏具体细节和量化数据。机制精细度较低，仅描述了炎症和细胞变化，未提供具体的分子机制。证据可追溯性为零，没有提供任何可验证的证据来源。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "By what percentage does the sho retroviral regime administration in the peripaum period decrease the risk of veical transmission?",
+    "answer": "The administration of a short retroviral regime, likely intended to mean antiretroviral therapy (ART), during the peripartum period (around childbirth) has been shown to decrease the risk of vertical (mother-to-child) transmission of HIV by approximately 80% to 90%. This dramatic reduction is achiev...",
+    "factuality": 3.5,
+    "granularity": 1.0,
+    "grounding": 0.0,
+    "total": 4.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：1.0\n3. 证据可追溯性：0.0\n4. 总分 = 4.5\n5. 简要理由：事实正确性较高，但答案中未具体说明ART的作用机制，仅描述了药理效应。证据可追溯性为0，因为没有提供任何可验证的证据来源。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "After undergoing electroconvulsive therapy (ECT) for major depressive disorder, which chemical or factor in the brain is known to increase?",
+    "answer": "After undergoing electroconvulsive therapy (ECT) for major depressive disorder, brain-derived neurotrophic factor (BDNF) is known to increase. This increase in BDNF is significant because it supports neuroplasticity and neuronal growth, which are crucial for mood recovery and the alleviation of depr...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.5,
+    "raw_evaluation": "1. 事实正确性：4.0\n2. 机制精细度：2.5\n3. 证据可追溯性：0.0\n4. 总分 = 6.5\n5. 简要理由：事实正确，BDNF确实在ECT后增加，且对神经可塑性和神经元生长有支持作用。机制描述较为完整，但缺少具体分子机制的细节。没有提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 4-month-old child presents with extreme tiredness, irritable moods, poor appetite, fasting hypoglycemia with vomiting and muscle weakness. Blood tests reveal elevated free fatty acids and low acylca...",
+    "answer": "The symptoms and laboratory findings you've described align closely with a defect in the carnitine transporter, a condition known as primary carnitine deficiency (also called carnitine uptake defect). This deficiency impairs the transport of carnitine into cells, which is essential for the transport...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.5\n3. 证据可追溯性：0.0\n4. 总分：6.0\n5. 简要理由：答案中的核心机制基本正确，描述了 carnitine transporter 缺陷导致的 carnitine 运输障碍及其下游效应。但未提供具体的证据支持，如 PMID、UniProt 或 DrugBank ID。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "What medication is likely to benefit a 65-year-old gentleman experiencing tremors, rigidity, and reduced mobility?",
+    "answer": "The medication likely to benefit a 65-year-old gentleman experiencing tremors, rigidity, and reduced mobility is Levodopa combined with Carbidopa. This combination is particularly effective for managing symptoms of Parkinson's disease, as it helps increase dopamine levels in the brain, thereby impro...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.5,
+    "raw_evaluation": "1. 事实正确性：4.0\n2. 机制精细度：2.5\n3. 证据可追溯性：0.0\n4. 总分 = 6.5\n5. 简要理由：事实正确，Levodopa和Carbidopa的组合确实用于治疗帕金森病。机制描述较为准确，但缺少具体的下游效应。没有提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "Given a 31-year-old man with a 5-day history of fever, chills, and dyspnea, a temperature of 38.9°C (102°F), a pulse of 90/min, and a cardiac examination revealing a murmur, cardiac catheterization is...",
+    "answer": "Based on the details provided, the combination of fever, new murmur, and symptoms like shortness of breath strongly suggests the possibility of infectious endocarditis with valvular involvement. Given these symptoms, particularly the presence of a new murmur and shortness of breath, a valvular defec...",
+    "factuality": 3.0,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.0\n2. 机制精细度：2.0\n3. 证据可追溯性：0.0\n4. 总分 = 5.0\n5. 简要理由：答案中的核心机制（感染性心内膜炎导致的主动脉瓣反流）是正确的，但缺少具体的证据支持，如文献引用或数据库ID。机制描述较为简略，未涉及详细的分子机制。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A lady presented in the emergency department with a stab injury to the left side of the abdomen and was hemodynamically stable. A contrast-enhanced CT scan revealed a laceration in the spleen. Laparos...",
+    "answer": "The sudden drop in PO2 following the creation of a pneumoperitoneum in this scenario is most likely due to a CO2 embolism. When CO2 is used to insufflate the abdomen, it occasionally can unintentionally enter a blood vessel, particularly if there is any tissue damage or an open vessel in the abdomen...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.5\n3. 证据可追溯性：0.0\n4. 总分：6.0\n5. 简要理由：答案中的核心机制（CO2栓塞导致PO2下降）是正确的，但未提供具体证据支持。机制描述较为详细，但缺少具体的分子或生理细节。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "Given the presentation of progressive unilateral nasal obstruction, bloody nasal discharge, and double vision in a 55-year-old Chinese man with insignificant past medical history and blood analysis sh...",
+    "answer": "The symptoms described in the 55-year-old Chinese man—progressive unilateral nasal obstruction, bloody nasal discharge, and double vision—are concerning for a condition located in the nasopharyngeal area, especially given his ethnic and age profile. Nasopharyngeal carcinoma (NPC) is significantly mo...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.0\n3. 证据可追溯性：0.0\n4. 总分 = 5.5\n5. 简要理由：答案中的核心机制（EBV与NPC的关联）是正确的，但缺乏具体的分子机制细节。没有提供任何可验证的证据来源。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "If a single spinal nerve is cut, the area of tactile loss is always greater than the area of loss of painful sensation, because\nA. Tactile information is carried by myelinated fast conduction fiber\nB....",
+    "answer": "The correct answer is C. Degree of overlap of fibers carrying tactile sensation is much less. When a single spinal nerve is cut, the area of tactile loss is greater compared to painful sensation because the tactile fibers have less overlap with those from adjacent nerves. This means that damage to a...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.5\n3. 证据可追溯性：0.0\n4. 总分 = 6.0\n5. 简要理由：事实正确性较高，但“纤维重叠”这一机制的描述可能不够全面。机制精细度较好，但缺少具体分子或神经机制的细节。证据可追溯性为0，因为没有提供任何可验证的证据来源。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "What is the term used to describe a gunshot wound that cannot be evaluated as an entrance or exit wound due to surgical alteration?",
+    "answer": "The term commonly used to describe a gunshot wound that cannot be classified as an entrance or exit wound due to surgical alteration is \"indeterminate.\" When the surgical procedures alter the wound's original characteristics, forensic experts may use \"indeterminate\" to convey that the features neces...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：1.5\n3. 证据可追溯性：0.0\n4. 总分 = 5.0\n5. 简要理由：答案中的核心术语“indeterminate”是正确的，且解释合理。但提到的“Kennedy phenomenon”与问题无关，且未提供机制细节。无任何可验证的证据支持。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "Considering a 35-year-old computer programmer who exhibits odd behaviors such as wearing an aluminum foil cap to prevent extraterrestrial beings from stealing his thoughts and spends time building a r...",
+    "answer": "Based on the behaviors and characteristics described, the 35-year-old computer programmer most likely demonstrates traits associated with Schizotypal Personality Disorder. This personality disorder is characterized by odd beliefs or magical thinking, eccentric behavior, and discomfort with close rel...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：1.5\n3. 证据可追溯性：0.0\n4. 总分 = 5.0\n5. 简要理由：答案描述了与Schizotypal Personality Disorder相关的特征，但未提供具体证据支持这些特征。机制描述较为笼统，缺乏详细的分子或生理机制。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "Which drug is commonly used to treat antibiotic-associated pseudomembranous enterocolitis and is also a part of the treatment regimen for Helicobacter pylori infection?",
+    "answer": "The drug that is commonly used to treat antibiotic-associated pseudomembranous enterocolitis, which is linked to Clostridium difficile infections, and is also part of some treatment regimens for Helicobacter pylori infection, is Metronidazole.",
+    "factuality": 2.5,
+    "granularity": 1.0,
+    "grounding": 0.0,
+    "total": 3.5,
+    "raw_evaluation": "1. 事实正确性：2.5\n2. 机制精细度：1.0\n3. 证据可追溯性：0.0\n4. 总分 = 3.5\n5. 简要理由：Metronidazole确实用于治疗Clostridium difficile感染，但不是最常用的药物。对于Helicobacter pylori感染，Metronidazole是治疗方案的一部分，但不是主要药物。答案中未提供具体的分子机制和证据来源。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 24-year-old male exhibits persistent sadness, feelings of worthlessness, anxiety, and anhedonia over the past few months, without a history of manic episodes. You decide on a recommendation for freq...",
+    "answer": "Based on the symptoms described—persistent sadness, feelings of worthlessness, anxiety, and anhedonia without any history of manic episodes—the clinical picture suggests Major Depressive Disorder. A recommended first-line treatment for this condition is the use of Selective Serotonin Reuptake Inhibi...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：1.5\n3. 证据可追溯性：0.0\n4. 总分：5.0\n5. 简要理由：答案中对 SSRIs 作为一线治疗药物的推荐是正确的，且描述了常见的副作用。然而，没有提供具体的分子机制，且缺乏任何可验证的证据来源。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 74-year-old woman with a 10-year history of intermittent lower abdominal pain, colicky in nature and relieved by passing flatus or feces, along with constipation and small pieces of feces, has had a...",
+    "answer": "Based on the clinical presentation of the 74-year-old woman, it is highly suggestive of a chronic condition such as diverticular disease, possibly complicated by a fibrotic stricture or chronic inflammation. Given the symptoms and the findings from the examination and imaging, there are a few surgic...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：1.5\n3. 证据可追溯性：0.0\n4. 总分：5.0\n5. 简要理由：答案中的手术选项和适应症基本正确，但缺乏具体的分子机制和证据支持。机制描述较为宏观，未涉及分子层面的细节。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 27-year-old man presents to the outpatient clinic with a swollen and painful toe. The pain intensity increased further after he went to a party last night. Which of the following is the drug of choi...",
+    "answer": "The best choice for treating an acute gout attack among the options provided is D. Indomethacin. Indomethacin is a non-steroidal anti-inflammatory drug (NSAID) commonly used to reduce the pain and swelling associated with gout flares. Other options listed, such as Aspirin, Probenecid, and Allopurino...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.0\n3. 证据可追溯性：0.0\n4. 总分 = 5.5\n5. 简要理由：答案中关于 Indomethacin 用于急性痛风发作的治疗是正确的，但对其他药物的描述略显简略，未提供具体机制。答案未提供任何可验证的证据来源。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 58-year-old man with no prior cardiac history presents with retrosternal chest pain starting at rest and lasting 30 minutes. The pain radiates to the left arm and is associated with diaphoresis and ...",
+    "answer": "The symptoms described in the scenario—retrosternal chest pain radiating to the left arm, associated with sweating and difficulty breathing—strongly suggest a possible acute coronary syndrome (ACS), such as a myocardial infarction. In this clinical context, the most immediate and crucial investigati...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：4.0\n2. 机制精细度：2.0\n3. 证据可追溯性：0.0\n4. 总分 = 6.0\n5. 简要理由：答案正确，描述了典型的ACS症状和ECG的必要性。机制精细度较低，因为没有详细描述ECG的具体作用机制。没有提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A new diagnostic test for detecting trisomy 21 (Down's syndrome) was given to 500 at-risk women. From the test, 100 women with trisomy 21 tested positive, and 100 women with trisomy 21 tested negative...",
+    "answer": "The sensitivity of the test is 50%. This is calculated by dividing the number of true positives (100 women with trisomy 21 who tested positive) by the total number of actual cases of trisomy 21 (200 women, which includes both the 100 true positives and the 100 false negatives). Thus, the sensitivity...",
+    "factuality": 4.0,
+    "granularity": 0.0,
+    "grounding": 0.0,
+    "total": 4.0,
+    "raw_evaluation": "1. 事实正确性：4.0\n2. 机制精细度：0.0\n3. 证据可追溯性：0.0\n4. 总分 = 4.0\n5. 简要理由：答案中的计算和解释完全正确，但该问题与药物-靶点作用机制无关，因此机制精细度和证据可追溯性均为0。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 45-year-old woman with rheumatoid arthritis presents with a 4-month history of gradually worsening wrist pain localized to the radial side of her right wrist. Exam findings include tenderness in the...",
+    "answer": "Based on the symptoms and exam findings you provided, the condition most likely affecting the patient is De Quervain's tenosynovitis. This condition typically involves the abductor pollicis longus (APL) and the extensor pollicis brevis (EPB), tendons located within the first dorsal compartment of th...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.0\n3. 证据可追溯性：0.0\n4. 总分：5.5\n5. 简要理由：答案中提到的De Quervain's tenosynovitis及其涉及的肌肉（APL和EPB）是正确的，但未提供具体证据支持。机制描述较为简略，仅说明了肌肉受累，未详细描述分子机制。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 7-year-old boy presents with conjunctivitis, cervical lymphadenopathy, cough, and a dark red rash that started around his face and spread to his body. He also had small whitish-blue papules over the...",
+    "answer": "Based on the symptoms and history provided, the 7-year-old boy is exhibiting signs of measles. The conjunctivitis, cervical lymphadenopathy, cough, and specific pattern of the rash, along with the presence of Koplik spots in the mouth, are classic indicators of this viral infection. Given this diagn...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.0\n3. 证据可追溯性：0.0\n4. 总分 = 5.5\n5. 简要理由：答案中对症状和诊断的描述基本正确，但提到的SSPE风险主要基于假设（即如果孩子在非常年轻时得过麻疹），缺乏具体证据支持。机制描述较为宏观，未涉及具体分子机制。没有提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "Normal female, whose father was color blind married a normal man. What are the chances of color blindness in son\nA. 25%\nB. 50%\nC. 75%\nD. No chance",
+    "answer": "Based on the genetics of color blindness, which is a sex-linked trait carried on the X chromosome, the son's likelihood of being color blind is 50%. The mother is a carrier because she has one X chromosome with the color blindness gene (from her father) and one normal X chromosome. The son inherits ...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.5,
+    "raw_evaluation": "1. 事实正确性：4.0\n2. 机制精细度：2.5\n3. 证据可追溯性：0.0\n4. 总分 = 6.5\n5. 简要理由：事实正确性高，机制描述较为准确，但缺少具体的分子机制细节。没有提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 35-year-old man working in a shipyard presents with an acute episode of sharp pain in his left big toe, which he has experienced before following heavy drinking. The pain did not subside with the us...",
+    "answer": "In this scenario, given that the patient has not responded to acetaminophen and ibuprofen, the next best therapeutic step would be to start him on naproxen. Naproxen is another nonsteroidal anti-inflammatory drug (NSAID) that may provide effective relief for acute gout attacks when ibuprofen fails t...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：1.5\n3. 证据可追溯性：0.0\n4. 总分：5.0\n5. 简要理由：答案中提到的药物选择（naproxen）是合理的，但未详细说明其作用机制。没有提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "In the circulatory system of the upper limb, which specific aery located at the outer border of the first rib does not contribute to maintaining the circulation to the upper limb?",
+    "answer": "The artery in question, located at the outer border of the first rib and not contributing to the circulation of the upper limb, is the superior thoracic artery. Although it originates from the initial part of the axillary artery, it primarily supplies the upper regions of the chest wall rather than ...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.0\n3. 证据可追溯性：0.0\n4. 总分 = 5.5\n5. 简要理由：事实基本正确，但未提供具体证据支持。机制描述较为笼统，仅说明了动脉的功能变化。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A young lady presents with a complaint of copious vaginal discharge and no cervical discharge upon examination. Considering this clinical presentation, what combination of medications should be provid...",
+    "answer": "Based on the clinical presentation of copious vaginal discharge without cervical discharge, a strategy that covers the most likely causes—bacterial vaginosis and trichomoniasis—could involve prescribing metronidazole. Metronidazole is effective for both conditions, addressing the primary concerns in...",
+    "factuality": 3.0,
+    "granularity": 1.0,
+    "grounding": 0.0,
+    "total": 4.0,
+    "raw_evaluation": "1. 事实正确性：3.0\n2. 机制精细度：1.0\n3. 证据可追溯性：0.0\n4. 总分：4.0\n5. 简要理由：答案中提到的药物和适应症基本正确，但缺乏详细的机制描述。没有提供任何可验证的证据来源。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 34-year-old woman with a history of recurrent spontaneous abortions between the 8th and 10th weeks of gestation and a violaceous, reticular rash on the lower extremities is found to have thrombocyto...",
+    "answer": "The clinical scenario described is highly suggestive of antiphospholipid syndrome (APS), given the patient's history of recurrent miscarriages, the presence of a violaceous reticular rash (likely livedo reticularis), thrombocytopenia, and positive anti-beta 2 glycoprotein-1 antibodies.\n\nIn such case...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.0\n3. 证据可追溯性：0.0\n4. 总分：5.5\n5. 简要理由：答案中的核心机制和治疗建议基本正确，但对具体分子机制的描述不够精细，且未提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "What are the three main vertical pillars of trajectories of force arising from the alveolar process and ending in the base of the skull?",
+    "answer": "The three main vertical pillars that describe the trajectories of force arising from the alveolar process and extending to the base of the skull are commonly referred to as:\n\n1. **Canine Pillar**: This pillar starts at the alveolar process around the canine teeth and extends vertically to the base o...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.5,
+    "raw_evaluation": "1. 事实正确性：4.0\n2. 机制精细度：2.5\n3. 证据可追溯性：0.0\n4. 总分：6.5\n5. 简要理由：答案中的三个支柱及其描述均正确，但机制精细度略显不足，未详细说明每个支柱的具体解剖结构和功能变化。此外，答案中没有提供任何可验证的证据来源。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 20-year-old woman reports to student health complaining of 5 days of viral symptoms including sneezing and a runny nose. She started coughing 2 days ago and is seeking cough medication. She addition...",
+    "answer": "A. Anterior hypothalamus\n\nThe anterior hypothalamus is the part of the brain responsible for regulating body temperature through warm-sensitive neurons. When an infection occurs, pyrogens, which are substances produced by the body in response to infection, act on the anterior hypothalamus to raise t...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.5,
+    "raw_evaluation": "1. 事实正确性：4.0\n2. 机制精细度：2.5\n3. 证据可追溯性：0.0\n4. 总分：6.5\n5. 简要理由：事实描述准确，机制解释较为完整，但缺少具体细节如特定的分子机制。没有提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 69-year-old woman with a history of stage IV colon cancer and COPD presents with cough, dyspnea, fever, low blood pressure, and hypoxia. Her chest X-ray shows a left upper-lobe infiltrate, and Gram ...",
+    "answer": "Given the clinical presentation and the Gram stain results, the most appropriate pharmacotherapy to initiate for this patient is cefepime combined with levofloxacin. This combination provides effective coverage against Pseudomonas aeruginosa, as indicated by the presence of gram-negative, oxidase-po...",
+    "factuality": 3.5,
+    "granularity": 1.0,
+    "grounding": 0.0,
+    "total": 4.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：1.0\n3. 证据可追溯性：0.0\n4. 总分 = 4.5\n5. 简要理由：答案中的药物选择基本正确，但未提供具体机制细节。没有提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 49-year-old man with hepatitis C infection begins treatment with pegylated interferon and oral ribavirin. During the treatment, what is the most likely side effect he might experience due to ribavir...",
+    "answer": "The most likely side effect this 49-year-old man might experience due to ribavirin treatment is hemolytic anemia. Ribavirin is well-known for causing this condition, which involves the destruction of red blood cells at a rate faster than they can be produced, leading to anemia. This side effect is p...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.0\n3. 证据可追溯性：0.0\n4. 总分 = 5.5\n5. 简要理由：事实正确性较高，但未提供具体证据支持；机制精细度较好，描述了红细胞破坏和贫血的关系，但缺乏更详细的分子机制；证据可追溯性为零，没有提供任何可验证的证据。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 44-year-old homeless man with acute intoxication is brought to the emergency department presenting with blurry vision and altered laboratory values, including a low bicarbonate level, suggesting a p...",
+    "answer": "The most appropriate initial treatment for a suspected methanol poisoning, given the symptoms of blurry vision and metabolic acidosis, is to administer fomepizole. Fomepizole acts as a competitive inhibitor of alcohol dehydrogenase, the enzyme responsible for metabolizing methanol into its toxic met...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 0.0,
+    "total": 7.0,
+    "raw_evaluation": "1. 事实正确性：4.0\n2. 机制精细度：3.0\n3. 证据可追溯性：0.0\n4. 总分 = 7.0\n5. 简要理由：答案中核心机制描述完全正确，详细说明了 fomepizole 通过抑制酒精脱氢酶来阻止甲醇代谢为有毒的甲酸。然而，答案中未提供任何可验证的证据来源。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A couple has 2 children but now they are uable to conceive. The father is diagnosed to be having hypogonadotrophic hypogonadism. Which of the following is false:\nA. Low LH and FSH\nB. Normal testostero...",
+    "answer": "The false statement regarding hypogonadotrophic hypogonadism is:\n\nB. Normal testosterone\n\nIn this condition, due to the low levels of LH and FSH (which are responsible for stimulating testosterone production in the testes), you would expect testosterone levels to be low rather than normal.",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：4.0\n2. 机制精细度：2.0\n3. 证据可追溯性：0.0\n4. 总分 = 6.0\n5. 简要理由：事实正确性高，解释了低LH和FSH导致睾酮水平降低的机制。机制精细度一般，仅说明了睾酮水平的变化，未详细描述分子机制。无任何可验证的证据来源。",
+    "source": "medical-o1-reasoning-SFT"
+  },
+  {
+    "question": "A 37-year-old small business manager suffers a gunshot wound in the pelvic cavity that results in a lesion of the sacral splanchnic nerves. Which type of nerve fibers are primarily affected by this in...",
+    "answer": "The injury to the sacral splanchnic nerves primarily affects preganglionic sympathetic fibers. These nerves are part of the sympathetic nervous system, originating from the sacral sympathetic trunk, and are responsible for carrying sympathetic fibers to pelvic organs. This means that the lesion disr...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：3.5\n2. 机制精细度：2.0\n3. 证据可追溯性：0.0\n4. 总分 = 5.5\n5. 简要理由：事实基本正确，但未提供具体证据支持。机制描述较为宏观，缺少具体的分子或细胞层面的细节。",
+    "source": "medical-o1-reasoning-SFT"
+  }
+]

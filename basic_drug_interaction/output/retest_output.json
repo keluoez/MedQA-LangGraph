@@ -1,0 +1,50 @@
+[
+  {
+    "question": "What is the mechanism by which Metformin affects AMPK?",
+    "answer": "【Core Conclusion】Metformin activates AMPK, a key regulator of cellular energy metabolism, although the direct biochemical mechanism (e.g., whether it acts as an agonist or allosteric modulator) is not explicitly detailed in the provided evidence. Activation of AMPK by metformin is associated with various downstream effects, including the inhibition of energy-consuming processes and the activation of energy-producing pathways.\n\n【Protein Information】The protein is 5'-AMP-activated protein kinase catalytic subunit alpha-1 (UniProt ID: Q13131). The drug is Metformin (ChEMBL ID: CHEMBL1431).\n\n【Condition】The condition involves various pathological states, including type 2 diabetes, liver cancer, inflammation, and bacterial infections such as E. coli-induced mastitis. Metformin's activation of AMPK is implicated in its therapeutic effects across these conditions.\n\n【Clinical Significance】Activation of AMPK by metformin has significant clinical implications, including the regulation of cellular energy metabolism, inhibition of tumor growth and inflammation, and potential therapeutic benefits in conditions like liver cancer and E. coli-induced mastitis.\n\n【Evidence】The evidence from the provided PMIDs suggests that metformin activates the AMPK pathway, which is involved in various cellular processes, including energy metabolism, inflammation, and cell growth. Specifically, PMID:41783405 discusses metformin's role in inhibiting liver cancer through the AMPK pathway. PMID:41890816 highlights metformin's anti-inflammatory effects via the AMPK pathway, among others. PMID:41790864 demonstrates metformin's ability to combat E. coli-induced mastitis through mechanisms involving AMPK/SIRT1-mediated NF-κB inhibition. These studies collectively support the notion that metformin exerts its effects, at least in part, through the activation of AMPK. Direct experimental evidence linking metformin to AMPK activation is supported by these PMIDs. PMID:41783405; PMID:41890816; PMID:41790864",
+    "category": "Basic-Drug Interaction",
+    "drug": "Metformin",
+    "protein": "AMPK",
+    "uniprot_id": "Q13131",
+    "quality_score": 10.0,
+    "quality_log": {
+      "last_route": "pass",
+      "correction_count": 0,
+      "subscores": {
+        "factuality_base": 4.0,
+        "factuality_llm_raw": 3.0,
+        "factuality_effective": 4.0,
+        "grounding_llm_raw": 3.0,
+        "format_llm_raw": 2.0,
+        "consistency_llm_raw": 1.0
+      },
+      "errors": [],
+      "critical_errors": []
+    },
+    "elapsed_seconds": 21.47
+  },
+  {
+    "question": "What is the mechanism by which ATENOLOL affects Beta-1 adrenergic receptor?",
+    "answer": "【Core Conclusion】ATENOLOL acts as an antagonist of the Beta-1 adrenergic receptor, preventing the activation of adenylate cyclase and the subsequent cAMP-dependent pathway.\n\n【Protein Information】The protein is Beta-1 adrenergic receptor with UniProt ID B0LPE2. The drug is ATENOLOL.\n\n【Condition】The condition involves the Beta-1 adrenergic receptor's role in the sympathetic nervous system, particularly in regulating cardiac functions.\n\n【Clinical Significance】The antagonism of Beta-1 adrenergic receptor by ATENOLOL is significant in managing cardiac conditions by reducing the effects of catecholamines like epinephrine and norepinephrine on the heart.\n\n【Evidence】The evidence supporting ATENOLOL's mechanism as an antagonist of Beta-1 adrenergic receptor includes a competitive-binding assay that monitored the binding of ATENOLOL to the receptor (PMID:23180677). Additionally, atenolol's effect on myocardial cyclic AMP and vulnerability to fibrillation after coronary artery ligation suggests its action as a beta-1 adrenergic receptor antagonist (PMID:6275992). These studies demonstrate ATENOLOL's interaction with Beta-1 adrenergic receptor and its pharmacological consequences. PMID:23180677; PMID:6275992",
+    "category": "Basic-Drug Interaction",
+    "drug": "ATENOLOL",
+    "protein": "Beta-1 adrenergic receptor",
+    "uniprot_id": "B0LPE2",
+    "quality_score": 10.0,
+    "quality_log": {
+      "last_route": "pass",
+      "correction_count": 0,
+      "subscores": {
+        "factuality_base": 4.0,
+        "factuality_llm_raw": 4.0,
+        "factuality_effective": 4.0,
+        "grounding_llm_raw": 3.0,
+        "format_llm_raw": 2.0,
+        "consistency_llm_raw": 1.0
+      },
+      "errors": [],
+      "critical_errors": []
+    },
+    "elapsed_seconds": 41.74
+  }
+]

@@ -1,0 +1,11 @@
+# BioCraft / MedQA-LangGraph 运行依赖（Python 3.11+）
+# 密钥经环境变量注入（.env，不入库），见 README.md「配置」一节
+
+langgraph>=1.1
+fastapi>=0.115
+uvicorn>=0.34
+pydantic>=2.10
+instructor>=1.17
+openai>=1.0
+requests>=2.31
+python-dotenv>=1.0

@@ -1,0 +1,1002 @@
+[
+  {
+    "question": "What is the mechanism by which Imatinib affects BCR-ABL?",
+    "answer": "【Core Conclusion】Imatinib inhibits BCR-ABL tyrosine kinase activity by binding to the ATP-binding site, thereby blocking its catalytic activity.\n\n【Protein Information】The protein is BCR-ABL (Tyrosine-protein kinase ABL1), UniProt ID: P00519.\n\n【Condition】Chronic myeloid leukemia (CML) is associated w...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 2.0,
+    "total": 8.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：2.0  \n4. 总分 = 8.5  \n5. 简要理由：核心机制完全正确，但机制描述缺少部分分子细节（如下游效应）。证据引用关联较弱，仅间接支持结论。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which Paclitaxel affects Tubulin?",
+    "answer": "【Core Conclusion】Paclitaxel stabilizes microtubules by binding to Tubulin, thereby preventing depolymerization and disrupting normal microtubule dynamics.\n\n【Protein Information】The target protein is Tubulin beta chain (UniProt ID: P07437).\n\n【Condition】The condition related to the mechanism involves ...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制（Paclitaxel稳定微管）完全正确且有充分依据（PMID:30126203和UniProt P07437），但机制描述缺少部分分子细节（如结合位点或构象变化）。证据可追溯性高，每条机制均对应具体文献或数据库条目。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which Atorvastatin affects HMGCR?",
+    "answer": "【Core Conclusion】Atorvastatin inhibits HMGCR, thereby blocking its catalytic activity in converting HMG-CoA to mevalonic acid, a rate-limiting step in cholesterol synthesis.\n\n【Protein Information】The protein is 3-hydroxy-3-methylglutaryl-coenzyme A reductase (HMGCR), UniProt ID: P04035.\n\n【Condition】...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 2.5,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：2.5  \n4. 总分 = 9.0  \n5. 简要理由：核心机制（Atorvastatin抑制HMGCR）完全正确且有充分依据（PMID:41774091和UniProt P04035）；机制描述包含分子功能变化（催化活性抑制）但缺少结构细节；证据引用明确但未逐条绑定具体机制陈述。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which Omeprazole affects H+/K+-ATPase?",
+    "answer": "【Core Conclusion】Omeprazole inhibits H+/K+-ATPase by covalently binding to cysteine residues on the enzyme, thereby irreversibly blocking its catalytic activity and reducing gastric acid secretion.\n\n【Protein Information】The protein is H+/K+-ATPase (Potassium-transporting ATPase alpha chain 1), with ...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 3.0,
+    "total": 10.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 4.0 + 3.0 + 3.0 = 10.0  \n5. 简要理由：核心机制（共价结合半胱氨酸残基导致不可逆抑制）完全正确且有充分依据；机制描述包含分子功能变化但未详细说明下游效应；每条机制均对应具体PMID和UniProt ID，证据可追溯性高。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which Metoprolol affects ADRB1?",
+    "answer": "【Core Conclusion】Metoprolol acts as an antagonist to ADRB1, blocking the action of catecholamines like epinephrine and norepinephrine, thereby inhibiting the activation of adenylate cyclase and the cAMP-dependent pathway.\n\n【Protein Information】The protein in question is ADRB1 (UniProt ID: P08588), a...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 3.0,
+    "total": 10.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 10.0  \n5. 简要理由：核心机制（拮抗ADRB1、抑制腺苷酸环化酶和cAMP通路）完全正确且有充分依据；机制描述包含分子功能变化和下游效应，但未完全展开信号通路细节；每条机制均对应具体PMID证据，可追溯性完整。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which Gefitinib affects EGFR?",
+    "answer": "【Core Conclusion】Gefitinib inhibits EGFR by blocking its tyrosine kinase activity. Studies have shown that Gefitinib acts on EGFR, and its clinical efficacy in NSCLC with EGFR mutations supports this mechanism.\n\n【Protein Information】The protein is Epidermal Growth Factor Receptor (EGFR), UniProt ID:...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 2.5,
+    "total": 8.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.0  \n3. 证据可追溯性：2.5  \n4. 总分 = 8.0  \n5. 简要理由：核心机制正确但缺少直接生化证据（PMID未明确指向机制细节）；机制描述停留在功能层面（抑制酪氨酸激酶活性），未提及其结构域或具体位点；证据充分但未逐条绑定机制描述。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which Ciprofloxacin affects DNA gyrase?",
+    "answer": "【Core Conclusion】Ciprofloxacin inhibits DNA gyrase by binding to the enzyme-DNA complex, thereby blocking its catalytic activity.\n\n【Protein Information】The target protein is DNA gyrase subunit A (UniProt ID: P0AES4).\n\n【Condition】The condition relates to bacterial infections, particularly those cause...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 3.0,
+    "total": 10.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 10.0  \n5. 简要理由：核心机制100%正确且所有陈述均有依据（PMID和UniProt）；机制描述包含作用类型和功能变化，但缺少部分下游效应的分子细节；每条机制均对应具体PMID和UniProt ID，证据可追溯性完整。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which INDAPAMIDE affects Solute carrier family 12 member 3?",
+    "answer": "【Core Conclusion】Indapamide inhibits the activity of Solute carrier family 12 member 3 (NCC) by binding to it, as revealed by cryogenic electron microscopy structures of human NCC bound to indapamide, thereby inhibiting its function as an electroneutral sodium and chloride ion cotransporter.\n\n【Prote...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 3.0,
+    "total": 10.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 10.0  \n5. 简要理由：核心机制100%正确且有明确依据（PMID:40830368）；机制描述完整，包含作用类型（抑制）、功能变化（钠氯离子共转运）和下游效应（利尿降压）；每条机制均对应具体证据（UniProt ID和PMID）。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which BICALUTAMIDE affects Androgen receptor?",
+    "answer": "【Core Conclusion】Bicalutamide acts as an antagonist of the Androgen receptor, inhibiting its activation by preventing the necessary conformational changes that allow interactions with coactivators, thereby regulating downstream signaling pathways.\n\n【Protein Information】The protein involved is the An...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制（拮抗作用及构象变化）完全正确且有充分依据（PMID引用）；机制描述接近完整但缺少部分分子细节（如具体构象变化或共激活因子名称）；每条机制均对应具体PMID证据，可追溯性高。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which ATENOLOL affects Beta-1 adrenergic receptor?",
+    "answer": "【Core Conclusion】ATENOLOL acts as an antagonist of the Beta-1 adrenergic receptor, modulating its activity.\n\n【Protein Information】The protein is Beta-1 adrenergic receptor with UniProt ID B0LPE2. The drug is ATENOLOL.\n\n【Condition】The condition involves the Beta-1 adrenergic receptor's role in the sy...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 3.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 4.0 + 2.0 + 3.0 = 9.0  \n5. 简要理由：核心机制（拮抗作用）完全正确且有充分依据；机制描述明确但缺少分子功能变化的细节；每条机制均对应具体PMID，证据可追溯性高。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which TRIMETHOPRIM affects Dihydrofolate reductase?",
+    "answer": "【Core Conclusion】TRIMETHOPRIM acts as an inhibitor of Dihydrofolate reductase (DHFR), blocking its catalytic activity.\n\n【Protein Information】The target protein is Dihydrofolate reductase (UniProt ID: P00379).\n\n【Condition】The condition related to the mechanism involves the inhibition of DHFR, which i...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 3.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 4.0 + 2.0 + 3.0 = 9.0  \n5. 简要理由：核心机制100%正确且有充分依据（PMID引用）；机制描述明确但缺少分子功能变化的细节（如结合位点或构象变化）；每条机制均对应具体PMID，证据可追溯性完整。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which ACETAZOLAMIDE affects Carbonic anhydrase 2?",
+    "answer": "【Core Conclusion】ACETAZOLAMIDE acts as an inhibitor of Carbonic anhydrase 2, thereby inhibiting its catalytic activity.\n\n【Protein Information】The target protein is Carbonic anhydrase 2 (UniProt ID: B2R7G8).\n\n【Condition】The condition involves the inhibition of Carbonic anhydrase 2 in various contexts...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制100%正确且有明确依据（4.0）；机制描述包含作用类型和功能变化，但缺少分子层面的细节（2.5）；每条机制均对应具体PMID证据（3.0）。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which AMPHETAMINE affects Sodium-dependent noradrenaline transporter?",
+    "answer": "【Core Conclusion】Amphetamine acts as a substrate for the Sodium-dependent noradrenaline transporter (NET), promoting the release of noradrenaline and increasing its levels in the synaptic cleft. Studies suggest that amphetamine's interaction with NET results in the reversal of its normal uptake func...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 3.0,
+    "total": 10.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 10.0  \n5. 简要理由：核心机制描述完全正确，包括作为NET底物和反向转运功能；机制精细度较高，但缺少部分分子细节（如具体转运动力学）；每条机制均有明确的PMID支持，证据可追溯性完整。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which AMPHETAMINE affects Sodium-dependent dopamine transporter?",
+    "answer": "【Core Conclusion】Amphetamine acts as a substrate for the Sodium-dependent dopamine transporter (A2RUN4), promoting dopamine efflux into the synaptic cleft by inducing reverse transport, thereby increasing extracellular dopamine levels.\n\n【Protein Information】The Sodium-dependent dopamine transporter ...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 3.0,
+    "total": 10.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 10.0  \n5. 简要理由：核心机制（反向转运促进多巴胺外流）完全正确且有充分依据；机制描述包含分子功能变化但缺少部分细节（如钠离子依赖性）；每条机制均对应具体PMID证据。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which ACETAZOLAMIDE affects Carbonic anhydrase 4?",
+    "answer": "【Core Conclusion】ACETAZOLAMIDE inhibits Carbonic anhydrase 4, reversing opioid-induced synaptic rearrangements.\n\n【Protein Information】The protein is Carbonic anhydrase 4 (UniProt ID: B4DQA4), and the drug is ACETAZOLAMIDE (ChEMBL ID: CHEMBL20).\n\n【Condition】The condition involves opioid-induced synap...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制100%正确且有明确依据（PMID引用），但机制描述缺少部分分子细节（如具体功能变化或下游效应）。证据可追溯性满分，每条机制均对应具体PMID。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which METHAZOLAMIDE affects Carbonic anhydrase 1?",
+    "answer": "【Core Conclusion】Methazolamide is a carbonic anhydrase inhibitor that interacts with Carbonic anhydrase 1 (CA1), as supported by studies demonstrating its inhibitory effect on CA1 activity (PMID:31354482, PMID:37717047).\n\n【Protein Information】The target protein is Carbonic anhydrase 1, with UniProt ...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制100%正确，所有陈述均有依据（PMID和UniProt ID）；机制描述接近完整，但缺少部分分子细节（如具体结合位点或构象变化）；每条机制都对应具体PMID，证据可追溯性高。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which SULFANILAMIDE affects Dihydropteroate synthase?",
+    "answer": "【Core Conclusion】SULFANILAMIDE acts as an inhibitor of Dihydropteroate synthase by targeting the enzyme essential for folic acid biosynthesis, thereby preventing the condensation of para-aminobenzoate (pABA) with 6-hydroxymethyl-7,8-dihydropterin diphosphate (DHPt-PP) to form 7,8-dihydropteroate (H2...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 3.0,
+    "total": 10.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 10.0  \n5. 简要理由：核心机制100%正确且所有陈述均有依据（PMID:41259286和UniProt P0AC13）；机制描述包含作用类型和功能变化，但缺少部分分子细节；每条机制均对应具体可验证证据。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which TROGLITAZONE affects Peroxisome proliferator-activated receptor gamma?",
+    "answer": "【Core Conclusion】Troglitazone acts as an agonist of Peroxisome proliferator-activated receptor gamma (PPARγ), activating the receptor and thereby influencing its downstream functions.\n\n【Protein Information】The target protein is Peroxisome proliferator-activated receptor gamma (UniProt ID: A8K3G6), a...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制（PPARγ激动剂作用）完全正确且有充分证据支持（PMID引用）；机制描述包含功能变化但缺少分子层面的细节（如结合位点或构象变化）；每条机制均对应具体PMID，证据可追溯性完整。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which ACETAZOLAMIDE affects Carbonic anhydrase 1?",
+    "answer": "【Core Conclusion】ACETAZOLAMIDE inhibits Carbonic anhydrase 1, thereby blocking its catalytic activity of reversible hydration of carbon dioxide.\n\n【Protein Information】The protein is Carbonic anhydrase 1, with UniProt ID P00915.\n\n【Condition】The condition is related to calcification processes, as seen...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制100%正确且有充分依据（PMID和UniProt），但机制描述缺少部分分子细节（如具体结合位点或构象变化）。证据引用完整且可验证，每条机制均有对应PMID或UniProt ID。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which CIMETIDINE affects Histamine H2 receptor?",
+    "answer": "【Core Conclusion】Cimetidine acts as an antagonist of the Histamine H2 receptor, inhibiting its activity by blocking histamine binding.\n\n【Protein Information】The target protein is Histamine H2 receptor with UniProt ID: B5BUP7. The drug is CIMETIDINE, also known as CHEMBL30.\n\n【Condition】Cimetidine is ...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 3.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.0  \n5. 简要理由：核心机制（H2受体拮抗剂）完全正确且有充分证据支持（PMID引用）；机制描述明确但缺少分子层面的细节（如结合位点或构象变化）；每条机制均对应具体PMID，证据可追溯性高。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which PRACTOLOL affects Beta-1 adrenergic receptor?",
+    "answer": "【Core Conclusion】Practolol acts as an antagonist of the Beta-1 adrenergic receptor, inhibiting its activity.\n\n【Protein Information】The target protein is Beta-1 adrenergic receptor with UniProt ID B0LPE2. The drug is PRACTOLOL.\n\n【Condition】The condition related to Beta-1 adrenergic receptor involves ...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 3.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.0  \n5. 简要理由：核心机制（拮抗作用）100%正确且有明确依据（PMID:2843784）；机制描述包含分子功能变化（抑制受体活性），但未提及其下游效应；每条机制均对应具体PMID，证据可追溯性完整。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which SULFAMETHOXAZOLE affects Dihydropteroate synthase?",
+    "answer": "【Core Conclusion】SULFAMETHOXAZOLE inhibits Dihydropteroate synthase by acting as a competitive inhibitor against para-aminobenzoate (pABA), thereby preventing the condensation of pABA with 6-hydroxymethyl-7,8-dihydropterin diphosphate (DHPt-PP) to form 7,8-dihydropteroate (H2Pte).\n\n【Protein Informat...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 2.5,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：2.5  \n4. 总分 = 9.5  \n5. 简要理由：核心机制100%正确且详细（竞争性抑制pABA），但证据引用未完全逐条绑定（仅PMID:25997881直接支持）。机制描述完整但缺少部分分子细节（如结合位点）。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which PYRIMETHAMINE affects Bifunctional dihydrofolate reductase-thymidylate synthase?",
+    "answer": "【Core Conclusion】Pyrimethamine inhibits the bifunctional dihydrofolate reductase-thymidylate synthase by targeting its dihydrofolate reductase (DHFR) activity, as supported by studies on antimalarial drug interactions and resistance (PMID:40832414).\n\n【Protein Information】The target protein is Bifunc...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制100%正确且明确指向DHFR活性（4.0分）；机制描述包含作用类型和功能变化，但缺少下游效应的细节（2.5分）；每条机制均对应PMID和UniProt ID，证据可验证（3.0分）。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which HYDROCHLOROTHIAZIDE affects Solute carrier family 12 member 3?",
+    "answer": "【Core Conclusion】HYDROCHLOROTHIAZIDE acts as an inhibitor of Solute carrier family 12 member 3 (NCC), thereby blocking its electroneutral sodium and chloride ion cotransport activity.\n\n【Protein Information】The target protein is Solute carrier family 12 member 3 (UniProt ID: A8MSJ2), and the drug is ...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 3.0,
+    "total": 10.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 10.0  \n5. 简要理由：核心机制100%正确且所有陈述均有依据（PMID引用）；机制描述包含分子功能变化但未详细说明下游效应；每条机制均对应具体PMID，证据可追溯性完整。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which TOLRESTAT affects Aldo-keto reductase family 1 member B1?",
+    "answer": "【Core Conclusion】TOLRESTAT is known to inhibit Aldo-keto reductase family 1 member B1 (AKR1B1). Studies directly on AKR1B1 indicate that TOLRESTAT acts as an inhibitor, although the specific mechanism (competitive or noncompetitive) can vary.\n\n【Protein Information】The protein is Aldo-keto reductase ...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 3.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.0  \n5. 简要理由：核心机制完全正确且有明确依据（PMID引用），但机制描述未细化到竞争性或非竞争性抑制的分子细节，证据部分每条机制均对应具体PMID，可追溯性强。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which SULFADIAZINE affects Dihydropteroate synthase?",
+    "answer": "【Core Conclusion】SULFADIAZINE acts as an inhibitor of Dihydropteroate synthase by inhibiting its catalytic activity.\n\n【Protein Information】The protein is Dihydropteroate synthase (UniProt ID: P0AC13), and the drug is SULFADIAZINE.\n\n【Condition】The condition related to Dihydropteroate synthase inhibit...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 3.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.0  \n5. 简要理由：核心机制100%正确且有充分依据（4.0）；机制描述包含分子功能变化但未详细说明催化抑制的具体过程（2.0）；每条机制均对应具体PMID，证据可追溯性完整（3.0）。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which CLOZAPINE affects 5-hydroxytryptamine receptor 2A?",
+    "answer": "【Core Conclusion】Clozapine acts as an antagonist or inverse agonist on the 5-hydroxytryptamine receptor 2A, leading to its downregulation.\n\n【Protein Information】The target protein is 5-hydroxytryptamine receptor 2A (UniProt ID: B2RAC5), a G-protein coupled receptor for serotonin. The drug in questio...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制（拮抗/反向激动作用及下调效应）100%正确且有充分依据；机制描述包含分子功能变化但未明确下游效应；每条机制均对应具体PMID证据，可追溯性完整。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which CLOZAPINE affects D(2) dopamine receptor?",
+    "answer": "【Core Conclusion】Clozapine acts as an antagonist of the D(2) dopamine receptor, as evidenced by its ability to potentiate latent inhibition in wild-type mice but not in D(2) receptor-deficient mice, suggesting that its effect is mediated through the D(2) receptor [PMID:25122042].\n\n【Protein Informati...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制100%正确且有充分依据（PMID:25122042, PMID:38442497），但机制描述缺少部分分子细节（如结合位点或构象变化）。证据可追溯性完美，每条机制均对应具体PMID。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which FUROSEMIDE affects Solute carrier family 12 member 1?",
+    "answer": "【Core Conclusion】Furosemide inhibits the activity of Solute carrier family 12 member 1 (SLC12A1), a renal sodium, potassium, and chloride non-electrogenic ion symporter, thereby blocking its ion transport function.\n\n【Protein Information】The target protein is Solute carrier family 12 member 1 (UniPro...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 3.0,
+    "total": 10.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 10.0  \n5. 简要理由：核心机制100%正确且有充分依据（PMID:11249848和PMID:31365295直接支持）；机制描述包含作用类型和功能变化，但未详细说明下游效应；每条机制均对应具体PMID，证据可追溯性完整。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which SULFACETAMIDE affects Dihydropteroate synthase?",
+    "answer": "【Core Conclusion】SULFACETAMIDE acts as an inhibitor of Dihydropteroate synthase by competing with its substrate, para-aminobenzoic acid (pABA), thereby inhibiting the enzyme's activity.\n\n【Protein Information】The target protein is Dihydropteroate synthase (UniProt ID: P0AC13), and the drug is SULFACE...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 2.5,
+    "total": 8.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：2.5  \n4. 总分 = 8.5  \n5. 简要理由：核心机制正确且基于同类药物研究（PMID支持），但未直接引用SULFACETAMIDE的实验数据；机制描述包含竞争性抑制但缺少结构细节；证据关联合理但未完全绑定到具体药物。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which NEVIRAPINE affects Human immunodeficiency virus type 1 reverse transcriptase?",
+    "answer": "【Core Conclusion】NEVIRAPINE acts as a non-nucleoside reverse transcriptase inhibitor (NNRTI) that binds to Human immunodeficiency virus type 1 reverse transcriptase, affecting its activity.\n\n【Protein Information】The target protein is Human immunodeficiency virus type 1 reverse transcriptase with Uni...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制完全正确且有充分依据（PMID引用），但机制描述缺少部分分子细节（如具体抑制方式）；证据明确且每条机制对应具体PMID。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which DRONABINOL affects Cannabinoid receptor 1?",
+    "answer": "【Core Conclusion】Dronabinol acts as an agonist of Cannabinoid receptor 1, activating the receptor and subsequently reducing cyclic AMP, which mediates various cannabinoid-induced effects.\n\n【Protein Information】The target protein is Cannabinoid receptor 1 (UniProt ID: B2R9T4), and the drug is DRONABI...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制（激动剂作用及cAMP减少）完全正确且有充分依据；机制描述包含分子功能变化但缺少下游效应细节；每条机制均对应具体PMID和UniProt ID，证据可验证。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which ONDANSETRON affects 5-hydroxytryptamine receptor 3A?",
+    "answer": "【Core Conclusion】Ondansetron acts as an antagonist of the 5-hydroxytryptamine receptor 3A, blocking the serotonin-activated cation-selective channel complex.\n\n【Protein Information】The target protein is 5-hydroxytryptamine receptor 3A (UniProt ID: B4DSY6).\n\n【Condition】The condition being treated invo...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制100%正确且所有陈述均有依据（PMID引用）；机制描述包含作用类型和功能变化，但缺少下游效应细节；每条机制均对应具体PMID证据，可追溯性完整。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which SULFISOXAZOLE affects Dihydropteroate synthase?",
+    "answer": "【Core Conclusion】SULFISOXAZOLE acts as an inhibitor of Dihydropteroate synthase by antagonizing its activity, likely through competing with para-aminobenzoate (pABA) for the enzyme's active site, thereby preventing the condensation reaction necessary for folate synthesis.\n\n【Protein Information】The t...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 3.0,
+    "total": 10.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 10.0  \n5. 简要理由：核心机制100%正确，明确描述了SULFISOXAZOLE通过竞争性抑制Dihydropteroate synthase的活性位点来阻止叶酸合成；机制精细度较高，但缺少部分分子细节；每条机制都有对应的PMID证据支持，可追溯性满分。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which HALOPERIDOL affects 5-hydroxytryptamine receptor 2A?",
+    "answer": "【Core Conclusion】Haloperidol acts as an antagonist to 5-hydroxytryptamine receptor 2A.\n\n【Protein Information】The protein is 5-hydroxytryptamine receptor 2A with UniProt ID B2RAC5.\n\n【Condition】The condition related to the protein and drug interaction involves psychiatric disorders, such as schizophre...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 3.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.0  \n5. 简要理由：核心机制（拮抗作用）100%正确且有充分依据；机制描述明确但缺少分子功能变化和下游效应的细节；每条机制均对应具体PMID，证据可追溯性完整。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which ISONIAZID affects Enoyl-[acyl-carrier-protein] reductase [NADH]?",
+    "answer": "【Core Conclusion】ISONIAZID acts as an inhibitor of Enoyl-[acyl-carrier-protein] reductase [NADH] (InhA) after activation, though the direct biochemical consequence is not explicitly detailed in the provided evidence. The inhibition is suggested through interactions with the catalytic triad of InhA.\n...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 3.0,
+    "total": 8.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 8.5  \n5. 简要理由：核心机制正确且有依据（3.5分），但分子功能变化描述不够精细（2.0分），每条机制均对应PMID（3.0分）。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which DOFETILIDE affects Voltage-gated inwardly rectifying potassium channel KCNH2?",
+    "answer": "【Core Conclusion】Dofetilide inhibits the Voltage-gated inwardly rectifying potassium channel KCNH2 by blocking its channel activity, a mechanism supported by its known pharmacological action as a specific KCNH2 blocker.\n\n【Protein Information】The target protein is Voltage-gated inwardly rectifying po...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 2.5,
+    "total": 8.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.0  \n3. 证据可追溯性：2.5  \n4. 总分 = 8.0  \n5. 简要理由：核心机制正确（KCNH2抑制），但缺少分子细节（如结合位点或构象变化）。证据引用充分但未逐条绑定具体机制，PMID提供了相关背景但未直接说明抑制机制。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which SULFAMETHAZINE affects Dihydropteroate synthase?",
+    "answer": "【Core Conclusion】SULFAMETHAZINE inhibits Dihydropteroate synthase by competing with para-aminobenzoate (pABA) for the enzyme's active site, thereby blocking the synthesis of 7,8-dihydropteroate, a crucial step in folate synthesis.\n\n【Protein Information】The target protein is Dihydropteroate synthase ...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 3.0,
+    "total": 10.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 4.0 + 3.0 + 3.0 = 10.0  \n5. 简要理由：核心机制100%正确且有充分依据（PMID:2298911等）；机制描述完整（竞争性抑制+功能变化+下游效应）；每条机制均对应具体PMID和UniProt ID。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which GEMFIBROZIL affects Peroxisome proliferator-activated receptor alpha?",
+    "answer": "【Core Conclusion】Gemfibrozil acts as an activator of Peroxisome proliferator-activated receptor alpha (PPARα), enhancing its transcriptional activity, as supported by its known mechanism of action as a fibrate.\n\n【Protein Information】The target protein is Peroxisome proliferator-activated receptor al...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制100%正确且所有陈述均有依据（PMID:27462272和UniProt ID: B0G0X3），但机制描述缺少部分分子细节（如具体转录调控路径）。证据可追溯性优秀，每条机制均对应具体引用。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which RISPERIDONE affects 5-hydroxytryptamine receptor 2A?",
+    "answer": "【Core Conclusion】Risperidone acts as an antagonist or inhibitor of the 5-hydroxytryptamine receptor 2A (HTR2A), blocking its activity.\n\n【Protein Information】The protein is 5-hydroxytryptamine receptor 2A (UniProt ID: B2RAC5), and the drug is Risperidone (ChEMBL ID: CHEMBL85).\n\n【Condition】The conditi...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 3.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.0  \n5. 简要理由：核心机制（拮抗HTR2A）完全正确且有明确依据（PMID:39405910）；机制描述包含分子功能变化但未细化到下游效应；每条机制均对应具体证据（PMID和UniProt）。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which AMINOGLUTETHIMIDE affects Cholesterol side-chain cleavage enzyme, mitochondrial?",
+    "answer": "【Core Conclusion】AMINOGLUTETHIMIDE inhibits Cholesterol side-chain cleavage enzyme, mitochondrial (CYP11A1), thereby blocking the conversion of cholesterol to pregnenolone.\n\n【Protein Information】The target protein is Cholesterol side-chain cleavage enzyme, mitochondrial (UniProt ID: A8K8D5), a cytoc...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.0  \n5. 简要理由：核心机制正确且有明确依据（PMID:28410883），但存在细胞类型差异的补充说明（PMID:35688208），扣0.5分；机制描述完整但缺少部分分子细节；每条机制均对应具体PMID，但未完全逐条绑定。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which ILOPROST affects Prostacyclin receptor?",
+    "answer": "【Core Conclusion】Iloprost acts as an agonist of the Prostacyclin receptor (IP receptor), activating it and thereby elevating cyclic AMP levels through G(s) proteins which activate adenylate cyclase.\n\n【Protein Information】The target protein is the Prostacyclin receptor (UniProt ID: P43119), and the d...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 3.0,
+    "total": 10.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 10.0  \n5. 简要理由：核心机制完全正确，包括IP受体激活、G(s)蛋白介导的腺苷酸环化酶激活及cAMP水平升高；机制描述完整但缺少部分下游效应的细节；每条机制均有明确的PMID和UniProt证据支持。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which HEXACHLOROPHENE affects Enoyl-[acyl-carrier-protein] reductase [NADH] FabI?",
+    "answer": "【Core Conclusion】HEXACHLOROPHENE inhibits Enoyl-[acyl-carrier-protein] reductase [NADH] FabI. The inhibition is related to its interaction with the enzyme, particularly in the presence of NADH or NAD+, suggesting that the E-NADH or E-NAD+ complex may be involved in the binding of HEXACHLOROPHENE.\n\n【...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制100%正确且有明确依据（PMID:11368521和PMID:10671494），但机制描述缺少部分分子细节（如具体结合位点或构象变化）。证据可追溯性优秀，每条机制均对应具体PMID。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which ALPROSTADIL affects Prostaglandin E2 receptor EP2 subtype?",
+    "answer": "【Core Conclusion】ALPROSTADIL acts as an agonist on the Prostaglandin E2 receptor EP2 subtype, activating it and subsequently stimulating adenylate cyclase through G(s) proteins, leading to an increase in intracellular cAMP.\n\n【Protein Information】The protein in question is Prostaglandin E2 receptor E...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 3.0,
+    "total": 10.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 10.0  \n5. 简要理由：核心机制完全正确，包括作用类型（agonist）、功能变化（激活G(s)蛋白和腺苷酸环化酶）和下游效应（cAMP增加）。证据充分且每条机制都有对应的UniProt和PMID引用，可追溯性强。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which AMINOGLUTETHIMIDE affects Aromatase?",
+    "answer": "【Core Conclusion】AMINOGLUTETHIMIDE inhibits Aromatase by interfering with its enzymatic activity, thereby reducing estrogen biosynthesis.\n\n【Protein Information】The protein is Aromatase, with UniProt ID P11511.\n\n【Condition】AMINOGLUTETHIMIDE is used in the treatment of estrogen-dependent breast cancer...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 3.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.0  \n5. 简要理由：核心机制100%正确且有明确依据（PMID:17602675），但机制描述仅说明抑制酶活性，未涉及具体分子细节（如结合位点或结构变化）。证据可追溯性满分，每条机制均对应具体PMID。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which RISPERIDONE affects D(2) dopamine receptor?",
+    "answer": "【Core Conclusion】Risperidone acts as an antagonist of the D(2) dopamine receptor, binding to the receptor and inhibiting its activity.\n\n【Protein Information】The protein in question is the D(2) dopamine receptor, with UniProt ID P14416.\n\n【Condition】The condition related to the D(2) dopamine receptor ...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 3.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.0  \n5. 简要理由：核心机制（拮抗D2受体）完全正确且有明确依据（PMID:36545576）；机制描述包含分子功能变化但未提及其下游效应；证据直接绑定具体研究（PMID）和UniProt ID（P14416）。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which TIMOLOL affects Beta-1 adrenergic receptor?",
+    "answer": "【Core Conclusion】Timolol acts as an antagonist to the Beta-1 adrenergic receptor, blocking its activation by catecholamines.\n\n【Protein Information】The protein in question is the Beta-1 adrenergic receptor, with UniProt ID B0LPE2. The drug is Timolol.\n\n【Condition】The condition related to the Beta-1 a...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 3.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.0  \n5. 简要理由：核心机制100%正确且有充分依据（4.0）；机制描述明确但缺少分子功能变化细节（2.0）；每条机制均对应具体PMID（3.0）。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which ETORICOXIB affects Prostaglandin G/H synthase 2?",
+    "answer": "【Core Conclusion】Etoricoxib inhibits Prostaglandin G/H synthase 2 (PTGS2), also known as COX-2, thereby blocking its cyclooxygenase activity and reducing the production of prostanoids, which are involved in the inflammatory response.\n\n【Protein Information】The target protein is Prostaglandin G/H synt...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 3.0,
+    "total": 10.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 4.0 + 3.0 + 3.0 = 10.0  \n5. 简要理由：核心机制（COX-2抑制及下游效应）完全正确且有充分依据；机制描述包含分子功能变化但未深入下游信号细节；每条机制均对应具体PMID证据，可追溯性完整。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which RISPERIDONE affects 5-hydroxytryptamine receptor 2C?",
+    "answer": "【Core Conclusion】RISPERIDONE acts as an antagonist to 5-hydroxytryptamine receptor 2C, modulating its activity.\n\n【Protein Information】The target protein is 5-hydroxytryptamine receptor 2C (UniProt ID: B1AMW4), a G-protein coupled receptor for serotonin.\n\n【Condition】The condition related to this inte...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 3.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.0  \n5. 简要理由：核心机制（拮抗作用）100%正确且有充分依据（PMID和UniProt引用）；机制描述包含分子功能变化但未详细说明下游效应；每条机制均对应具体证据（PMID和UniProt ID）。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which TIMOLOL affects Beta-2 adrenergic receptor?",
+    "answer": "【Core Conclusion】Timolol acts as an antagonist to the Beta-2 adrenergic receptor, inhibiting its activity. This inhibition prevents the receptor's coupling to its downstream signaling pathways, thereby impeding the PKA-induced effects.\n\n【Protein Information】The protein in question is the Beta-2 adre...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制完全正确且有充分依据（PMID引用）；机制描述包含作用类型和下游效应，但缺少部分分子细节（如具体信号通路变化）；每条机制均对应具体PMID，证据可追溯性高。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which PINDOLOL affects Beta-1 adrenergic receptor?",
+    "answer": "【Core Conclusion】Pindolol acts as an antagonist or partial agonist on the Beta-1 adrenergic receptor, inducing an inactive state of the receptor.\n\n【Protein Information】The protein is Beta-1 adrenergic receptor with UniProt ID B0LPE2.\n\n【Condition】The condition related to Beta-1 adrenergic receptor in...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制完全正确且有明确依据（PMID:33348734），但机制描述缺少部分分子细节（如下游效应）。证据可追溯性优秀，每条机制均对应具体文献。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which ZILEUTON affects Polyunsaturated fatty acid 5-lipoxygenase?",
+    "answer": "【Core Conclusion】ZILEUTON inhibits Polyunsaturated fatty acid 5-lipoxygenase, thereby blocking its catalytic activity in the oxygenation of arachidonate to 5-hydroperoxyeicosatetraenoate (5-HPETE) and subsequent dehydration to Leukotriene A4/LTA4.\n\n【Protein Information】The target protein is Polyunsa...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 3.0,
+    "total": 10.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 10.0  \n5. 简要理由：核心机制描述完全正确，包括抑制5-lipoxygenase的催化活性及其下游效应；机制描述涵盖了分子功能变化但未完全展开；每条机制均有明确的PMID证据支持。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which LOVASTATIN affects 3-hydroxy-3-methylglutaryl-coenzyme A reductase?",
+    "answer": "【Core Conclusion】Lovastatin acts as an inhibitor of 3-hydroxy-3-methylglutaryl-coenzyme A reductase (HMGCR), blocking its catalytic activity and thereby reducing the conversion of HMG-CoA to mevalonic acid.\n\n【Protein Information】The target protein is 3-hydroxy-3-methylglutaryl-coenzyme A reductase (...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 2.5,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：2.5  \n4. 总分 = 9.0  \n5. 简要理由：核心机制（HMGCR抑制）完全正确且有充分依据（UniProt和PMID支持），但分子机制缺少催化位点或结构细节；证据虽全面但未逐条绑定具体实验数据。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which AMPHETAMINE SULFATE affects Sodium-dependent dopamine transporter?",
+    "answer": "【Core Conclusion】AMPHETAMINE SULFATE acts on the Sodium-dependent dopamine transporter as a substrate, inducing dopamine efflux through facilitated exchange diffusion, and also triggers the internalization of the transporter, thereby reducing its activity. The efflux is voltage-sensitive and depende...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 3.0,
+    "total": 10.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 10.0  \n5. 简要理由：核心机制完全正确（作为底物诱导多巴胺外排并触发内化），机制描述包含分子功能变化和下游效应（电压敏感性和Na+依赖性），每条机制均对应具体PMID证据。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which OZAGREL affects Thromboxane-A synthase?",
+    "answer": "【Core Conclusion】Ozagrel inhibits Thromboxane-A synthase, thereby blocking the conversion of prostaglandin H2 (PGH2) to thromboxane A2 (TXA2), a potent inducer of blood vessel constriction and platelet aggregation.\n\n【Protein Information】Thromboxane-A synthase (UniProt ID: B4DJG6)\n\n【Condition】Ozagrel...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 3.0,
+    "total": 10.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 4.0 + 3.0 + 3.0 = 10.0  \n5. 简要理由：核心机制100%正确且有充分依据（PMID引用）；机制描述包含分子功能变化但未完全展开下游效应；每条机制均对应具体PMID证据，可完全追溯。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which VORINOSTAT affects Histone deacetylase 1?",
+    "answer": "【Core Conclusion】Vorinostat inhibits Histone deacetylase 1 (HDAC1), blocking its deacetylase activity.\n\n【Protein Information】Histone deacetylase 1 (UniProt ID: Q13547)\n\n【Condition】Various cancers, including oral tongue squamous cell carcinoma and potentially other malignancies where HDAC1 is implica...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 2.5,
+    "total": 8.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：2.5  \n4. 总分 = 8.5  \n5. 简要理由：核心机制正确但未完全明确HDAC1的直接作用（PMID未直接验证HDAC1）；机制描述包含功能变化但缺少分子细节；证据引用充分但未逐条绑定具体机制。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which VORINOSTAT affects Histone deacetylase 3?",
+    "answer": "【Core Conclusion】Vorinostat inhibits Histone deacetylase 3 (HDAC3), a histone deacetylase that catalyzes the deacetylation of lysine residues on histones and other substrates, thereby blocking its catalytic activity.\n\n【Protein Information】The target protein is Histone deacetylase 3 (UniProt ID: D3DQ...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制（Vorinostat抑制HDAC3）完全正确且有充分依据；机制描述包含作用类型和功能变化，但缺少下游效应的具体细节；每条机制均对应具体PMID，证据可追溯性高。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which VORINOSTAT affects Histone deacetylase 2?",
+    "answer": "【Core Conclusion】VORINOSTAT inhibits Histone deacetylase 2, blocking its catalytic activity.\n\n【Protein Information】The target protein is Histone deacetylase 2 (UniProt ID: B3KRS5).\n\n【Condition】The condition is related to cancer, as Histone deacetylase enzymes are responsible for the global silencing...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 3.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.0  \n5. 简要理由：核心机制100%正确且有充分证据支持（PMID引用明确）；机制描述包含分子功能变化（抑制催化活性），但未提及其下游效应；每条机制均对应具体PMID，证据可追溯性高。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which SERTINDOLE affects D(2) dopamine receptor?",
+    "answer": "【Core Conclusion】Sertindole binds to the D(2) dopamine receptor, as demonstrated by its ability to displace radioligands, indicating it interacts with the receptor.\n\n【Protein Information】The protein is D(2) dopamine receptor with UniProt ID P14416.\n\n【Condition】The condition involves the interaction ...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 3.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.0  \n5. 简要理由：核心机制（结合D(2)受体）100%正确且有明确实验依据（PMID:28557180）；机制描述包含分子功能变化（结合受体），但未提及其作用类型（拮抗/激动）或下游效应；每条机制均对应具体证据（PMID和UniProt ID）。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which AMPHETAMINE SULFATE affects Sodium-dependent noradrenaline transporter?",
+    "answer": "【Core Conclusion】Amphetamine sulfate acts as a substrate for the Sodium-dependent noradrenaline transporter, and its interaction with the transporter leads to the efflux of norepinephrine, effectively reversing the transporter's normal reuptake function.\n\n【Protein Information】The protein in question...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 3.0,
+    "total": 10.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 10.0  \n5. 简要理由：核心机制描述完全正确（作为底物并逆转转运功能），且有充分PMID支持；机制精细度达到分子功能变化级别（但未涉及具体结构域或构象变化）；每条机制均对应具体PMID，证据可追溯性完整。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which AMDINOCILLIN affects Peptidoglycan D,D-transpeptidase MrdA?",
+    "answer": "【Core Conclusion】Amdinocillin inhibits the enzymatic activity of Peptidoglycan D,D-transpeptidase MrdA (PBP2) by blocking its transpeptidase activity, thereby preventing the crosslinking of nascent peptidoglycan material into the existing cell wall network.\n\n【Protein Information】The target protein i...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 3.0,
+    "total": 10.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 10.0  \n5. 简要理由：核心机制描述完全正确且有充分依据（PMID引用）；机制精细度较高，但未详细说明下游代谢调控的具体分子细节；每条机制均对应具体PMID证据，可追溯性优秀。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which MICONAZOLE affects Lanosterol 14-alpha demethylase?",
+    "answer": "【Core Conclusion】Miconazole inhibits Lanosterol 14-alpha demethylase, blocking its catalytic activity.\n\n【Protein Information】Lanosterol 14-alpha demethylase (UniProt ID: A0A1D8PMZ1) is targeted by Miconazole (ChEMBL ID: CHEMBL91).\n\n【Condition】The condition related to Lanosterol 14-alpha demethylase ...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制完全正确且有充分依据（PMID引用），但机制描述缺少部分分子细节（如结合位点或结构变化）。证据可追溯性优秀，每条机制均有具体PMID支持。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which SUNITINIB affects Vascular endothelial growth factor receptor 2?",
+    "answer": "【Core Conclusion】SUNITINIB acts as an inhibitor of Vascular endothelial growth factor receptor 2 (VEGFR2) by binding to its DFG-out state, thereby likely blocking its tyrosine-protein kinase activity.\n\n【Protein Information】The target protein is Vascular endothelial growth factor receptor 2 (UniProt ...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 3.0,
+    "total": 10.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 10.0  \n5. 简要理由：核心机制（SUNITINIB抑制VEGFR2的DFG-out状态）完全正确且有充分依据；机制描述包含作用类型和功能变化，但未详细说明下游效应；每条机制均对应具体PMID证据，可追溯性高。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which SUNITINIB affects Mast/stem cell growth factor receptor Kit?",
+    "answer": "【Core Conclusion】SUNITINIB acts as an inhibitor of Mast/stem cell growth factor receptor Kit by inhibiting its tyrosine kinase activity.\n\n【Protein Information】The protein is Mast/stem cell growth factor receptor Kit with UniProt ID: B5A956.\n\n【Condition】The condition related to this protein and drug ...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制（抑制KIT酪氨酸激酶活性）100%正确且有充分依据；机制描述接近完整，但缺少部分分子细节（如具体结合位点或构效关系）；每条机制均对应PMID证据，可追溯性高。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which SUNITINIB affects Vascular endothelial growth factor receptor 1?",
+    "answer": "【Core Conclusion】SUNITINIB inhibits Vascular endothelial growth factor receptor 1 (VEGFR1) as a tyrosine kinase inhibitor, thereby blocking its tyrosine-protein kinase activity.\n\n【Protein Information】Vascular endothelial growth factor receptor 1 (UniProt ID: A3E342)\n\n【Condition】Various cancers, incl...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制100%正确且所有陈述均有依据（PMID引用），但机制描述缺少下游效应的具体细节（如信号通路变化），证据引用完整且每条机制对应具体PMID。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which PROGESTERONE affects Progesterone receptor?",
+    "answer": "【Core Conclusion】PROGESTERONE acts as an agonist of the Progesterone receptor, activating its function as a transcriptional regulator, which in turn affects gene expression and cellular processes such as proliferation and apoptosis.\n\n【Protein Information】The protein in question is the Progesterone r...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 3.0,
+    "total": 10.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 10.0  \n5. 简要理由：核心机制（PROGESTERONE作为Progesterone receptor激动剂）完全正确且有充分依据；机制描述包含分子功能变化（转录调控）和下游效应（基因表达、增殖和凋亡），但未详细说明具体信号通路；每条机制均对应明确的PMID证据，可追溯性高。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which SUNITINIB affects Platelet-derived growth factor receptor alpha?",
+    "answer": "【Core Conclusion】Sunitinib acts as an inhibitor of Platelet-derived growth factor receptor alpha (PDGFRA), blocking its tyrosine kinase activity.\n\n【Protein Information】The protein is Platelet-derived growth factor receptor alpha (UniProt ID: B2RE69).\n\n【Condition】The condition related to this protein...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制100%正确且明确（抑制PDGFRA酪氨酸激酶活性），但机制描述缺少下游效应的分子细节；每条机制均对应具体PMID证据，可追溯性完整。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which SUNITINIB affects Vascular endothelial growth factor receptor 3?",
+    "answer": "【Core Conclusion】SUNITINIB inhibits Vascular endothelial growth factor receptor 3 (VEGFR3), a tyrosine-protein kinase that acts as a cell-surface receptor, thereby blocking its signaling activity.\n\n【Protein Information】The target protein is Vascular endothelial growth factor receptor 3 (UniProt ID: ...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制100%正确且有充分依据（4.0）；机制描述包含作用类型和功能变化，但缺少下游效应的具体细节（2.5）；每条机制均对应明确的UniProt和PMID证据（3.0）。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which SUNITINIB affects Macrophage colony-stimulating factor 1 receptor?",
+    "answer": "【Core Conclusion】SUNITINIB acts as an inhibitor of Macrophage colony-stimulating factor 1 receptor (CSF1R) by targeting its tyrosine-protein kinase activity.\n\n【Protein Information】The protein is Macrophage colony-stimulating factor 1 receptor (UniProt ID: B5A955), and the drug is SUNITINIB (ChEMBL I...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制（抑制CSF1R的酪氨酸激酶活性）完全正确且有充分证据支持（PMID引用）；机制描述接近完整但缺少下游效应的具体细节；每条机制均对应明确的PMID证据，可追溯性高。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which SUNITINIB affects Proto-oncogene tyrosine-protein kinase receptor Ret?",
+    "answer": "【Core Conclusion】SUNITINIB acts as an inhibitor of Proto-oncogene tyrosine-protein kinase receptor Ret, blocking its tyrosine kinase activity.\n\n【Protein Information】The protein is Proto-oncogene tyrosine-protein kinase receptor Ret (UniProt ID: A8K6Z2). The drug is SUNITINIB (ChEMBL ID: CHEMBL535).\n...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 3.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.0  \n5. 简要理由：核心机制（SUNITINIB抑制RET酪氨酸激酶活性）完全正确且有充分依据（PMID:35756966）；机制描述明确但未深入分子功能变化或下游效应；每条机制均对应具体PMID，证据可追溯性高。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which MEQUINOL affects Tyrosinase?",
+    "answer": "【Core Conclusion】MEQUINOL, also known as 4-hydroxyanisole, acts as a substrate for Tyrosinase, undergoing hydroxylation and subsequent oxidation, which leads to the generation of reactive species that can cause lipid peroxidation in the presence of iron.\n\n【Protein Information】The protein is Tyrosina...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 3.0,
+    "total": 10.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 10.0  \n5. 简要理由：核心机制描述完全正确，包括MEQUINOL作为底物被酪氨酸酶羟基化和氧化的过程，以及后续反应导致的脂质过氧化。机制描述完整，但缺少一些分子细节。每条机制都有对应的PMID证据支持，可追溯性高。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which SUNITINIB affects Receptor-type tyrosine-protein kinase FLT3?",
+    "answer": "【Core Conclusion】Sunitinib is a tyrosine kinase inhibitor that inhibits Receptor-type tyrosine-protein kinase FLT3. Studies have shown that sunitinib can target FLT3, as indicated by its mechanism of action and experimental evidence (PMID: 38828446).\n\n【Protein Information】Receptor-type tyrosine-prot...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 3.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.0  \n5. 简要理由：核心机制100%正确且有充分依据（PMID: 38828446），但机制描述仅说明抑制功能，未提及其具体分子功能变化或下游效应。每条机制均对应具体PMID，证据可追溯性完整。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which REBOXETINE affects Sodium-dependent noradrenaline transporter?",
+    "answer": "【Core Conclusion】REBOXETINE acts as an inhibitor of the Sodium-dependent noradrenaline transporter, blocking the reuptake of norepinephrine.\n\n【Protein Information】The target protein is Sodium-dependent noradrenaline transporter (UniProt ID: B2R707).\n\n【Condition】REBOXETINE's interaction with the Sodi...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制（抑制钠依赖性去甲肾上腺素转运体）完全正确且有充分依据；机制描述包含功能变化（阻断再摄取）和临床效应（抗抑郁、血压升高），但缺少分子层面的细节（如结合位点或构象变化）；每条机制均对应具体PMID，证据可追溯性完整。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which FLUCONAZOLE affects Lanosterol 14-alpha demethylase?",
+    "answer": "【Core Conclusion】FLUCONAZOLE inhibits Lanosterol 14-alpha demethylase, a crucial enzyme in ergosterol biosynthesis, by binding to the enzyme's active site, thereby blocking its catalytic activity. This is supported by studies showing that mutations in the ERG11 gene, which encodes Lanosterol 14-alph...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 3.0,
+    "total": 10.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 10.0  \n5. 简要理由：核心机制描述完全正确，包括抑制作用和结合位点细节；机制描述完整，涵盖分子功能变化和下游效应；每条机制均对应明确的PMID和UniProt ID，证据充分可验证。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which ILOPERIDONE affects D(2) dopamine receptor?",
+    "answer": "【Core Conclusion】Iloperidone acts as an antagonist of the D(2) dopamine receptor. Studies have shown that Iloperidone binds to dopamine receptors, and its antipsychotic effects are associated with this interaction (PMID:24897292).\n\n【Protein Information】The target protein is the D(2) dopamine recepto...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 2.5,
+    "total": 8.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.0  \n3. 证据可追溯性：2.5  \n4. 总分 = 8.0  \n5. 简要理由：核心机制（D2受体拮抗）正确且有依据，但未详细描述分子功能变化或下游效应；证据引用充分（PMID:24897292），但未完全逐条绑定机制细节。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which SUNITINIB affects Platelet-derived growth factor receptor beta?",
+    "answer": "【Core Conclusion】SUNITINIB acts as an inhibitor of Platelet-derived growth factor receptor beta by blocking its phosphorylation, thereby preventing its activation and downstream signaling.\n\n【Protein Information】The protein is Platelet-derived growth factor receptor beta (UniProt ID: B5A957), and the...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 3.0,
+    "total": 10.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 10.0  \n5. 简要理由：核心机制100%正确且有明确依据（PMID引用）；机制描述包含分子功能变化（抑制磷酸化）和下游效应（阻止激活和信号传导），但未详细说明具体信号通路；每条机制均对应具体PMID证据，可追溯性完整。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which PILOCARPINE affects Muscarinic acetylcholine receptor M1?",
+    "answer": "【Core Conclusion】PILOCARPINE acts as an agonist on Muscarinic acetylcholine receptor M1, activating the receptor and inducing downstream signaling pathways.\n\n【Protein Information】The protein in question is Muscarinic acetylcholine receptor M1, with UniProt ID P11229.\n\n【Condition】The condition relate...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制完全正确且所有陈述均有依据（PMID引用）；机制描述接近完整，但缺少部分分子细节（如G蛋白亚型）；每条机制均对应具体PMID，证据可追溯性高。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which PILOCARPINE affects Muscarinic acetylcholine receptor M3?",
+    "answer": "【Core Conclusion】Pilocarpine acts as an agonist on Muscarinic acetylcholine receptor M3 (CHRM3), stimulating its activity. According to UniProt, Muscarinic acetylcholine receptor M3 is a receptor for acetylcholine and pilocarpine (P20309).\n\n【Protein Information】Muscarinic acetylcholine receptor M3; ...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 3.0,
+    "total": 10.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 10.0  \n5. 简要理由：核心机制完全正确，明确说明pilocarpine是CHRM3的激动剂，并描述了Gq/11蛋白偶联和下游效应；机制精细度较高，但未完全展开所有分子细节；每条机制均引用UniProt或PMID，证据可追溯性满分。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which ACETAMINOPHEN affects Transient receptor potential cation channel subfamily V member 1?",
+    "answer": "【Core Conclusion】Acetaminophen affects Transient receptor potential cation channel subfamily V member 1 through its metabolite N-(4-hydroxyphenyl)-arachidonylamide (AM404), which acts as an activator of TRPV1.\n\n【Protein Information】Transient receptor potential cation channel subfamily V member 1; Un...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制100%正确且有充分依据（PMID引用），但机制描述缺少下游效应的具体细节（如信号通路或细胞响应）。每条机制均对应具体PMID，证据可追溯性完整。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which RIMONABANT affects Cannabinoid receptor 1?",
+    "answer": "【Core Conclusion】RIMONABANT acts as an antagonist/inhibitor of Cannabinoid receptor 1, suppressing its activity.\n\n【Protein Information】The target protein is Cannabinoid receptor 1 with UniProt ID B2R9T4.\n\n【Condition】The condition involves the modulation of Cannabinoid receptor 1 activity, which is a...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 3.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.0  \n5. 简要理由：核心机制100%正确且有充分依据（4.0）；机制描述有明确分子功能变化但缺少完整下游效应（2.0）；每条机制均对应具体PMID（3.0）。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which CLOFIBRATE affects Peroxisome proliferator-activated receptor alpha?",
+    "answer": "【Core Conclusion】CLOFIBRATE acts as an agonist of Peroxisome proliferator-activated receptor alpha (PPARα), activating its function as a ligand-activated transcription factor.\n\n【Protein Information】The target protein is Peroxisome proliferator-activated receptor alpha (UniProt ID: B0G0X3), a ligand-...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制完全正确且明确标注为PPARα激动剂（4.0分）；机制描述包含作用类型和功能变化，但缺少部分下游效应细节（2.5分）；每条机制均对应具体PMID证据，可完全追溯（3.0分）。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which PERPHENAZINE affects D(2) dopamine receptor?",
+    "answer": "【Core Conclusion】Perphenazine acts as an antagonist of the D(2) dopamine receptor, likely blocking its activity.\n\n【Protein Information】D(2) dopamine receptor; UniProt ID: P14416\n\n【Condition】Schizophrenia and potentially other conditions where antipsychotic drugs are used, as indicated by the context...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 3.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 4.0 + 2.0 + 3.0 = 9.0  \n5. 简要理由：核心机制（D(2)受体拮抗）100%正确且有充分依据；机制描述包含分子功能变化但缺少具体生化细节；每条机制均对应具体PMID证据，可追溯性完整。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which SAQUINAVIR affects Human immunodeficiency virus type 1 protease?",
+    "answer": "【Core Conclusion】Saquinavir acts as an inhibitor of Human immunodeficiency virus type 1 protease by blocking its activity, thereby preventing the processing of Gag and Gag-Pol polyproteins.\n\n【Protein Information】The target protein is Human immunodeficiency virus type 1 protease with UniProt ID: Q728...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制100%正确且所有陈述均有依据（PMID引用）；机制描述接近完整，但缺少部分分子细节（如结合位点或构象变化）；每条机制均对应具体PMID，证据可追溯性高。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which ACETAMINOPHEN affects Fatty-acid amide hydrolase 1?",
+    "answer": "【Core Conclusion】ACETAMINOPHEN is metabolized to AM404, which interacts with the endocannabinoid system. Evidence from PMID:20862299 directly shows that AM404 inhibits Fatty-acid amide hydrolase 1 (FAAH1), an enzyme responsible for hydrolyzing endocannabinoids like anandamide, thereby potentially af...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 3.0,
+    "total": 10.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 10.0  \n5. 简要理由：核心机制（AM404抑制FAAH1）100%正确且有直接实验证据（PMID:20862299）；机制描述包含作用类型（抑制）和功能变化（增加内源性大麻素水平），但缺少部分下游效应细节；每条机制均对应具体PMID，证据可追溯性完整。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which AMPRENAVIR affects Human immunodeficiency virus type 1 protease?",
+    "answer": "【Core Conclusion】Amprenavir acts as a competitive inhibitor of Human immunodeficiency virus type 1 protease, blocking its catalytic activity and resulting in the production of immature and noninfectious viral particles.\n\n【Protein Information】The target protein is Human immunodeficiency virus type 1 ...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制100%正确且有充分依据（PMID引用），但机制描述缺少部分分子细节（如结合位点或结构特征）。证据可追溯性优秀，每条机制均对应具体PMID。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which VALPROIC ACID affects Succinate-semialdehyde dehydrogenase, mitochondrial?",
+    "answer": "【Core Conclusion】VALPROIC ACID is a competitive inhibitor of Succinate-semialdehyde dehydrogenase, mitochondrial (ALDH5A1), directly affecting its enzymatic activity.\n\n【Protein Information】The protein is Succinate-semialdehyde dehydrogenase, mitochondrial, with UniProt ID B2RD26. The drug is VALPROI...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 3.0,
+    "total": 10.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 10.0  \n5. 简要理由：核心机制明确且完全正确，提供了完整的分子机制（竞争性抑制）和功能变化（影响酶活性），每条机制均有对应的PMID证据（23236365）和UniProt ID（B2RD26）。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which TERFENADINE affects Histamine H1 receptor?",
+    "answer": "【Core Conclusion】Terfenadine acts as an antagonist of the Histamine H1 receptor, thereby abrogating its signaling.\n\n【Protein Information】The target protein is Histamine H1 receptor with UniProt ID: A8K047.\n\n【Condition】The condition related to Histamine H1 receptor involves various physiological proc...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 3.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.0  \n5. 简要理由：核心机制（H1受体拮抗）完全正确且有充分证据支持（3篇PMID）；机制描述明确但缺少分子功能变化的细节（如结合位点或构象变化）；每条机制均对应具体PMID，证据可追溯性高。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which FENTANYL affects Mu-type opioid receptor?",
+    "answer": "【Core Conclusion】Fentanyl acts as an agonist of the Mu-type opioid receptor, activating it.\n\n【Protein Information】Mu-type opioid receptor; UniProt ID: B0FXJ1\n\n【Condition】Activation by fentanyl\n\n【Clinical Significance】The activation of Mu-type opioid receptor by fentanyl is relevant to its analgesic ...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 3.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.0  \n5. 简要理由：核心机制（激动剂作用）完全正确且有充分依据；机制描述包含分子功能变化但未涉及下游效应；每条机制均对应具体PMID和UniProt证据。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which CELECOXIB affects Prostaglandin G/H synthase 2?",
+    "answer": "【Core Conclusion】CELECOXIB inhibits Prostaglandin G/H synthase 2 (COX-2), blocking its cyclooxygenase activity, thereby reducing the production of prostaglandins.\n\n【Protein Information】The target protein is Prostaglandin G/H synthase 2 (UniProt ID: A8K802), and the drug is CELECOXIB (ChEMBL ID: CHEM...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 3.0,
+    "total": 10.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 10.0  \n5. 简要理由：核心机制（COX-2抑制及下游效应）完全正确且有充分依据；机制描述包含分子功能变化但未完全展开下游效应细节；每条关键陈述均对应UniProt、ChEMBL和PMID证据。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which ROSIGLITAZONE affects Peroxisome proliferator-activated receptor gamma?",
+    "answer": "【Core Conclusion】Rosiglitazone acts as an agonist of Peroxisome proliferator-activated receptor gamma (PPARγ), activating its function as a ligand-activated transcription factor.\n\n【Protein Information】The target protein is Peroxisome proliferator-activated receptor gamma (UniProt ID: A8K3G6).\n\n【Cond...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制（PPARγ激动剂）100%正确且有充分依据；机制描述接近完整，但缺少部分分子细节（如具体结合位点或构象变化）；每条机制均对应具体PMID，证据可追溯性高。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which TOLOXATONE affects Amine oxidase [flavin-containing] A?",
+    "answer": "【Core Conclusion】Toloxatone acts as an inhibitor of Amine oxidase [flavin-containing] A (MAO-A), reducing its activity and thereby decreasing the oxidative deamination of primary and secondary amines, such as neurotransmitters.\n\n【Protein Information】The target protein is Amine oxidase [flavin-contai...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制100%正确且有充分依据（PMID引用），但机制描述缺少部分分子细节（如可逆抑制的具体方式）。证据可追溯性高，每条机制均对应具体PMID。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which ZAFIRLUKAST affects Cysteinyl leukotriene receptor 1?",
+    "answer": "【Core Conclusion】ZAFIRLUKAST acts as an antagonist of Cysteinyl leukotriene receptor 1 (CYSLTR1), blocking the action of cysteinyl leukotrienes.\n\n【Protein Information】The protein is Cysteinyl leukotriene receptor 1 (UniProt ID: B2R954), and the drug is ZAFIRLUKAST (ChEMBL ID: CHEMBL603).\n\n【Condition...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 3.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.0  \n5. 简要理由：核心机制完全正确且明确（拮抗CYSLTR1），但机制描述仅停留在功能层面（未涉及分子细节）；证据引用充分且可验证（PMID和UniProt/ChEMBL ID）。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which ROFECOXIB affects Prostaglandin G/H synthase 2?",
+    "answer": "【Core Conclusion】Rofecoxib inhibits Prostaglandin G/H synthase 2 (COX-2), blocking its cyclooxygenase activity, thereby preventing the conversion of arachidonate to prostaglandin G2 (PGG2) and subsequently reducing the production of prostaglandin H2 (PGH2).\n\n【Protein Information】The target protein i...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 3.0,
+    "total": 10.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 10.0  \n5. 简要理由：核心机制（COX-2抑制及下游效应）完全正确且详细，证据充分且每条机制均对应具体PMID和UniProt ID，但机制描述未完全覆盖分子功能变化的所有细节（如未明确提及结合位点或构象变化）。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which MOXONIDINE affects Nischarin?",
+    "answer": "【Core Conclusion】Moxonidine acts as an agonist of Nischarin (imidazoline-1 receptor), inducing cell-signaling cascades.\n\n【Protein Information】Nischarin; UniProt ID: C9J245\n\n【Condition】Cardiovascular conditions, such as hypertension and left ventricular hypertrophy.\n\n【Clinical Significance】Moxonidine...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.0  \n5. 简要理由：核心机制正确且有依据（PMID引用），但机制描述缺少部分分子细节（如具体信号通路）。证据可追溯性良好，每条机制均有对应PMID。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which MELOXICAM affects Prostaglandin G/H synthase 2?",
+    "answer": "【Core Conclusion】Meloxicam inhibits the activity of Prostaglandin G/H synthase 2, acting as a cyclooxygenase inhibitor, thereby blocking the conversion of arachidonate to prostaglandin G2 and subsequently reducing the production of prostaglandin H2.\n\n【Protein Information】The target protein is Prosta...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 3.0,
+    "total": 10.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 10.0  \n5. 简要理由：核心机制描述完全正确，包括抑制作用和底物转化过程；机制描述达到分子功能变化水平，但未提及具体结合位点或构象变化；每条机制均对应明确的PMID证据和数据库ID。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which MISOPROSTOL affects Prostaglandin E2 receptor EP3 subtype?",
+    "answer": "【Core Conclusion】Misoprostol acts as an agonist on the Prostaglandin E2 receptor EP3 subtype, activating its signaling pathway.\n\n【Protein Information】The protein is Prostaglandin E2 receptor EP3 subtype with UniProt ID B0AZN4.\n\n【Condition】The condition involves cerebral injury and neurodegeneration,...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制完全正确且有充分依据（PMID引用），但机制描述缺少下游效应的分子细节（如具体信号通路变化）。证据直接绑定PMID和UniProt ID，可追溯性完美。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which MACIMORELIN affects Growth hormone secretagogue receptor type 1?",
+    "answer": "【Core Conclusion】Macimorelin acts as an agonist of the Growth hormone secretagogue receptor type 1, activating the receptor.\n\n【Protein Information】The target protein is Growth hormone secretagogue receptor type 1 (UniProt ID: Q14D12). The drug is Macimorelin.\n\n【Condition】The condition related to the...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 3.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.0  \n5. 简要理由：核心机制（Macimorelin作为GHSR1激动剂）100%正确且有明确证据支持（PMID:40542284）；机制描述包含分子功能变化（激活受体），但未提及其下游效应或结构细节；每条机制均对应具体PMID，证据可追溯性完整。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which DEXTROAMPHETAMINE affects Synaptic vesicular amine transporter?",
+    "answer": "【Core Conclusion】DEXTROAMPHETAMINE (also known as d-amphetamine) affects the Synaptic vesicular amine transporter by displacing its ligand and releasing dopamine from synaptic vesicles, indicating it acts as an inhibitor or releaser of the transporter.\n\n【Protein Information】The protein is Synaptic v...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 3.0,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：3.0  \n4. 总分 = 9.5  \n5. 简要理由：核心机制100%正确且有明确依据（PMID:9648873）；机制描述接近完整，但缺少部分分子细节（如具体结合位点或构象变化）；每条机制均对应具体证据（UniProt ID和PMID）。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which PROBUCOL affects Phospholipid-transporting ATPase ABCA1?",
+    "answer": "【Core Conclusion】PROBUCOL inhibits Phospholipid-transporting ATPase ABCA1, thereby potentially disrupting its role in phospholipid transfer to apolipoproteins and the formation of nascent high-density lipoproteins/HDLs.\n\n【Protein Information】The target protein is Phospholipid-transporting ATPase ABC...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 3.0,
+    "total": 8.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 8.5  \n5. 简要理由：核心机制正确且有明确证据支持（PMID引用），但机制描述仅说明抑制作用，未详细说明分子功能变化或下游效应。证据可追溯性良好，每条机制均对应具体PMID。",
+    "source": "OurData"
+  },
+  {
+    "question": "What is the mechanism by which PYRAZINAMIDE affects Fatty acid synthase?",
+    "answer": "【Core Conclusion】Pyrazinamide acts as a competitive inhibitor of NADPH binding to Fatty acid synthase I, thereby inhibiting its activity.\n\n【Protein Information】The target protein is Fatty acid synthase (UniProt ID: F2GH34).\n\n【Condition】The condition related to this interaction is tuberculosis, as Py...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 3.0,
+    "total": 10.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 4.0 + 3.0 + 3.0 = 10.0  \n5. 简要理由：核心机制明确且正确，描述了竞争性抑制NADPH结合的具体分子机制；机制精细度完整，包含作用类型、功能变化和下游效应；每条机制均有对应的PMID证据，可追溯性强。",
+    "source": "OurData"
+  }
+]

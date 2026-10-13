@@ -1,0 +1,1002 @@
+[
+  {
+    "question": "Mechanism of action of Montelukast is:?",
+    "answer": "The question seeks to identify the mechanism of action of Montelukast from the provided options. Montelukast is widely used in the management of asthma and allergic rhinitis, making it essential to understand its pharmacological properties accurately.\n\n**a) Restated Question**\n\nWhat is the mechanism...",
+    "factuality": 3.0,
+    "granularity": 2.5,
+    "grounding": 1.5,
+    "total": 7.0,
+    "raw_evaluation": "1. 事实正确性：3.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.5  \n4. 总分 = 7.0  \n5. 简要理由：答案正确描述了Montelukast作为白三烯受体拮抗剂的作用机制，但错误地将选项1（抑制白三烯产生）作为最接近的机制，存在细节不精确。机制描述较完整但缺少具体分子细节（如CysLT1受体）。虽有临床指南和试验提及，但未提供具体PMID/UniProt等可验证证据。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "which of the following is antidepressent?",
+    "answer": "a) **Restated Question**\n\nThe question presents a selection of four pharmacological agents—amitriptyline, trazodone, nefazodone, and citalopram—and asks which among them is an antidepressant. The task is to identify the correct antidepressant from the given options, considering each drug's classific...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 1.0,
+    "total": 8.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：1.0  \n4. 总分 = 8.0  \n5. 简要理由：答案核心机制完全正确且分类清晰（4.0分），详细解释了各类抗抑郁药的作用机制但未达分子水平（3.0分），虽提及临床指南但未提供具体PMID/数据库引用（1.0分）。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Gynaecomastia is caused by?",
+    "answer": "Gynaecomastia, the benign enlargement of male breast glandular tissue, arises from an imbalance between estrogen and androgen activity within the breast tissue. This condition can result from physiological changes, pathological states, or as an adverse effect of certain medications. Understanding th...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 2.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：2.0  \n4. 总分 = 9.0  \n5. 简要理由：答案详细描述了每种药物的作用机制，核心机制100%正确（4.0分）。机制精细度较高，但缺少部分分子细节（3.0分）。虽然答案引用了临床指南和药理数据，但未提供具体PMID或数据库ID（2.0分）。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Which of these is not used for the treatment of typhoid ?",
+    "answer": "The question presents four antibiotic options and asks which one is not utilized in the treatment of typhoid fever. The correct answer identified is Cefixime. To comprehensively understand why Cefixime is not used, it is essential to analyze each option in the context of typhoid fever management, in...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 2.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：2.0  \n4. 总分 = 9.0  \n5. 简要理由：核心机制陈述完全正确，详细分析了各抗生素的作用机制和适用性；机制描述达到分子功能变化水平，但缺少部分下游效应细节；虽未逐条引用PMID等证据，但整体分析符合临床指南框架。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Based on the given mechanism of action as shown in the Figure, Drug A is likely to be:?",
+    "answer": "To determine the most appropriate drug, Drug A, based on the provided mechanism of action, it's essential to meticulously analyze each option's pharmacological profile and align it with the described mechanism. The options presented are Exenatide, Vildagliptin, Canagliflozin, and Pramlintide. The co...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.0,
+    "total": 7.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.0  \n4. 总分 = 7.0  \n5. 简要理由：答案详细描述了各药物的作用机制，核心机制基本正确（3.5分），但机制描述缺少部分分子细节（2.5分）。证据引用仅列出药物名称，未提供具体可验证的PMID或数据库ID（1.0分）。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "A 35-year-old woman presents to the emergency department with swelling of her face and abdominal pain. She states she was outside doing yard work when her symptoms began. The patient has a past medica...",
+    "answer": "**a) Restated Question**\n\nA 35-year-old woman with recently diagnosed diabetes and hypertension, managed with lisinopril, metformin, and glipizide, presents to the emergency department following yard work. She exhibits facial swelling, abdominal pain, edema of her hands, lips, and eyelids, and mild ...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 2.0,
+    "total": 8.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：2.0  \n4. 总分 = 8.0  \n5. 简要理由：答案基本正确，但部分机制细节不够精确（如未明确区分ACE抑制剂与遗传性血管性水肿的机制差异）。证据引用存在但未逐条绑定具体机制，部分临床指南未提供具体PMID。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "The most potent HMG-coA reductase inhibitors is?",
+    "answer": "To determine the most potent HMG-CoA reductase inhibitor among Simvastatin, Atorvastatin, Rosuvastatin, and Pitavastatin, a comprehensive analysis is essential. This entails a thorough examination of each statin's pharmacological potency, clinical efficacy, and relevant pharmacokinetic properties.\n\n...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 1.5,
+    "total": 8.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：1.5  \n4. 总分 = 8.5  \n5. 简要理由：答案核心机制（HMG-CoA还原酶抑制及LDL-C降低）完全正确，且对各他汀类药物的效力排序符合临床共识（事实正确性4.0）。机制描述包含酶抑制和功能效应，但缺少分子层面的结构-活性关系细节（机制精细度3.0）。虽提及临床指南和剂量数据，但未直接引用PMID/数据库等可验证证据（证据可追溯性1.5）。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "MOA of Teduglutide in sho bowel syndrome?",
+    "answer": "The question pertains to the mechanism of action (MOA) of Teduglutide in the treatment of short bowel syndrome (SBS). To thoroughly understand and determine the correct answer, it is essential to dissect the clinical scenario, analyze the provided options meticulously, and integrate the error feedba...",
+    "factuality": 3.0,
+    "granularity": 2.5,
+    "grounding": 1.0,
+    "total": 6.5,
+    "raw_evaluation": "1. 事实正确性：3.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.0  \n4. 总分 = 6.5  \n5. 简要理由：答案正确描述了Teduglutide作为GLP-2类似物的作用机制，但部分细节不够精确（如错误选项分析中的术语混淆）。机制描述较完整但缺少分子层面的具体证据。虽有临床指南提及，但未提供具体PMID/UniProt等可验证引用。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Following antimicrobials are termed as type I calcimimetics that mimic the stimulatory effect of calcium, on the calcium sensing receptor to inhibit PTH secretion by the parathyroid gland EXCEPT:?",
+    "answer": "The question asks which of the listed antimicrobials is **not** a type I calcimimetic, meaning it does not mimic calcium's stimulatory effect on the calcium-sensing receptor (CaSR) to inhibit parathyroid hormone (PTH) secretion. The options provided are Streptomycin, Hamycin, Neomycin, and Gentamici...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 2.0,
+    "total": 8.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：2.0  \n4. 总分 = 8.0  \n5. 简要理由：答案基本正确，但部分细节不够精确，如Hamycin是否为虚构药物未明确引用来源。机制描述较为详细，但缺少分子层面的具体作用细节。证据部分有引用临床指南和文献，但未逐条绑定具体PMID或数据库ID。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Which of the following drug is not used for MDR-TB?",
+    "answer": "The question presents a clinical scenario focusing on the management of multidrug-resistant tuberculosis (MDR-TB) and asks which of the listed drugs is **not** used in its treatment. Understanding the nuances of each medication and their roles in MDR-TB therapy is crucial for accurate clinical decis...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 2.0,
+    "total": 8.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：2.0  \n4. 总分 = 8.0  \n5. 简要理由：答案整体正确但未明确区分各药物在MDR-TB中的具体使用优先级（如WHO指南中的推荐等级），机制描述完整但缺少个别药物间的直接比较证据。引用WHO指南但未提供具体PMID或指南版本号。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Drug used for muscarinic symptoms seen in cobra envenomation: CMC (Vellore) 13?",
+    "answer": "The question presents a clinical scenario involving cobra envenomation and asks for the drug used to manage muscarinic symptoms. The provided options are Neostigmine, Pralidoxime, Prazocin, and Naloxone. Initially, Neostigmine was selected as the correct answer. However, upon reviewing the error rea...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.5,
+    "total": 7.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.5  \n4. 总分 = 7.5  \n5. 简要理由：答案对药物机制和临床背景的分析基本正确，但未提供具体文献或数据库证据支持每条机制（如PMID/UniProt）。机制描述较完整但缺少部分分子细节（如Pralidoxime的具体结合位点）。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "True about Azathioprine is?",
+    "answer": "Azathioprine is a cornerstone immunosuppressive agent widely utilized in various clinical settings, including organ transplantation and autoimmune diseases. Understanding its pharmacological properties is essential for optimal therapeutic application and minimizing adverse effects. This analysis del...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.0,
+    "total": 7.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.0  \n4. 总分 = 7.0  \n5. 简要理由：答案详细描述了Azathioprine的机制和临床用途，核心机制正确但部分细节不够精确（如T细胞选择性影响的描述）。机制描述较为完整但缺少分子层面的细节。虽有临床指南和研究提及，但未提供具体PMID或数据库引用。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "First line ATT in children?",
+    "answer": "To determine the appropriate first-line anti-tubercular therapy (ATT) in children, it's essential to meticulously analyze the clinical scenario, understand the pharmacological profiles of the available medications, and apply evidence-based guidelines. This comprehensive examination ensures accurate ...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 2.0,
+    "total": 8.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：2.0  \n4. 总分 = 8.0  \n5. 简要理由：答案基本正确，但部分关键机制（如Streptomycin的具体使用场景）不够精确；机制描述较全面但缺少部分分子细节；引用了WHO和CDC等权威指南，但未逐条绑定具体PMID或数据库ID。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "A patient on urinary catheter - catheter tip culture shown extended spectrum b-lactamase +ve Klebsiella. Which of the following drug you can give?",
+    "answer": "The clinical scenario involves a patient with a urinary catheter whose catheter tip culture has grown extended-spectrum beta-lactamase (ESBL) positive Klebsiella. Selecting the appropriate antibiotic therapy in this context requires a comprehensive understanding of the pathogen's resistance mechanis...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.5,
+    "total": 7.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.5  \n4. 总分 = 7.5  \n5. 简要理由：答案对ESBL机制和药物选择的分析基本正确，但部分药物描述存在模糊性（如\"pH + b-lactamase\"）。机制解释较全面但缺少分子层面的细节。虽有临床指南逻辑但未提供具体PMID或数据库引用。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Treatment of choice for SIADH is ?",
+    "answer": "The question at hand pertains to determining the most appropriate treatment for the Syndrome of Inappropriate Antidiuretic Hormone secretion (SIADH). Understanding the optimal management strategy requires a comprehensive analysis of the condition's pathophysiology, the severity of hyponatremia, and ...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 2.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：2.0  \n4. 总分 = 9.0  \n5. 简要理由：答案核心机制完全正确（如高渗盐水在急性SIADH中的使用），分子机制描述完整但未达到最高精细度（缺少部分下游效应细节），引用临床指南但未提供具体PMID或DrugBank编号。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Drug of choice for deep vein thrombosis prophylaxis in surgical patients is :?",
+    "answer": "The question at hand is to identify the drug of choice for deep vein thrombosis (DVT) prophylaxis in surgical patients. To approach this, it is essential to meticulously analyze each option in the context of current clinical guidelines, pharmacological properties, and patient-specific considerations...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 2.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：2.0  \n4. 总分 = 9.0  \n5. 简要理由：答案详细分析了各种抗凝药物的作用机制和适用性，核心事实完全正确（4.0分）。机制描述包含分子功能变化但未深入下游效应（3.0分）。引用了ACCP指南但未提供具体PMID或数据库ID（2.0分）。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Interstitial nephritis is seen with all except Beta lactam inhibitors?",
+    "answer": "The clinical scenario presents a multiple-choice question aimed at identifying which of the listed drugs is **not** associated with interstitial nephritis. Interstitial nephritis is an inflammatory condition affecting the renal interstitium, often resulting from an allergic reaction to medications. ...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.5,
+    "total": 7.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.5  \n4. 总分 = 7.5  \n5. 简要理由：答案对药物与间质性肾炎的关联性分析基本正确，但部分细节不够精确（如Rifampicin的罕见关联性未提供具体证据）。机制描述较全面但缺少分子层面的细节。引用临床文献和指南但未提供具体PMID或数据库ID。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Pemetrexed MOA is:?",
+    "answer": "a) **Restated Question**\n\nThe question seeks to identify the primary mechanism of action (MOA) of Pemetrexed from the given options: RNA synthesis inhibitor, Dihydrofolate reductase inhibitor, Dopamine agonist, and Folate antagonist.\n\nb) **Key Details**\n\n- **Drug in Question:** Pemetrexed\n- **Answer...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 2.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：2.0  \n4. 总分 = 9.0  \n5. 简要理由：答案详细描述了Pemetrexed的作用机制，包括抑制DHFR、TS和GARFT，事实正确性高。机制精细度较好，但未完全达到分子级别的详细描述。证据可追溯性一般，虽然提到了临床指南和机制，但未提供具体的PMID或数据库ID。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "The newest Antidepressant is?",
+    "answer": "The question asks us to identify the newest antidepressant among the provided options: Buspirone, Fluoxetine, Penfluridol, and Clozapine. To determine the correct answer, it's essential to thoroughly understand each medication's primary use, mechanism of action, approval timeline, and classification...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.0,
+    "total": 7.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.0  \n4. 总分 = 7.0  \n5. 简要理由：答案对药物分类和机制描述基本正确，但未明确引用具体证据来源（如PMID或DrugBank）。机制描述较详细但缺少部分分子细节（如具体受体亚型或下游效应）。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "A 45 year old female patient presents with symptoms of easy bruisability and frequent headaches. Physical examination show a moderate splenomegaly. Blood counts shows a normal leucocyte count and a pl...",
+    "answer": "**Restated Question**\n\nA 45-year-old female presents with easy bruisability and frequent headaches. On physical examination, she has moderate splenomegaly. Her blood counts reveal a normal leukocyte count and a markedly elevated platelet count of 1,000 x 10³/cu mm. Additionally, her leukocyte alkali...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 2.5,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：2.5  \n4. 总分 = 9.5  \n5. 简要理由：答案详细描述了ET的病理机制和治疗选择，核心机制完全正确（4.0分）。机制描述包含分子功能变化但缺少部分下游效应细节（3.0分）。引用了临床指南但未逐条绑定PMID等具体证据（2.5分）。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Which of the following drugs should be given in a patient with acute angle closure glaucoma .except?",
+    "answer": "The question asks us to identify which drug should **not** be given to a patient with acute angle closure glaucoma. The options provided are Pilocarpine, Clozapine, Fluphenazine, and Paroxetine. To determine the correct answer, we must analyze each option in the context of acute angle closure glauco...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 2.5,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：2.5  \n4. 总分 = 9.5  \n5. 简要理由：答案详细分析了每种药物的作用机制及其在急性闭角型青光眼中的适用性，核心机制完全正确。机制描述较为精细，但部分细节如具体分子作用路径未完全展开。证据引用充分但未逐条绑定具体PMID或数据库ID。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Tocilizumab used against Rheumatoid arthritis is a monoclonal antibody against :?",
+    "answer": "The clinical scenario involves understanding the mechanism of action of Tocilizumab in the treatment of rheumatoid arthritis (RA). Tocilizumab is a monoclonal antibody used to manage RA, a chronic inflammatory disorder characterized by joint inflammation and pain. To determine the precise target of ...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 1.5,
+    "total": 8.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：1.5  \n4. 总分 = 8.5  \n5. 简要理由：答案详细解释了Tocilizumab的作用机制，明确指出其靶点为IL-6受体而非IL-6本身，事实正确性满分。机制精细度较高，但缺少具体的分子相互作用细节。证据可追溯性较弱，虽然提到了临床证据，但未提供具体的PMID或数据库ID。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Which of the following can be given as a single dose antimalarial for P.vivax malaria?",
+    "answer": "**Restated Question**\n\nThe question asks which of the listed antimalarial medications can be administered as a single dose to treat *Plasmodium vivax* malaria. The options provided are:\n\n1. Atovaquone + Proguanil\n2. Artemisinin\n3. Quinine + Tetracycline\n4. Pyrimethamine + Sulfadoxine\n\n**Key Details*...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.5,
+    "total": 7.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.5  \n4. 总分 = 7.5  \n5. 简要理由：答案对药物机制和适用性描述基本正确，但部分细节如Pyrimethamine + Sulfadoxine对P.vivax的适用性未完全精确。机制描述较全面但缺少部分分子细节。虽有临床指南暗示，但未提供具体PMID或数据库引用。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Which NSAID can cause hyperuricemia?",
+    "answer": "The question at hand asks which nonsteroidal anti-inflammatory drug (NSAID) can cause hyperuricemia. To address this, it's essential to meticulously analyze each option provided, understand the underlying pharmacological mechanisms, and rectify previous misconceptions that led to an incorrect conclu...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.5,
+    "total": 7.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.5  \n4. 总分 = 7.5  \n5. 简要理由：答案详细分析了多种NSAID对尿酸代谢的影响，核心机制正确但部分细节不够精确（如未明确引用具体研究）。机制描述较完整但缺少分子层面的具体证据（如未提及其对特定转运蛋白的影响）。虽有临床证据提及但未提供具体PMID或数据库ID。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Cytochrome oxidase is inhibited by?",
+    "answer": "**Restated Question**\n\nThe question asks which substance inhibits cytochrome oxidase. The options provided are Cyanide, Aluminum phosphide, Phenobarbitone, and Carbon monoxide. Cytochrome oxidase is a critical enzyme in the mitochondrial electron transport chain, responsible for the final step of el...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 1.5,
+    "total": 8.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：1.5  \n4. 总分 = 8.5  \n5. 简要理由：答案核心机制完全正确（如氰化物抑制细胞色素氧化酶的分子机制），但未提供PMID等具体证据来源；机制描述完整但未达到最高精细度（如缺少部分下游效应细节）。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Haemodialysis is most effective in treating poisoning due to:?",
+    "answer": "The question at hand involves determining which of the listed substances—amphetamine, cocaine, barbiturates, or opium—is most effectively treated with haemodialysis in cases of poisoning. To arrive at the correct answer, it is imperative to meticulously analyze each option based on their pharmacokin...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.0,
+    "total": 7.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.0  \n4. 总分 = 7.0  \n5. 简要理由：答案详细分析了各物质的药代动力学特性，核心机制基本正确（3.5分），但分子机制描述未达到完整水平（2.5分）。虽有临床指南和研究的提及，但未提供具体PMID/UniProt等可验证证据（1.0分）。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "True about epidural narcotics (opioids) are all except?",
+    "answer": "**Restated Question**\n\nWe are presented with a multiple-choice question concerning epidural narcotics, specifically opioids administered via the epidural route. The question asks us to identify which of the provided statements is **not** true about epidural narcotics. The phrasing \"all except\" indic...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.5,
+    "total": 7.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.5  \n4. 总分 = 7.5  \n5. 简要理由：答案详细解释了药物作用机制和副作用，事实基本正确但未提供具体证据来源。机制描述较全面但缺少分子层面的细节。证据部分仅提及一般性研究未提供PMID等可验证标识。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "When a patient is already on atropine and i.v. administration of norepinephrine to him will lead to:?",
+    "answer": "In this clinical scenario, we examine the physiological interplay between atropine and norepinephrine when administered concurrently. Understanding their pharmacological effects and the resultant hemodynamic changes is essential to deduce the correct outcome. The correct answer to the question—**\"De...",
+    "factuality": 3.5,
+    "granularity": 3.0,
+    "grounding": 1.0,
+    "total": 7.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：3.0  \n3. 证据可追溯性：1.0  \n4. 总分 = 7.5  \n5. 简要理由：答案详细描述了atropine和norepinephrine的药理作用机制，核心机制正确但缺少具体分子细节的证据支持；虽然提到了临床证据和生理机制，但未提供PMID/UniProt等可验证的引用来源。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Questionnaire is to check toxicity after -?",
+    "answer": "The question presents a scenario where a questionnaire is utilized to assess toxicity following exposure to a particular substance. The options provided include Alcohol, Nicotine, Opium, and Heroine. The correct answer is identified as Alcohol. To thoroughly analyze this, it's essential to dissect e...",
+    "factuality": 3.0,
+    "granularity": 1.5,
+    "grounding": 1.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：3.0  \n2. 机制精细度：1.5  \n3. 证据可追溯性：1.0  \n4. 总分 = 5.5  \n5. 简要理由：答案整体正确但未聚焦药物-靶点机制（事实性扣分）；仅描述药理效应而无分子机制细节（精细度扣分）；引用临床问卷但未提供PMID等可验证证据（可追溯性扣分）。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Infection in HIV patients resistant to Fluconazole is treated with?",
+    "answer": "In addressing the treatment of infections in HIV patients resistant to Fluconazole, it is essential to comprehensively analyze the clinical scenario, understand the underlying pathophysiology, and evaluate the therapeutic options meticulously. This thorough examination ensures that the chosen antifu...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.5,
+    "total": 7.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.5  \n4. 总分 = 7.5  \n5. 简要理由：答案在事实正确性上表现良好，基本正确但缺少部分精确细节；机制精细度中等，描述了作用机制但未完全达到分子水平；证据可追溯性较弱，虽有临床指南提及但未提供具体PMID或数据库ID。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Fairy 23 year old pregnant female having severe sensitivity to amoxicillin drug used to treat Gonorrhea in a single dose should be?",
+    "answer": "The clinical scenario presents a 23-year-old pregnant female diagnosed with Gonorrhea who exhibits a severe sensitivity to amoxicillin. The primary objective is to identify an appropriate antibiotic for the single-dose treatment of Gonorrhea under these specific circumstances.\n\n**Restated Question**...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 2.5,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：2.5  \n4. 总分 = 9.5  \n5. 简要理由：答案详细分析了各抗生素的适用性，核心机制完全正确（4.0分）；机制描述包含分子作用类型和临床考量（3.0分）；虽未逐条引用PMID，但整体依据CDC指南和药理学原理（2.5分）。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "A 28 year old male presented with rash on his arms, legs and face, and painful ulceration of his lips and mouth along with fever. He developed an acute sore throat and conjunctivitis, following which ...",
+    "answer": "The clinical scenario presents a 28-year-old male with a rash on his arms, legs, and face, painful ulcerations of the lips and mouth, fever, acute sore throat, and conjunctivitis. Initially diagnosed with acute pharyngitis presumed to be streptococcal, he was prescribed oral penicillin. The treatmen...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 2.0,
+    "total": 8.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：2.0  \n4. 总分 = 8.0  \n5. 简要理由：答案对SJS/TEN的病理机制和治疗选项分析基本正确，但部分治疗选项的临床证据支持不够充分。机制描述较为详细，但缺少部分分子层面的细节。证据引用存在但未逐条绑定具体文献或数据库ID。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Malonyl acetyltransferase has an activity of how many enzymes-?",
+    "answer": "**Restated Question**\n\nThe question seeks to determine the number of enzymatic activities associated with malonyl acetyltransferase. Specifically, it asks: \"Malonyl acetyltransferase has an activity of how many enzymes?\" The provided options are numerical values: 1, 2, 3, or 4, with the correct answ...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 2.0,
+    "total": 8.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：2.0  \n4. 总分 = 8.0  \n5. 简要理由：答案基本正确，但机制描述不够精细，缺少分子层面的详细解释；证据引用存在但关联较弱，未逐条绑定具体研究。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Long-acting local anesthetic agent :?",
+    "answer": "In addressing the question of identifying a long-acting local anesthetic agent among Procaine, Lidocaine, Bupivacaine, and Etidocaine, it is essential to meticulously analyze each option based on their pharmacokinetic profiles, clinical applications, and current usage patterns. This comprehensive an...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 1.0,
+    "total": 8.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：1.0  \n4. 总分 = 8.0  \n5. 简要理由：答案详细描述了每种麻醉剂的分类、作用时间和临床用途，事实正确性高。机制精细度较好，但缺少分子层面的详细机制描述。证据可追溯性较弱，虽然有临床指南和研究的提及，但没有具体引用PMID或数据库ID。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "In a child with exercise induced asthma, which is done:?",
+    "answer": "**Restated Question**  \nIn a child diagnosed with exercise-induced asthma, which preventive intervention is most appropriate?\n\n**Key Details**  \n- **Patient Demographics:** Child (specific age not provided)\n- **Clinical History:** Diagnosed with exercise-induced asthma\n- **Symptoms:** Asthma symptom...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 2.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：2.0  \n4. 总分 = 9.0  \n5. 简要理由：答案详细描述了运动性哮喘的病理生理机制和预防干预措施，核心机制完全正确。机制精细度较高，但缺少部分分子细节。证据可追溯性方面，虽然提到了GINA指南，但未提供具体PMID或数据库ID。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "In case of anisocoria when 1% pilocarpine is instilled into the eye with abnormally dilated pupil, pupil remains dilated. Cause of anisocoria maybe-?",
+    "answer": "In this clinical scenario, we are presented with a patient exhibiting anisocoria, which refers to unequal pupil sizes. Specifically, after the instillation of 1% pilocarpine into the eye with an abnormally dilated pupil, the pupil remains dilated. The question asks us to determine the most likely ca...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 1.5,
+    "total": 8.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：1.5  \n4. 总分 = 8.5  \n5. 简要理由：答案详细解释了不同病因的机制差异，核心机制完全正确（4.0分）；包含完整的分子作用路径和功能变化（3.0分）；虽未逐条引用文献，但提及了药理测试的临床依据（1.5分）。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Retinoscopy in 5 year old is best done with:?",
+    "answer": "When performing retinoscopy in a 5-year-old child, selecting the appropriate cycloplegic agent is crucial for obtaining accurate refractive measurements. Among the options provided—Atropine, Homatropine, Cyclopentolate, and Tropicamide—**Cyclopentolate** emerges as the most suitable choice. Here's a...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 1.5,
+    "total": 8.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：1.5  \n4. 总分 = 8.5  \n5. 简要理由：答案详细解释了不同药物的作用机制和选择Cyclopentolate的理由，事实正确性高。机制精细度完整，涵盖了分子作用类型和功能变化。证据可追溯性方面，虽然提到了AAO指南，但未提供具体PMID或DrugBank等可验证的引用。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Which of the following drug can lead to given below condition?",
+    "answer": "The question presents a scenario where we must identify which drug among Vancomycin, Phenytoin, Valproate, and Amiodarone can lead to a specific condition. Although the condition is not explicitly stated, the correct answer is provided as Amiodarone. To comprehensively analyze and justify this answe...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.0,
+    "total": 7.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.0  \n4. 总分 = 7.0  \n5. 简要理由：答案详细描述了各药物的副作用，核心机制基本正确但未明确具体条件；机制描述较全面但缺少分子层面的细节；虽有临床依据但未提供具体PMID/UniProt等可验证证据。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Which of the following is known as 'the medical discovery of 20th century'?",
+    "answer": "In addressing the question, \"Which of the following is known as 'the medical discovery of the 20th century'?\" with the options Zidovudine, Smallpox vaccine, ORS, and Penicillin, it is essential to meticulously evaluate each option's historical context, impact, and significance within the 20th centur...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 1.0,
+    "total": 7.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.0  \n4. 总分 = 7.5  \n5. 简要理由：答案核心事实完全正确（青霉素的发现和影响），机制描述包含分子功能但缺少完整下游效应细节，虽有WHO等机构提及但未提供具体可验证的PMID/UniProt等证据编号。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Which of the Anti - TB drug can not be used along with Rifampicin?",
+    "answer": "The question asks which anti-tuberculosis (TB) drug cannot be used in combination with Rifampicin. The options provided are Thioacetazone, Bedaquiline, PAS (para-aminosalicylic acid), and Ethionamide. To determine the correct answer, it's essential to analyze each drug's interaction with Rifampicin,...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 1.5,
+    "total": 8.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：1.5  \n4. 总分 = 8.5  \n5. 简要理由：答案详细描述了Rifampicin与各抗结核药物的相互作用机制，核心机制100%正确（4.0分）。机制描述包含分子功能变化和下游效应，但部分细节不够完整（3.0分）。未提供具体PMID/UniProt等证据，仅提到临床指南（1.5分）。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "An analogue of Amylin approved for type I / type 2 Diabetes Mellitus is?",
+    "answer": "The question presents a clinical scenario focusing on the approval status of amylin analogues for the management of both type I and type II Diabetes Mellitus. Specifically, it inquires about the approved formulations of pramlintide, an amylin analogue, by listing various administration routes: oral,...",
+    "factuality": 3.0,
+    "granularity": 2.5,
+    "grounding": 1.0,
+    "total": 6.5,
+    "raw_evaluation": "1. 事实正确性：3.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.0  \n4. 总分 = 6.5  \n5. 简要理由：答案关于pramlintide的作用机制和糖尿病类型描述基本正确，但部分细节（如口服pramlintide的批准状态）存在不精确。机制描述较完整但缺少部分分子细节。虽有临床指南和FDA的提及，但未提供具体PMID或DrugBank等可验证证据。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "INH can be used safely in the presence of?",
+    "answer": "The question pertains to the safe use of Isoniazid (INH) in patients with specific medical conditions. The options provided are jaundice, chronic renal failure, epilepsy, and coronary artery disease, with the correct answer being coronary artery disease. To thoroughly understand and justify this ans...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.0,
+    "total": 7.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.0  \n4. 总分 = 7.0  \n5. 简要理由：答案核心机制正确（INH在冠心病患者中相对安全），但未提供具体PMID/UniProt等证据支持；机制描述包含代谢途径但缺乏分子级细节。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Treatment of choice for extended spectrum beta- lactamase producing enterococci:?",
+    "answer": "The question pertains to identifying the treatment of choice for infections caused by extended-spectrum beta-lactamase (ESBL) producing enterococci. To approach this, it's essential to dissect the clinical scenario meticulously, understand the underlying pathophysiology, evaluate each treatment opti...",
+    "factuality": 3.0,
+    "granularity": 2.5,
+    "grounding": 1.0,
+    "total": 6.5,
+    "raw_evaluation": "1. 事实正确性：3.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.0  \n4. 总分 = 6.5  \n5. 简要理由：答案整体正确但未明确区分ESBL在肠球菌中的罕见性（应强调其主见于革兰阴性菌），机制分析较全面但缺少分子层面细节（如具体酶抑制机制），虽有临床依据但未提供PMID/UniProt等可验证证据。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Which of the following can lead to Megaloblastic anemia?",
+    "answer": "The question asks which of the following medications can lead to megaloblastic anemia. The options provided are Dorzolamide, Chlorthiazide, Triamterene, and Canrenone.\n\nTo determine the correct answer, it's essential to understand megaloblastic anemia's pathophysiology and how each medication might ...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.5,
+    "total": 7.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.5  \n4. 总分 = 7.5  \n5. 简要理由：答案基本正确，详细解释了Chlorthiazide如何通过影响叶酸代谢导致巨幼细胞性贫血，但缺少具体的研究引用（如PMID）来支持每个药物的机制描述。机制描述较为详细，但未达到完整的分子机制水平。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "All are treatment modalities of OCD except:?",
+    "answer": "a) **Restated Question**\n\nThe question presents four potential treatment modalities for Obsessive-Compulsive Disorder (OCD) and asks which one is **not** recognized as a treatment for OCD. Specifically, it inquires: \"All are treatment modalities of OCD except:\" The options provided are Exposure & Re...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 2.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：2.0  \n4. 总分 = 9.0  \n5. 简要理由：答案核心机制完全正确（4.0分），详细区分了各治疗方式的分子机制和临床依据（3.0分），但未逐条标注PMID/数据库ID（2.0分）。临床指南和药理学依据充分，仅证据关联形式需强化。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "A 5-year old child developed seizures a few months ago. The seizures sta with feeling of strange smell (burning rubber), continue with generalized contractions, and end with rhythmic spasms. Conscious...",
+    "answer": "In managing the immunization schedule of a child with a history of seizures, it is imperative to meticulously evaluate both the benefits and potential risks associated with proceeding or deferring vaccinations. This comprehensive analysis delves into the clinical scenario presented, integrates criti...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.5,
+    "total": 7.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.5  \n4. 总分 = 7.5  \n5. 简要理由：答案在事实正确性上表现良好，基本正确但存在轻微不精确；机制精细度方面提供了分子功能变化但缺少完整分子机制；证据可追溯性方面有引用但不够明确，未逐条绑定具体证据来源。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Drugs used to remove the gingival enlargement:?",
+    "answer": "The question addresses the pharmacological management of gingival enlargement, specifically querying which drugs are utilized to reduce or eliminate this condition. Gingival enlargement, or hyperplasia, involves the abnormal growth of gum tissue, which can result from various etiologies including in...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 1.0,
+    "total": 6.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.0  \n3. 证据可追溯性：1.0  \n4. 总分 = 6.5  \n5. 简要理由：答案整体事实正确，但部分机制描述不够精确（如“eschortic drugs”的讨论）。机制部分提到细胞凋亡和组织增殖抑制，但缺乏具体分子细节。虽有临床指南的提及，但未提供具体PMID或数据库引用。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "True about misoprostol:?",
+    "answer": "The question at hand assesses the properties and clinical uses of misoprostol, a medication widely utilized in obstetrics and gynecology. Understanding its pharmacological classification, indications, administration routes, and distinguishing it from similar agents is crucial for accurate clinical a...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 1.5,
+    "total": 8.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.5  \n4. 总分 = 8.0  \n5. 简要理由：答案详细描述了米索前列醇的临床用途和作用机制，核心事实完全正确。机制描述较为全面，但缺少分子层面的具体细节。虽然提到了WHO和ACOG等指南，但未提供具体的PMID或数据库ID，证据关联性较弱。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Thioamide drugs:?",
+    "answer": "In approaching the question about thioamide drugs, it is essential to comprehensively analyze each option to determine the most accurate statement regarding their use and safety profile. Thioamides, including methimazole and propylthiouracil (PTU), are primary medications used in the management of h...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.0,
+    "total": 7.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.0  \n4. 总分 = 7.0  \n5. 简要理由：答案对硫脲类药物的作用机制描述基本正确，但缺少具体分子细节（如酶名称）；安全性的临床描述符合指南，但未提供PMID等直接证据引用；机制部分虽提及功能变化，但未完整覆盖下游效应。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "A 40-year-old man presents with problems with his vision. He says he has been experiencing blurred vision and floaters in his left eye for the past few days. He denies any ocular pain, fever, or heada...",
+    "answer": "The patient is a 40-year-old man with a history of HIV infection, presenting with blurred vision and floaters in his left eye over the past few days. He is noncompliant with antiretroviral therapy, and his most recent CD4 count is significantly low at 100 cells/mm³, indicating advanced immunosuppres...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 1.5,
+    "total": 8.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：1.5  \n4. 总分 = 8.5  \n5. 简要理由：答案详细描述了CMV的分子机制和治疗策略，核心机制完全正确（4.0分）。机制描述包含分子功能变化和下游效应，但缺少部分细节（3.0分）。虽然提到了CDC指南和药物类别，但未提供具体PMID或数据库ID（1.5分）。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "A 27-year-old woman presents to her obstetrician for a regular follow-up appointment. The patient is 32 weeks pregnant. She has been followed throughout her pregnancy and has been compliant with care....",
+    "answer": "The patient is a 27-year-old woman who is 32 weeks pregnant and has presented for a regular obstetric follow-up. She has a history of a seizure disorder managed previously with valproic acid, which she has discontinued during her pregnancy. Additionally, she has severe allergies, specifically anaphy...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 2.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：2.0  \n4. 总分 = 9.0  \n5. 简要理由：答案在事实正确性上表现优秀，核心机制100%正确且所有陈述均有依据。机制精细度方面，提供了完整的分子机制和功能变化，但缺少一些细节。证据可追溯性方面，虽然答案引用了临床指南，但未具体绑定到PMID或UniProt等具体证据源。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "A 25-year-old female is brought to the physician by her mother who is concerned about her recent behaviors. The mother states that her daughter has been collecting “useless items” in her apartment ove...",
+    "answer": "The clinical scenario involves a 25-year-old female presenting with behaviors indicative of hoarding disorder. Over the past year, she has been collecting \"useless items,\" leading to significant clutter in her apartment. Her mother's attempt to discard old newspapers resulted in an angry outburst an...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.5,
+    "total": 7.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.5  \n4. 总分 = 7.5  \n5. 简要理由：答案对病理机制描述基本正确但缺乏分子细节（如具体SSRI药物名称或剂量），证据引用仅提及\"研究\"和\"指南\"但未提供具体PMID/数据库编号。临床决策部分符合指南但未完全锚定到可验证来源。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "All are impoant mechanisms in the formation of lithogenic bile:?",
+    "answer": "**Restated Question**\n\nThe clinical question asks which of the following mechanisms are important in the formation of lithogenic bile:\n\n1. Increased biliary secretion of cholesterol\n2. Increased activity of HMG CoA reductase\n3. Clofibrate\n4. Low calorie and cholesterol-rich diet\n\nThe task is to iden...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 1.5,
+    "total": 8.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：1.5  \n4. 总分 = 8.5  \n5. 简要理由：答案详细解释了每个机制如何导致胆石性胆汁的形成，事实正确性高。机制精细度较好，但缺少一些分子层面的细节。证据可追溯性较弱，虽然有提到证据，但没有具体引用PMID或数据库ID。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "The drug X is used in osteoporosis. Its mechanism of action is shown in the Figure below. X is likely to?",
+    "answer": "a) **Restated Question**\n\nWe are presented with a clinical multiple-choice question (MCQ) that asks us to identify a drug used in the treatment of osteoporosis based on its mechanism of action, which is depicted in an accompanying figure. The options provided are Teriparatide, Alendronate, Denosumab...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 2.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：2.0  \n4. 总分 = 9.0  \n5. 简要理由：答案详细描述了Denosumab的作用机制（RANKL抑制），事实完全正确；机制描述包含分子靶点和功能变化，但缺少下游效应细节；虽提及临床证据但未提供具体PMID/UniProt等可追溯标识。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Which antineoplastic drug is a peptide?",
+    "answer": "The question at hand seeks to identify which antineoplastic drug among the provided options is classified as a peptide. To systematically approach this, it is essential to dissect each component of the question and thoroughly evaluate each option in the context of their biochemical nature and clinic...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.5,
+    "total": 7.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.5  \n4. 总分 = 7.5  \n5. 简要理由：答案详细分析了多个药物的肽结构和抗肿瘤作用，核心机制基本正确但存在少量不精确（如Aspaeme的假设）。机制描述较完整但缺少部分分子细节。虽有临床指南提及但未提供具体PMID/UniProt等可验证证据。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "In apoptosis which is/are involved?",
+    "answer": "To determine which components are involved in apoptosis, it is essential to dissect each option meticulously, understand their roles within the apoptotic pathways, and address previous misconceptions that may have led to an incorrect all-inclusive interpretation.\n\n**Restated Question**\n\nThe question...",
+    "factuality": 3.5,
+    "granularity": 3.0,
+    "grounding": 1.5,
+    "total": 8.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：3.0  \n3. 证据可追溯性：1.5  \n4. 总分 = 8.0  \n5. 简要理由：答案详细描述了Apaf-1、Bcl2、Caspases和Programmed cell death在凋亡中的作用，核心机制基本正确，但部分细节如Bcl2和Caspases的表述不够精确。机制描述较为完整，但缺少具体分子细节的证据引用，仅提供了部分临床背景信息。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "True about methicillin-resistant Staphylococcus aureus (MRSA) is?",
+    "answer": "The question seeks to identify a true statement about methicillin-resistant *Staphylococcus aureus* (MRSA) from the provided options. To thoroughly evaluate each option and determine the most accurate statement, it's essential to dissect the clinical and microbiological aspects of MRSA, integrating ...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.5,
+    "total": 7.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.5  \n4. 总分 = 7.5  \n5. 简要理由：  \n- 事实正确性较高（3.5），核心机制描述准确但部分细节（如PVL毒素的分布）未明确区分HA/CA-MRSA差异  \n- 机制精细度中等（2.5），包含分子机制（mecA/PBP2a）但未深入下游效应  \n- 证据可追溯性较弱（1.5），虽提及临床指南但未提供PMID等具体证据源",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Rx of chronic HBV infection -?",
+    "answer": "In addressing the treatment of chronic hepatitis B virus (HBV) infection, it's essential to meticulously analyze the clinical scenario, understand the underlying pathophysiology, evaluate each treatment option based on current guidelines and evidence, and ultimately identify the most appropriate the...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.5,
+    "total": 7.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.5  \n4. 总分 = 7.5  \n5. 简要理由：答案整体事实正确但未明确引用具体证据（如PMID），机制描述较全面但缺少部分分子细节，未逐条绑定可验证的文献或数据库ID。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Sibutramine is ?",
+    "answer": "**Restated Question**\n\nThe question asks to identify the classification of Sibutramine from the following options: Antithyroid drug, Antiobesity drug, Antimalarial drug, and Antituberculous drug.\n\n**Key Details**\n\n- **Drug in Question:** Sibutramine\n- **Option A:** Antithyroid drug\n- **Option B:** A...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 2.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：2.0  \n4. 总分 = 9.0  \n5. 简要理由：答案核心机制（抑制神经递质再摄取以抑制食欲）完全正确且无偏差（4.0分）；详细说明了分子功能变化及下游效应（3.0分）；虽提及临床指南和FDA行动，但未直接绑定PMID/UniProt等具体证据（2.0分）。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "A patient presents with fever, uicaria, itching and swelling followed by injection of Penicillin. It is due to?",
+    "answer": "The clinical scenario presents a patient who experiences fever, urticaria (hives), itching, and swelling following the injection of Penicillin. To accurately determine the type of hypersensitivity reaction responsible for these symptoms, it is essential to meticulously analyze each aspect of the pre...",
+    "factuality": 3.5,
+    "granularity": 3.0,
+    "grounding": 1.0,
+    "total": 7.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：3.0  \n3. 证据可追溯性：1.0  \n4. 总分 = 7.5  \n5. 简要理由：答案详细分析了四种超敏反应类型，机制描述较为精细，但未提供具体证据来源（如PMID等），仅列出一般性知识。对青霉素引起的超敏反应类型判断基本正确，但未完全排除IgE介导的可能性。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Hepatic adaptation is caused by which antituberculous drug?",
+    "answer": "In addressing the question of which antituberculous drug causes hepatic adaptation, it is essential to meticulously analyze the clinical context, the pharmacological profiles of the medications involved, and the nuanced distinction between hepatic adaptation and hepatotoxicity. The correct answer is...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.5,
+    "total": 7.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.5  \n4. 总分 = 7.5  \n5. 简要理由：答案正确识别了Isoniazid（INH）作为导致肝适应的抗结核药物，但未提供具体PMID/UniProt等证据支持机制细节。机制描述包含酶诱导和毒性降低的关联，但缺乏分子层面的完整通路说明。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Which of the following is true about Extended spectrum beta lactamases?",
+    "answer": "Extended spectrum beta lactamases (ESBLs) are a significant concern in both clinical and microbiological contexts due to their role in antibiotic resistance. Understanding the true statements about ESBLs is crucial for appropriate antimicrobial therapy and infection control measures. This analysis w...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.5,
+    "total": 7.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.5  \n4. 总分 = 7.5  \n5. 简要理由：答案对ESBLs的定义和机制描述基本正确，但部分细节不够精确（如“plasma mediated”应为“plasmid mediated”）。机制描述较为全面，但缺少分子层面的详细解释。证据引用不够具体，未提供PMID或数据库ID等可验证信息。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "True about T. pallidum is -?",
+    "answer": "The question requires identifying the true statement about *Treponema pallidum* (T. pallidum), the bacterium responsible for syphilis. To arrive at the correct answer, it is essential to meticulously analyze each option, incorporate error feedback from previous attempts, and ensure a comprehensive u...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.5,
+    "total": 7.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.5  \n4. 总分 = 7.5  \n5. 简要理由：答案详细描述了T. pallidum的免疫逃逸机制，核心事实正确但部分细节不够精确（如Hyaluronidase的关联性）。机制描述较全面但缺少分子层面的完整细节。虽有提及研究但未提供具体PMID/UniProt等可验证证据。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Which of the following local anaesthetic causes least vasodilation:?",
+    "answer": "The question prompts us to identify which local anesthetic among the given options causes the least vasodilation. Understanding the vasodilatory effects of local anesthetics is crucial because vasodilation can influence the onset and duration of anesthesia, as well as the systemic absorption of the ...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.5,
+    "total": 7.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.5  \n4. 总分 = 7.5  \n5. 简要理由：答案基本正确，详细比较了不同局部麻醉药的血管扩张作用，但缺少具体的分子机制细节。证据部分提到了临床指南和研究，但未提供具体的PMID或数据库ID。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "In Jorgenson technique drugs given by IV routes are:?",
+    "answer": "**Restated Question**\n\nThe clinical question poses a query about the Jorgenson technique, specifically inquiring which of the listed drugs are administered via intravenous (IV) routes within this method. The options provided are Pentobarbitol, Scopolamine, Pethidine, and an option indicating that al...",
+    "factuality": 0.0,
+    "granularity": 0.0,
+    "grounding": 0.0,
+    "total": 0.0,
+    "raw_evaluation": "1. 事实正确性：0.0  \n2. 机制精细度：0.0  \n3. 证据可追溯性：0.0  \n4. 总分 = 0.0  \n5. 简要理由：答案未提供任何关于Jorgenson技术的具体药物机制或证据支持，仅重复了问题内容并进行了泛泛讨论，未满足任何评分维度的最低要求。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "True  about use of anticonvulsants and OCPs in epileptic patient is all except?",
+    "answer": "Restating the question: The objective is to identify the statement that is **not** true regarding the use of oral contraceptives (OCPs) in epileptic patients who are on anticonvulsant therapy. Specifically, we need to determine which of the provided statements is incorrect about the interactions and...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 2.0,
+    "total": 8.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：2.0  \n4. 总分 = 8.0  \n5. 简要理由：答案详细分析了抗惊厥药与口服避孕药的相互作用，核心机制基本正确（3.5分）。机制描述包含分子功能变化但缺少完整下游效应（2.5分）。虽提及临床指南但未逐条引用具体证据（2.0分）。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Iron content of MALA-D -?",
+    "answer": "The question at hand pertains to the iron content of MALA-D, with the provided options being 10 mg, 19-5 mg, 29-5 mg, and 40 mg. The correct answer is identified as 19-5 mg. To thoroughly understand and justify this answer, it is essential to dissect the question meticulously, address prior reasonin...",
+    "factuality": 1.0,
+    "granularity": 0.0,
+    "grounding": 0.0,
+    "total": 1.0,
+    "raw_evaluation": "1. 事实正确性：1.0  \n2. 机制精细度：0.0  \n3. 证据可追溯性：0.0  \n4. 总分 = 1.0  \n5. 简要理由：答案未提供任何关于MALA-D铁含量的具体证据或引用来源，且未描述任何分子机制或作用路径。仅基于假设和临床推测，缺乏可验证的事实依据。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Most impoant predictor of coronary aery disease aEUR'?",
+    "answer": "The question pertains to identifying the most important predictor of coronary artery disease (CAD) among the given lipoproteins: VLDL, LDL, Chylomicron, and HDL. Despite traditional emphasis on LDL as a primary risk factor, current evidence and nuanced understanding of lipid profiles suggest that HD...",
+    "factuality": 2.5,
+    "granularity": 2.0,
+    "grounding": 1.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：2.5  \n2. 机制精细度：2.0  \n3. 证据可追溯性：1.0  \n4. 总分 = 5.5  \n5. 简要理由：答案方向正确但关键机制缺少具体证据支撑（如未引用PMID等）；机制描述有分子功能变化但不够完整；仅列出临床指南等泛泛证据，无具体可追溯引用。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "PGE2 cervical gel for cervical ripening maximum dose in 24 hrs is ?",
+    "answer": "In addressing the question of the maximum dose of PGE2 cervical gel for cervical ripening within a 24-hour period, it is essential to adopt a systematic and evidence-based approach. Prostaglandin E2 (PGE2) is a widely utilized agent in obstetrics for promoting cervical ripening and facilitating labo...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 2.0,
+    "total": 7.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：1.5  \n3. 证据可追溯性：2.0  \n4. 总分 = 7.0  \n5. 简要理由：答案提供了详细的剂量范围和临床指南依据（ACOG），但未明确引用具体PMID或DrugBank编号。机制部分仅描述药理效应，缺乏分子层面的细节。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Aromatase inhibitor-related musculoskeletal symptoms: is preventing osteoporosis the key to eliminating these symptoms?",
+    "answer": "Aromatase inhibitors (AIs) are a cornerstone in the management of hormone receptor-positive breast cancer in postmenopausal women. They function by inhibiting the aromatase enzyme, which is crucial for the peripheral conversion of androgens to estrogens. By reducing estrogen levels, AIs effectively ...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 2.5,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：2.5  \n4. 总分 = 9.5  \n5. 简要理由：  \n- 事实正确性满分，所有机制描述均符合已知药理作用（如芳香化酶抑制、雌激素减少与骨质疏松的因果关系）。  \n- 机制精细度完整，涵盖分子作用（芳香化酶抑制）、功能变化（骨吸收增加）及下游效应（骨质疏松→肌肉骨骼症状）。  \n- 证据可追溯性良好，提及ASCO/NCCN指南但未提供具体PMID或数据库ID。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Does ultrasound-scored synovitis depend on the pharmacokinetics of subcutaneous anti-TNF agents in patients with rheumatoid arthritis?",
+    "answer": "The question at hand seeks to determine whether the assessment of synovitis through ultrasound scoring is influenced by the pharmacokinetics of subcutaneous anti-TNF agents in patients suffering from rheumatoid arthritis (RA). To address this, it is essential to dissect the components of the clinica...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.5,
+    "total": 7.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.5  \n4. 总分 = 7.5  \n5. 简要理由：答案基本正确，但缺少具体分子机制细节；虽然提到了药代动力学和药效动力学的区别，但未提供具体证据支持每条陈述；整体逻辑清晰，但证据关联性较弱。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "CYP2D6*4 allele and breast cancer risk: is there any association?",
+    "answer": "a) **Restated Question**\n\nThe question seeks to determine whether there is an association between the CYP2D6*4 allele and the risk of developing breast cancer. Specifically, it asks if carrying the CYP2D6*4 allele influences an individual's likelihood of developing breast cancer, with the possible r...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 2.0,
+    "total": 8.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：2.0  \n4. 总分 = 8.0  \n5. 简要理由：答案基本正确，但部分机制细节不够精确（如未明确说明具体雌激素代谢路径）。证据引用充分但未逐条绑定PMID/UniProt，且部分关联较弱（如提到meta分析但未提供具体文献）。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Cell shape and motility are provided by?",
+    "answer": "The question presents a fundamental concept in cell biology, specifically addressing the structural and functional components that contribute to cell shape and motility. Understanding the intricacies of the cytoskeleton and its constituent elements is crucial for comprehending how cells maintain the...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.0,
+    "total": 7.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.0  \n4. 总分 = 7.0  \n5. 简要理由：答案详细描述了微管和微丝在细胞形态和运动中的作用，但未提供具体证据来源（如PMID或数据库ID）。机制描述较全面但缺少部分分子细节，整体事实正确但部分内容可更精确。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Which of the following is involved in tumor metastasis cascade -?",
+    "answer": "The question at hand asks which molecule is involved in the tumor metastasis cascade among the following options: Fibronectin, E-Cadherin, Type IV collagenase, and Tyrosine kinase. The correct answer is E-Cadherin. To comprehensively understand why E-Cadherin is the most appropriate choice, it is es...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.5,
+    "total": 7.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.5  \n4. 总分 = 7.5  \n5. 简要理由：答案核心机制（E-Cadherin在转移中的作用）基本正确，但部分细节（如EMT具体通路）未精确说明；机制描述包含分子功能变化但缺乏完整下游效应；虽有临床研究提及但未提供具体PMID/UniProt等可验证证据。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Which of the following hormone does not act through c-AMP:?",
+    "answer": "The question asks which of the following hormones does not act through c-AMP: FSH, Progesterone, Estrogens, or GH. To determine the correct answer, it's essential to analyze each hormone's mechanism of action and understand the role of c-AMP in cellular signaling.\n\nFirst, let's summarize the scenari...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 0.5,
+    "total": 7.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：0.5  \n4. 总分 = 7.5  \n5. 简要理由：答案详细解释了每种激素的作用机制，核心机制100%正确（4.0分）；提供了分子功能变化和下游效应，但缺少部分细节（3.0分）；未提供具体PMID/UniProt等可验证证据（0.5分）。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "FDA approved antifungal treatment of mucormycosis?",
+    "answer": "To determine the FDA-approved antifungal treatment for mucormycosis, it is essential to conduct a comprehensive analysis of the clinical scenario, treatment options, and underlying pharmacological principles. This involves a meticulous examination of each option, understanding their efficacy, safety...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 2.5,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：2.5  \n4. 总分 = 9.5  \n5. 简要理由：答案详细描述了FDA批准的用于治疗毛霉菌病的抗真菌药物，核心机制100%正确（4.0分）。机制精细度较高，涵盖了药物作用类型和功能变化（3.0分）。证据可追溯性较好，引用了临床指南和FDA批准信息，但未逐条绑定具体PMID或DrugBank ID（2.5分）。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Drug of choice for petit mal seizures is: September 2007?",
+    "answer": "The question asks for the drug of choice for petit mal seizures, also known as absence seizures. Petit mal seizures are characterized by brief, sudden lapses in consciousness without the convulsions typically seen in other seizure types. These seizures are most common in children and are a subtype o...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 1.5,
+    "total": 8.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：1.5  \n4. 总分 = 8.5  \n5. 简要理由：核心机制描述完全正确（4.0分），包含分子作用机制但未达最精细水平（3.0分），虽提及药物作用原理但未提供具体PMID/数据库证据（1.5分）。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "The ECG change seen in hyperkalemia is?",
+    "answer": "**Restated Question**\n\nA patient presents with clinical signs suggestive of an electrolyte imbalance, and an electrocardiogram (ECG) is performed to identify specific cardiac changes. The question asks which ECG change is associated with hyperkalemia, a condition characterized by elevated potassium ...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 2.5,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：2.5  \n4. 总分 = 9.5  \n5. 简要理由：答案详细描述了高钾血症的心电图变化，核心机制100%正确（4.0分）；提供了分子层面的电生理机制，但未完全展开下游效应（3.0分）；引用了AHA等权威来源，但未直接标注PMID等具体证据编号（2.5分）。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Nef gene in HIV is for use-?",
+    "answer": "The Nef gene in HIV plays a crucial role in the virus's ability to replicate and evade the host immune system. Understanding the function of Nef is essential for comprehending HIV pathogenesis and developing targeted therapies. Let's delve deeply into the intricacies of this gene, addressing previou...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 1.5,
+    "total": 8.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：1.5  \n4. 总分 = 8.5  \n5. 简要理由：答案详细描述了Nef基因在HIV中的多种功能，包括CD4和MHC I的下调以及增强病毒复制，这些陈述均符合已知的科学事实。机制描述较为精细，但缺少具体的分子细节和下游效应。虽然提到了CDC和WHO指南，但未提供具体的PMID或数据库ID，证据可追溯性较弱。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Treatment of choice in severe depression is -?",
+    "answer": "In addressing the treatment of severe depression, it is essential to meticulously evaluate the clinical scenario, recognize the critical nuances, and apply evidence-based reasoning to determine the most appropriate intervention. This analysis will delve into the intricacies of severe depression, elu...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.0,
+    "total": 7.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.0  \n4. 总分 = 7.0  \n5. 简要理由：答案对SSRI和ECT的机制描述基本正确但缺乏分子细节（如Fluoxetine的5-HT转运体抑制浓度），临床指南引用合理但未提供PMID/DrugBank等具体证据源。ECT的神经可塑性机制描述较笼统，且全文未绑定任何可验证的文献或数据库标识符。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Zinc supplement given in 12 month baby?",
+    "answer": "To determine the appropriate zinc supplement dosage for a 12-month-old baby, it is essential to meticulously analyze the clinical scenario, understand the underlying factors that necessitate zinc supplementation, and evaluate the provided dosage options in light of current guidelines and evidence-ba...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 2.5,
+    "total": 8.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.0  \n3. 证据可追溯性：2.5  \n4. 总分 = 8.0  \n5. 简要理由：答案基本正确，提供了锌补充的临床背景和剂量分析，但未明确引用具体研究或指南（如WHO建议的PMID）。机制描述集中在剂量选择而非分子作用，证据部分提及WHO但未逐条绑定文献。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Which of the following aminosteroid neuromuscular blocker is safe in renal disease patients?",
+    "answer": "The question at hand requires identifying the aminosteroid neuromuscular blocker that is safe for use in patients with renal disease. To approach this, it's essential to understand the pharmacokinetics of each drug listed in the options, particularly their elimination pathways, and how renal impairm...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.0,
+    "total": 7.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.0  \n4. 总分 = 7.0  \n5. 简要理由：答案详细描述了各药物的消除途径和安全性，核心机制正确但缺少具体分子机制细节（如乙酰胆碱受体亚型作用）。证据部分仅提及药物类别和消除途径，未提供PMID等可验证引用。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Treatment of choice of penicilline resistant gonococcol infection is -?",
+    "answer": "The question revolves around identifying the appropriate treatment for a penicillin-resistant gonococcal infection. To address this comprehensively and rectify previous reasoning errors, let's delve deeply into each aspect of the scenario.\n\n**a) Restated Question**\n\nA patient has been diagnosed with...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 2.5,
+    "total": 9.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：2.5  \n4. 总分 = 9.5  \n5. 简要理由：答案核心机制完全正确（4.0分），详细分析了各抗生素的作用机制和适用性（3.0分），引用了CDC指南但未提供PMID等具体证据编号（2.5分）。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "A patient was being treated with a drug that interfaces with the activity of enzyme pyruvate ferredoxin oxidoreductase; Which of the following is the most likely organism causing infection in this pat...",
+    "answer": "a) **Restated Question**\n\nWe are presented with a clinical scenario involving a patient undergoing treatment with a drug that interacts with the enzyme pyruvate ferredoxin oxidoreductase (PFOR). The task is to identify the most likely organism causing the patient's infection from the following optio...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.5,
+    "total": 7.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.5  \n4. 总分 = 7.5  \n5. 简要理由：答案基本正确，但存在轻微不精确（如未明确区分PFOR在蠕虫与原生动物中的差异）。机制描述较完整但缺少部分分子细节（如未说明药物如何结合PFOR）。引用存在但未逐条绑定具体证据（如未提供PFOR在牛肉绦虫中的直接文献支持）。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Random arrangement of molecule results in?",
+    "answer": "a) **Restated Question**\n\nThe question seeks to identify the outcome associated with the random arrangement of molecules. Specifically, it asks which of the provided options—Crystallization, High Solubility, Denaturation, or All—results from molecules being arranged in a non-ordered, random fashion....",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.0,
+    "total": 7.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.0  \n4. 总分 = 7.0  \n5. 简要理由：答案对分子随机排列的机制解释基本正确，但部分细节不够精确（如未明确区分蛋白质与其他分子的变性机制）。机制描述较完整但缺少分子层面的具体证据引用（如未提供PMID等具体文献）。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "All true except ?",
+    "answer": "The question presents four statements regarding the effectiveness of specific antibiotics against particular pathogens and asks to identify the statement that is **not** true. To rigorously determine the correct answer, it's essential to meticulously analyze each option in the context of current cli...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 2.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：2.0  \n4. 总分 = 9.0  \n5. 简要理由：答案详细分析了四种抗生素的作用机制和有效性，核心机制100%正确（4.0分）。机制描述包含分子功能变化但未完全达到完整分子机制（3.0分）。虽然引用了临床指南但未提供具体PMID/UniProt等可追溯证据（2.0分）。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Natural elements having anticancer propeies -?",
+    "answer": "a) **Restated Question**\n\nWe are presented with a multiple-choice question (MCQ) that asks us to identify natural elements possessing anticancer properties. The options provided are Nitrosoamines, Vitamin C (Vit. C), Vitamin D (V1L D), and Carotene. Among these, Vitamin C has been indicated as the c...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 2.0,
+    "total": 8.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：2.0  \n4. 总分 = 8.0  \n5. 简要理由：答案对维生素C的抗癌机制描述基本正确，但部分细节不够精确（如高剂量维生素C的临床研究状态）。机制描述包含抗氧化作用但缺乏完整分子路径。引用临床研究和期刊但未提供具体PMID或数据库ID。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Gastric carcinoma is associated with all EXCEPT:?",
+    "answer": "**Restated Question**\n\nThe question seeks to identify which of the listed molecular or genetic abnormalities is **not** typically associated with gastric carcinoma. In other words, out of the options provided—Inactivation of p53, Overexpression of C-erb, Overexpression of C-met, and Activation of RA...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 2.0,
+    "total": 8.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：2.0  \n4. 总分 = 8.0  \n5. 简要理由：答案对分子机制描述基本正确但存在轻微不精确（如RAS激活的关联性争议），机制细节涵盖功能变化但缺少部分下游效应证据，引用临床研究但未逐条绑定PMID/数据库ID。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Which of the following is an alkaloid?",
+    "answer": "The question asks, \"Which of the following is an alkaloid?\" with the options being Morphine, Neostigmine, Emetine, and Atropine. To determine the correct answer, it's essential to thoroughly understand what alkaloids are and evaluate each option accordingly.\n\n**Restated Question:**\nWe are presented ...",
+    "factuality": 4.0,
+    "granularity": 1.0,
+    "grounding": 0.5,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：1.0  \n3. 证据可追溯性：0.5  \n4. 总分 = 5.5  \n5. 简要理由：答案在事实正确性上完全准确，详细解释了每个化合物的分类依据；机制精细度较低，因为主要讨论的是分类而非分子机制；证据可追溯性较弱，虽然提到了化合物的来源和特性，但没有提供具体的PMID或数据库ID。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Gout can be precipitated by all of the following?",
+    "answer": "The question presents a clinical scenario asking which medications can precipitate gout among the given options: Thiazides, Furosemide, Cyclosporine, and High dose salicylates. Initially, it was indicated that high-dose salicylates are the correct answer. However, upon reviewing the error feedback, ...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 1.5,
+    "total": 8.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：1.5  \n4. 总分 = 8.5  \n5. 简要理由：答案详细解释了每种药物对尿酸排泄的影响机制，事实正确性高；机制描述较为精细，但缺少具体的分子作用细节；虽然提到了临床指南和研究，但未提供具体的PMID或数据库ID，证据可追溯性较弱。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Which is true of typhoid -?",
+    "answer": "The question presents a scenario focused on understanding the carrier state of typhoid fever, specifically evaluating the veracity of four statements related to typhoid carriers. To determine which statement is true, it's essential to analyze each option meticulously, considering the pathophysiology...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.5,
+    "total": 7.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.5  \n4. 总分 = 7.5  \n5. 简要理由：事实描述基本正确但部分细节（如男性携带者危险性）存在争议；机制分析较全面但缺少分子层面细节；虽有流行病学数据支持但未提供具体文献或数据库引用。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "The amount of estrogen in low dose oral contraceptive pills is:?",
+    "answer": "The question in focus pertains to identifying the typical amount of estrogen present in low-dose oral contraceptive pills (OCPs). Understanding the estrogen content in these contraceptives is crucial as it directly influences both their efficacy and the profile of potential side effects. Low-dose OC...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 2.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：2.0  \n4. 总分 = 9.0  \n5. 简要理由：答案详细描述了低剂量口服避孕药中雌激素的含量，并提供了分类和临床指南，事实正确性高。机制精细度方面，虽然解释了雌激素的作用和剂量分类，但缺乏分子层面的详细机制。证据可追溯性方面，提到了WHO和临床指南，但未提供具体的PMID或数据库ID。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "For doctor to perform MTP minimum number to be performed is:-?",
+    "answer": "The question seeks to determine the minimum number of Medical Termination of Pregnancy (MTP) procedures a doctor must perform to be considered proficient. Understanding the correct threshold is essential for ensuring that healthcare professionals are adequately trained and competent to perform MTP, ...",
+    "factuality": 3.0,
+    "granularity": 0.5,
+    "grounding": 1.0,
+    "total": 4.5,
+    "raw_evaluation": "1. 事实正确性：3.0  \n2. 机制精细度：0.5  \n3. 证据可追溯性：1.0  \n4. 总分 = 4.5  \n5. 简要理由：答案提供了关于MTP程序数量的正确信息，但缺乏分子机制细节。虽然引用了印度《医学终止妊娠法》，但未提供具体PMID或DrugBank等可验证证据。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Chronic adrenal insufficiency is characterized by all of the following:?",
+    "answer": "The clinical scenario presents a multiple-choice question focusing on chronic adrenal insufficiency and its characteristic features. To accurately determine the correct answer, a comprehensive analysis is essential, integrating patient demographics, clinical history, symptoms, signs, and relevant pa...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 1.0,
+    "total": 8.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：1.0  \n4. 总分 = 8.0  \n5. 简要理由：答案详细描述了慢性肾上腺功能不全的临床特征和病理生理机制，事实正确性高；机制精细度较好，涵盖了分子层面的解释；但证据可追溯性较弱，未提供具体的PMID或数据库ID来支持陈述。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "In rheumatoid ahritis, which types of cells are prominently present?",
+    "answer": "Restated Question: In rheumatoid arthritis (RA), which types of cells are most prominently present within the affected tissues?\n\nKey Details:\nRheumatoid arthritis is a chronic, systemic autoimmune disorder primarily affecting synovial joints. It is characterized by persistent synovial inflammation l...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 2.0,
+    "total": 9.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：2.0  \n4. 总分 = 9.0  \n5. 简要理由：答案详细描述了RA中各类免疫细胞的作用，核心机制完全正确（4.0分）；机制描述包含分子功能变化但未完全展开下游效应（3.0分）；虽提及研究但未逐条绑定PMID/UniProt等具体证据（2.0分）。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "One of the following plants is an ideal cattle poison:?",
+    "answer": "The question requires identifying the ideal cattle poison among the given plant options: Nerium odorum, Calotropis, Abrus precatorius, and Cerebra thevetia. To determine the correct answer, it is essential to analyze each plant's toxicity profile, historical usage, and specific impact on cattle.\n\nSt...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.5,
+    "total": 7.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.5  \n4. 总分 = 7.5  \n5. 简要理由：答案详细描述了各植物的毒性机制，核心事实正确但部分细节未完全精确（如Cerebra thevetia的命名问题）。机制描述较完整但缺少部分分子细节（如具体蛋白靶点）。虽有毒性描述但未逐条绑定具体证据来源（如PMID或UniProt）。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Inulin contains which trace element ?",
+    "answer": "The question presents a scenario where we need to identify which trace element is contained in inulin, with the options being Cobalt, Copper, Zinc, and Selenium. Understanding this requires a deep comprehension of both inulin's biochemical composition and the roles of the listed trace elements.\n\nInu...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 0.5,
+    "total": 7.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：0.5  \n4. 总分 = 7.5  \n5. 简要理由：答案明确区分了inulin和insulin的差异，并正确指出inulin不含任何列出的微量元素，核心事实完全正确。机制解释详细但未达到分子水平，证据部分仅提到一般知识，未提供具体可验证的引用。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "An avulsed tooth is not replanted for more 60 minutes then it should be kept in:?",
+    "answer": "When managing an avulsed tooth, especially one that has not been replanted for more than 60 minutes, it is crucial to follow evidence-based protocols to maximize the chances of successful replantation and minimize complications. This comprehensive analysis will explore the appropriate storage soluti...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.0,
+    "total": 7.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.0  \n4. 总分 = 7.0  \n5. 简要理由：答案详细描述了多种处理方案及其作用机制，但未提供具体PMID或数据库引用（证据可追溯性弱）。机制描述较全面但缺乏部分分子细节（如具体信号通路），临床依据整体合理但存在少量不精确表述。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Doxycycline is used in the treatment of following diseases except:?",
+    "answer": "The question presents a scenario where doxycycline is being evaluated for its effectiveness in treating specific diseases, with the aim of identifying an exception among the listed options. The diseases in question are Leptospirosis, Q fever, Borrelliosis, and the option \"All of the above.\"\n\nStartin...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 1.5,
+    "total": 8.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.5  \n4. 总分 = 8.0  \n5. 简要理由：答案详细描述了多西环素在治疗所列疾病中的使用，核心机制正确且详细。但机制描述缺少分子层面的细节，且虽然提到了IDSA等指南，但未提供具体的PMID或数据库ID作为证据支撑。",
+    "source": "ReasonMed"
+  },
+  {
+    "question": "Which of the following is called hunger hormone?",
+    "answer": "a) **Restated Question**\n\nThe question presents a multiple-choice scenario asking which of the provided options is referred to as the \"hunger hormone.\" The options given are Epinephrine, Glucagon, Pituitary, and Thyroxine. The task is to identify the hormone among these choices that is commonly asso...",
+    "factuality": 3.0,
+    "granularity": 2.0,
+    "grounding": 2.0,
+    "total": 7.0,
+    "raw_evaluation": "1. 事实正确性：3.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：2.0  \n4. 总分 = 7.0  \n5. 简要理由：答案正确识别了Ghrelin是真正的\"hunger hormone\"，但未直接回答选项问题。机制描述较全面但未达到分子级别细节。引用了临床证据但未具体绑定到每条陈述。",
+    "source": "ReasonMed"
+  }
+]

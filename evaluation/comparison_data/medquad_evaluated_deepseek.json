@@ -1,0 +1,982 @@
+[
+  {
+    "question": "What is (are) sialic acid storage disease ?",
+    "answer": "Sialic acid storage disease is an inherited disorder that primarily affects the nervous system. People with sialic acid storage disease have signs and symptoms that may vary widely in severity. This disorder is generally classified into one of three forms: infantile free sialic acid storage disease,...",
+    "factuality": 4.0,
+    "granularity": 0.5,
+    "grounding": 0.0,
+    "total": 4.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：0.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 4.0 + 0.5 + 0.0 = 4.5  \n5. 简要理由：答案对疾病分类和临床表现描述准确且全面（事实正确性高），但未涉及分子机制（机制精细度低），且未提供任何可验证的引用来源（证据可追溯性缺失）。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the treatments for Malignant eccrine spiradenoma ?",
+    "answer": "How might malignant eccrine spiradenoma be treated? Surgery to remove as much of the tumor as possible is usually the first step of treatment for malignant eccrine spiradenoma.  Both a traditional surgical technique known as wide local excision and the newer Mohs micrographic surgery are thought to ...",
+    "factuality": 3.5,
+    "granularity": 1.0,
+    "grounding": 0.0,
+    "total": 4.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：1.0  \n3. 证据可追溯性：0.0  \n4. 总分 = 4.5  \n5. 简要理由：答案描述了治疗恶性小汗腺螺旋腺瘤的主要方法（手术、放疗、化疗），基本正确但缺乏分子机制细节；未提供任何可验证的引用证据。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the symptoms of Rheumatoid Arthritis ?",
+    "answer": "Swelling and Pain in the Joints Different types of arthritis have different symptoms. In general, people with most forms of arthritis have pain and stiffness in their joints. Rheumatoid arthritis is characterized by inflammation of the joint lining. This inflammation causes warmth, redness, swelling...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：1.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 5.0  \n5. 简要理由：答案描述了类风湿性关节炎的症状和诊断测试，事实基本正确但缺乏机制细节（如分子机制），且未提供任何可验证的引用证据。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the symptoms of X-linked Charcot-Marie-Tooth disease type 2 ?",
+    "answer": "What are the signs and symptoms of X-linked Charcot-Marie-Tooth disease type 2? The Human Phenotype Ontology provides the following list of signs and symptoms for X-linked Charcot-Marie-Tooth disease type 2. If the information is available, the table below includes how often the symptom is seen in p...",
+    "factuality": 3.5,
+    "granularity": 0.5,
+    "grounding": 2.5,
+    "total": 6.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：0.5  \n3. 证据可追溯性：2.5  \n4. 总分 = 6.5  \n5. 简要理由：答案详细列出了X-linked Charcot-Marie-Tooth disease type 2的症状及其频率，事实正确性较高；但未涉及分子机制，机制精细度低；引用了Human Phenotype Ontology和Orphanet，但未提供具体PMID或数据库ID，证据可追溯性中等。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "How many people are affected by nonbullous congenital ichthyosiform erythroderma ?",
+    "answer": "NBCIE is estimated to affect 1 in 200,000 to 300,000 individuals in the United States. This condition is more common in Norway, where an estimated 1 in 90,000 people are affected.",
+    "factuality": 0.0,
+    "granularity": 0.0,
+    "grounding": 0.0,
+    "total": 0.0,
+    "raw_evaluation": "1. 事实正确性：0.0  \n2. 机制精细度：0.0  \n3. 证据可追溯性：0.0  \n4. 总分 = 0.0  \n5. 简要理由：该QA不属于药物-靶点作用机制范畴，无法按给定标准评分。评分标准仅适用于生物医药机制类QA。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the symptoms of Crigler Najjar syndrome, type 1 ?",
+    "answer": "What are the signs and symptoms of Crigler Najjar syndrome, type 1? The Human Phenotype Ontology provides the following list of signs and symptoms for Crigler Najjar syndrome, type 1. If the information is available, the table below includes how often the symptom is seen in people with this conditio...",
+    "factuality": 3.5,
+    "granularity": 0.5,
+    "grounding": 2.5,
+    "total": 6.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：0.5  \n3. 证据可追溯性：2.5  \n4. 总分 = 6.5  \n5. 简要理由：答案提供了详细的症状列表和频率数据，事实正确性较高；但缺乏分子机制描述，精细度低；证据来源明确但未逐条绑定PMID或具体研究。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What is (are) Pierson syndrome ?",
+    "answer": "Pierson syndrome is a very rare condition that mainly affects the kidneys and eyes. Signs and symptoms include congenital nephrotic syndrome and distinct ocular (eye) abnormalities, including microcoria (small pupils that are not responsive to light). Most affected children have early-onset, chronic...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：0.0  \n4. 总分 = 6.0  \n5. 简要理由：核心事实完全正确，包括症状、基因突变和遗传模式；机制部分提到LAMB2基因突变但未深入分子细节；未提供具体可追溯的证据来源。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What is (are) Hardikar syndrome ?",
+    "answer": "Hardikar syndrome is a very rare multiple congenital malformation syndrome characterized by obstructive liver and kidney disease, intestinal malrotation, genitourinary abnormalities, cleft lip and palate, pigmentary retinopathy (breakdown of the light-sensing tissue at the back of the eye), and cong...",
+    "factuality": 3.5,
+    "granularity": 0.5,
+    "grounding": 1.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：0.5  \n3. 证据可追溯性：1.0  \n4. 总分 = 5.0  \n5. 简要理由：答案准确描述了Hardikar综合征的临床表现和罕见性（事实正确性较高），但未涉及任何分子机制（机制精细度低），且仅提到“医学文献”而未提供具体引用（证据可追溯性较弱）。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the treatments for Alcohol Use and Older Adults ?",
+    "answer": "There is not one right treatment for everyone with alcohol problems. In general, many people need more than one kind of treatment. Medicines can help people with alcohol use disorder quit drinking. Meeting with a therapist or substance-abuse counselor or with a support group may also help. Support f...",
+    "factuality": 2.0,
+    "granularity": 0.5,
+    "grounding": 0.0,
+    "total": 2.5,
+    "raw_evaluation": "1. 事实正确性：2.0  \n2. 机制精细度：0.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 2.5  \n5. 简要理由：答案方向正确但缺乏具体药物机制细节（仅描述\"Medicines can help\"），未提供任何可验证的引用证据，且机制描述停留在药理效应层面。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What is (are) Microgastria limb reduction defect ?",
+    "answer": "Microgastria limb reduction defect is a rare disorder with less than 60 previously reported cases. Children born with this condition have a small stomach (microgastria) and limb abnormalities. Symptoms may include vomiting, aspiration pneumonia and growth problems. Abnormalities involving the heart,...",
+    "factuality": 3.5,
+    "granularity": 1.0,
+    "grounding": 0.5,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：1.0  \n3. 证据可追溯性：0.5  \n4. 总分 = 5.0  \n5. 简要理由：描述基本正确但缺乏分子机制细节（仅提到胚胎发育错误），证据部分仅提到手术名称但无具体文献或数据库支持。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "Do you have information about International Health",
+    "answer": "Summary : The spread of a disease doesn't stop at a country's borders. With more people traveling to other countries and living in crowded cities, it's easier for germs to spread. Infectious diseases that start in one part of the world can quickly reach another. Drug resistance is on the rise, makin...",
+    "factuality": 3.0,
+    "granularity": 0.5,
+    "grounding": 0.0,
+    "total": 3.5,
+    "raw_evaluation": "1. 事实正确性：3.0  \n2. 机制精细度：0.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 3.0 + 0.5 + 0.0 = 3.5  \n5. 简要理由：答案整体事实正确但缺乏具体机制细节（仅描述流行病学现象），且无任何可验证的引用证据。未涉及药物-靶点作用机制相关的内容。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the genetic changes related to fibrochondrogenesis ?",
+    "answer": "Fibrochondrogenesis can result from mutations in the COL11A1 or COL11A2 gene. These genes provide instructions for making components of type XI collagen, which is a complex molecule that gives structure and strength to the connective tissues that support the body's joints and organs. Specifically, t...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 0.5,
+    "total": 7.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：0.5  \n4. 总分 = 7.5  \n5. 简要理由：核心机制描述完全正确且详细，包括基因功能、胶原蛋白的作用及其在组织中的分布，但未提供具体证据来源（如PMID或UniProt ID）。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the symptoms of Thrombotic thrombocytopenic purpura, congenital ?",
+    "answer": "What are the signs and symptoms of Thrombotic thrombocytopenic purpura, congenital? The Human Phenotype Ontology provides the following list of signs and symptoms for Thrombotic thrombocytopenic purpura, congenital. If the information is available, the table below includes how often the symptom is s...",
+    "factuality": 3.5,
+    "granularity": 0.5,
+    "grounding": 2.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：0.5  \n3. 证据可追溯性：2.0  \n4. 总分 = 6.0  \n5. 简要理由：答案列举的症状基本正确（事实正确性3.5），但未涉及任何分子机制（机制精细度0.5）。引用HPO和Orphanet作为证据来源，但未提供具体研究ID（证据可追溯性2.0）。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "How many people are affected by neuropathy, ataxia, and retinitis pigmentosa ?",
+    "answer": "The prevalence of NARP is unknown. This disorder is probably less common than a similar but more severe condition, Leigh syndrome, which affects about 1 in 40,000 people.",
+    "factuality": 3.0,
+    "granularity": 0.0,
+    "grounding": 0.0,
+    "total": 3.0,
+    "raw_evaluation": "1. 事实正确性：3.0  \n2. 机制精细度：0.0  \n3. 证据可追溯性：0.0  \n4. 总分 = 3.0  \n5. 简要理由：答案提供了关于NARP和Leigh综合征的流行病学信息，但未涉及药物-靶点作用机制，因此机制精细度和证据可追溯性均为0分。事实正确性得3.0分，因为信息整体正确但缺乏具体依据。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "Is potassium-aggravated myotonia inherited ?",
+    "answer": "Potassium-aggravated myotonia is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In some cases, an affected person inherits a mutation in the SCN4A gene from one affected parent. Other cases result from new mutati...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 0.5,
+    "total": 6.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：0.5  \n4. 总分 = 6.5  \n5. 简要理由：遗传模式描述完全正确，但缺少具体分子功能变化的细节（如SCN4A基因突变如何导致离子通道功能异常）。仅提到SCN4A基因但未提供具体证据来源。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What is (are) multiple system atrophy ?",
+    "answer": "Multiple system atrophy is a progressive brain disorder that affects movement and balance and disrupts the function of the autonomic nervous system. The autonomic nervous system controls body functions that are mostly involuntary, such as regulation of blood pressure.  Researchers have described two...",
+    "factuality": 4.0,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：1.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 5.5  \n5. 简要理由：核心事实描述完全正确，但缺乏分子机制细节（仅描述症状和分类），且未提供任何可验证的引用证据。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "Is Juvenile retinoschisis inherited ?",
+    "answer": "How is juvenile retinoschisis inherited? Juvenile retinoschisis is inherited in an x-linked recessive pattern. The gene associated with this condition is located on the X chromosome, one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell ...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 0.5,
+    "total": 7.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：0.5  \n4. 总分 = 7.0  \n5. 简要理由：核心遗传机制描述完全正确，但缺少具体基因名称（如RS1基因）和分子细节；仅提到X染色体定位，未提供具体数据库或文献引用。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the genetic changes related to progressive pseudorheumatoid dysplasia ?",
+    "answer": "PPRD is caused by mutations in the WISP3 gene. The function of the protein produced from this gene is not well understood, although it is thought to play a role in bone growth and cartilage maintenance. The WISP3 protein is made in cells called chondrocytes, which produce and maintain cartilage. Thi...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.0,
+    "total": 7.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.0  \n4. 总分 = 7.0  \n5. 简要理由：答案核心机制正确（WISP3基因突变导致PPRD），但部分功能描述不够精确（如“role in their production is unclear”）。机制描述较完整但缺少具体分子细节（如信号通路名称）。未提供具体证据来源（PMID/UniProt等），仅泛泛提及。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the genetic changes related to moyamoya disease ?",
+    "answer": "The genetics of moyamoya disease are not well understood. Research suggests that the condition can be passed through families, and changes in one gene, RNF213, have been associated with the condition. Other genes that have not been identified may be involved in moyamoya disease. It is also likely th...",
+    "factuality": 3.0,
+    "granularity": 2.0,
+    "grounding": 1.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：3.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：1.0  \n4. 总分 = 6.0  \n5. 简要理由：答案整体正确但缺少细节（如RNF213的具体突变位点），机制部分描述了基因功能但未完全阐明分子机制，未提供具体证据来源（如PMID或数据库ID）。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What to do for Urinary Retention ?",
+    "answer": "- Urinary retention is the inability to empty the bladder completely.  - Urinary retention can be acute or chronic.  - Urinary retention can result from      - obstruction of the urethra    - nerve problems    - medications    - weakened bladder muscles    - The symptoms of acute urinary retention m...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：1.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 5.0  \n5. 简要理由：答案在事实正确性上表现良好，涵盖了尿潴留的定义、分类、症状、诊断和治疗，但缺乏分子机制细节（仅描述症状和治疗手段），且未提供任何可验证的引用证据。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the symptoms of Bronchitis ?",
+    "answer": "Acute Bronchitis\n                \nAcute bronchitis caused by an infection usually develops after you already have a cold or the flu. Symptoms of a cold or the flu include sore throat, fatigue (tiredness), fever, body aches, stuffy or runny nose, vomiting, and diarrhea.\n                \nThe main symp...",
+    "factuality": 3.5,
+    "granularity": 0.5,
+    "grounding": 0.0,
+    "total": 4.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：0.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 4.0  \n5. 简要理由：症状描述基本正确，但未涉及分子机制或作用靶点，且无任何可验证的引用证据。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What causes Diabetes ?",
+    "answer": "Type 1 diabetes is an autoimmune disease. In an autoimmune reaction, antibodies, or immune cells, attach to the body's own healthy tissues by mistake, signaling the body to attack them. At present, scientists do not know exactly what causes the body's immune system to attack the insulin-producing ce...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 0.5,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.0  \n3. 证据可追溯性：0.5  \n4. 总分 = 6.0  \n5. 简要理由：答案对1型和2型糖尿病的机制描述基本正确，但缺乏分子层面的细节（如具体基因或环境因素）。未提供具体可验证的引用来源，仅泛泛提及“研究”。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What is (are) Megalencephaly ?",
+    "answer": "Megalencephaly, also called macrencephaly, is a condition in which an infant or child has an abnormally large, heavy, and usually malfunctioning brain. By definition, the brain weight is greater than average for the age and gender of the child. Head enlargement may be evident at birth or the head ma...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 6.5  \n5. 简要理由：答案对Megalencephaly的定义和症状描述准确且全面（事实正确性4.0），机制部分提到细胞增殖失调但未深入分子层面（机制精细度2.5），但全文未提供任何可验证的文献或数据库证据（证据可追溯性0.0）。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "Do you have information about Nursing Homes",
+    "answer": "Summary : A nursing home is a place for people who don't need to be in a hospital but can't be cared for at home. Most nursing homes have nursing aides and skilled nurses on hand 24 hours a day.     Some nursing homes are set up like a hospital. The staff provides medical care, as well as physical, ...",
+    "factuality": 4.0,
+    "granularity": 0.5,
+    "grounding": 1.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：0.5  \n3. 证据可追溯性：1.0  \n4. 总分 = 5.5  \n5. 简要理由：事实描述准确且全面，但未涉及药物-靶点作用机制，仅描述护理院的基本功能；证据部分仅列出NIH机构名，未提供具体可追溯的PMID或数据库ID。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the treatments for Hemifacial Spasm ?",
+    "answer": "Surgical treatment in the form of microvascular decompression, which relieves pressure on the facial nerve, will relieve hemifacial spasm in many cases. This intervention has significant potential side-effects, so risks and benefits have to be carefully balanced. Other treatments include injections ...",
+    "factuality": 4.0,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：1.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 5.5  \n5. 简要理由：核心治疗手段（微血管减压术和肉毒毒素注射）描述完全正确，但缺乏分子机制细节（如肉毒毒素如何阻断神经信号），且未提供任何可验证的引用证据。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What is (are) granulomatosis with polyangiitis ?",
+    "answer": "Granulomatosis with polyangiitis (GPA) is a condition that causes inflammation that primarily affects the respiratory tract (including the lungs and airways) and the kidneys. This disorder is also commonly known as Wegener granulomatosis. A characteristic feature of GPA is inflammation of blood vess...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：0.0  \n4. 总分 = 6.0  \n5. 简要理由：答案对GPA的描述完全正确且详细，涵盖了病理特征、症状和预后，但缺乏分子机制细节，且未提供任何可追溯的证据来源。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the genetic changes related to hypomyelination and congenital cataract ?",
+    "answer": "Mutations in the FAM126A gene cause hypomyelination and congenital cataract. The FAM126A gene provides instructions for making a protein called hyccin, the function of which is not completely understood. Based on the features of hypomyelination and congenital cataract, researchers presume that hycci...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 0.5,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.0  \n3. 证据可追溯性：0.5  \n4. 总分 = 6.0  \n5. 简要理由：答案基本正确，但部分机制（如hyccin的具体功能）未完全阐明；机制描述停留在功能层面，缺乏分子细节；仅提到基因名，无具体可验证证据（如PMID等）。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the symptoms of Heart Attack ?",
+    "answer": "Most heart attacks involve discomfort in the center of the chest that lasts more than a few minutes or goes away and comes back. The discomfort can feel like uncomfortable pressure, squeezing, fullness, or pain. It can include pain or numbness in one or both arms, the back, neck, jaw, or stomach. He...",
+    "factuality": 4.0,
+    "granularity": 0.0,
+    "grounding": 0.0,
+    "total": 4.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：0.0  \n3. 证据可追溯性：0.0  \n4. 总分 = 4.0  \n5. 简要理由：答案准确描述了心脏病的症状，事实正确性满分；但未涉及任何分子机制或药物靶点作用，机制精细度和证据可追溯性均为0。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "Is granulomatosis with polyangiitis inherited ?",
+    "answer": "The inheritance pattern of GPA is unknown. Most instances are sporadic and occur in individuals with no history of the disorder in their family. Only rarely is more than one member of the same family affected by the disorder.",
+    "factuality": 3.5,
+    "granularity": 1.0,
+    "grounding": 0.0,
+    "total": 4.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：1.0  \n3. 证据可追溯性：0.0  \n4. 总分 = 4.5  \n5. 简要理由：答案关于GPA遗传性的描述基本正确（3.5分），但仅说明现象无分子机制（1.0分），且未提供任何可验证证据（0分）。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the treatments for High Blood Pressure ?",
+    "answer": "Today, many different types of medicines are available to control high blood pressure. These medicines work in different ways. Some lower blood pressure by removing extra fluid and salt from your body. Others affect blood pressure by slowing down the heartbeat, or by relaxing and widening blood vess...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 6.5  \n5. 简要理由：核心机制描述完全正确，涵盖了多种降压药物的作用方式；机制描述较为详细，但缺乏完整的分子机制细节；未提供任何可验证的证据来源。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "How to diagnose Chapare Hemorrhagic Fever (CHHF) ?",
+    "answer": "CHHF virus has been successfully isolated from both blood and serum during the acute febrile phase of illness. Although not undertaken at the time of the initial cluster, virus can certainly be isolated from tissue obtained post-mortem if available. A subsequent complete genomic analysis of Chapare ...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 1.0,
+    "total": 6.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.0  \n3. 证据可追溯性：1.0  \n4. 总分 = 6.5  \n5. 简要理由：答案提供了CHHF诊断的基本正确信息，包括病毒分离、分子检测和血清学诊断方法，但缺少具体分子机制细节。证据引用部分仅提到方法，未提供具体PMID或数据库ID。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What is the outlook for Sandhoff Disease ?",
+    "answer": "The prognosis for individuals with Sandhoff disease is poor. Death usually occurs by age 3 and is generally caused by respiratory infections.",
+    "factuality": 3.5,
+    "granularity": 0.5,
+    "grounding": 0.0,
+    "total": 4.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：0.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 4.0  \n5. 简要理由：陈述基本正确但未提供具体机制细节，且缺乏可验证的引用来源。预后描述准确但无分子机制说明。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the symptoms of Premature aging Okamoto type ?",
+    "answer": "What are the signs and symptoms of Premature aging Okamoto type? The Human Phenotype Ontology provides the following list of signs and symptoms for Premature aging Okamoto type. If the information is available, the table below includes how often the symptom is seen in people with this condition. You...",
+    "factuality": 3.5,
+    "granularity": 0.0,
+    "grounding": 2.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：0.0  \n3. 证据可追溯性：2.0  \n4. 总分 = 5.5  \n5. 简要理由：答案列举了Premature aging Okamoto type的症状，基本正确但未提供具体机制信息；引用了Human Phenotype Ontology和Orphanet，但未提供具体PMID或ID。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "Is congenital bilateral absence of the vas deferens inherited ?",
+    "answer": "When this condition is caused by mutations in the CFTR gene, it is inherited in an autosomal recessive pattern. This pattern of inheritance means that both copies of the gene in each cell have a mutation. Men with this condition who choose to father children through assisted reproduction have an inc...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 0.5,
+    "total": 6.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：0.5  \n4. 总分 = 6.5  \n5. 简要理由：核心遗传机制完全正确（CFTR基因突变与常染色体隐性遗传），但未提供具体分子功能变化细节（如CFTR蛋白功能缺失如何导致表型），且仅提到CFTR基因而未提供具体证据来源（如PMID或数据库ID）。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the treatments for Incontinentia Pigmenti ?",
+    "answer": "The skin abnormalities of IP usually disappear by adolescence or adulthood without treatment. Diminished vision may be treated with corrective lenses, medication, or, in severe cases, surgery. A specialist may treat dental problems. Neurological symptoms such as seizures, muscle spasms, or mild para...",
+    "factuality": 3.5,
+    "granularity": 1.0,
+    "grounding": 0.0,
+    "total": 4.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：1.0  \n3. 证据可追溯性：0.0  \n4. 总分 = 4.5  \n5. 简要理由：答案整体正确描述了IP的治疗方法，但缺乏分子机制细节（仅提到“medication”等宽泛描述），且未提供任何可验证的引用证据。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What is (are) Psoriasis ?",
+    "answer": "Psoriasis is a chronic skin disease. Chronic means that it lasts a long time, often a lifetime. Psoriasis affects more than 5 million adults in the United States. It appears about equally in males and females. Psoriasis occurs when the skin cells grow too quickly. The body does not shed these excess...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：1.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 5.0  \n5. 简要理由：描述基本正确但缺少分子机制细节；流行病学数据准确但未提供具体来源；无任何可验证的引用证据。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the treatments for Brain and Spinal Tumors ?",
+    "answer": "The three most commonly used treatments are surgery, radiation, and chemotherapy. Doctors also may prescribe steroids to reduce the tumor-related swelling inside the CNS.",
+    "factuality": 4.0,
+    "granularity": 0.5,
+    "grounding": 0.0,
+    "total": 4.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：0.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 4.5  \n5. 简要理由：核心治疗方式描述完全正确（手术、放疗、化疗及类固醇用途），但未提供分子机制细节，且无任何可验证的引用来源。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "Is EEC syndrome inherited ?",
+    "answer": "How is EEC syndrome inherited? EEC syndrome is inherited in an autosomal dominant manner.This means that having a change (mutation) in only one copy of the responsible gene in each cell is enough to cause features of the condition. In some cases, an affected person inherits the mutated gene from an ...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 0.0,
+    "total": 7.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：0.0  \n4. 总分 = 7.0  \n5. 简要理由：答案详细描述了EEC综合征的遗传方式（常染色体显性遗传）、突变来源（新发突变或遗传自父母）、生殖细胞嵌合现象以及不完全外显和表现变异性，核心机制100%正确。但未提供具体基因或分子机制细节，且缺乏可验证的引用证据（如PMID或数据库ID）。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What is (are) Multi-Infarct Dementia ?",
+    "answer": "Multi-infarct dementia (MID) is a common cause of memory loss in the elderly. MID is caused by multiple strokes (disruption of blood flow to the brain). Disruption of blood flow leads to damaged brain tissue. Some of these strokes may occur without noticeable clinical symptoms. Doctors refer to thes...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：1.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 5.0  \n5. 简要理由：答案对多发性脑梗死痴呆的描述基本正确，但缺少分子机制细节（如具体血管病变或神经病理变化）。未提供任何可验证的引用来源。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What causes Nonspherocytic hemolytic anemia due to hexokinase deficiency ?",
+    "answer": "What causes nonspherocytic hemolytic anemia due to hexokinase deficiency? Nonspherocytic hemolytic anemia due to hexokinase deficiency has been shown to be caused by mutations in the HK1 gene, which cause at least a partial deficiency of the enzyme hexokinase. This enzyme plays an important role in ...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 6.5  \n5. 简要理由：核心机制完全正确（HK1基因突变导致己糖激酶缺陷），机制描述较完整但缺少分子层面的具体细节（如突变如何影响酶活性），未提供任何可验证的引用来源。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What is (are) Hemorrhagic Fevers ?",
+    "answer": "Viral hemorrhagic fevers (VHFs) are a group of illnesses caused by four families of viruses. These include the Ebola and Marburg, Lassa fever, and yellow fever viruses. VHFs have common features: they affect many organs, they damage the blood vessels, and they affect the body's ability to regulate i...",
+    "factuality": 4.0,
+    "granularity": 1.0,
+    "grounding": 0.5,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：1.0  \n3. 证据可追溯性：0.5  \n4. 总分 = 5.5  \n5. 简要理由：答案核心事实完全正确，但仅描述疾病特征而无分子机制细节，且仅提到CDC未提供具体可验证证据。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "what research (or clinical trials) is being done for Tremor ?",
+    "answer": "The National Institute of Neurological Disorders and Stroke, a unit of the National Institutes of Health (NIH) within the U.S. Department of Health and Human Services, is the nations leading federal funder of research on disorders of the brain and nervous system. The NINDS sponsors research on tremo...",
+    "factuality": 3.0,
+    "granularity": 0.5,
+    "grounding": 1.0,
+    "total": 4.5,
+    "raw_evaluation": "1. 事实正确性：3.0  \n2. 机制精细度：0.5  \n3. 证据可追溯性：1.0  \n4. 总分 = 4.5  \n5. 简要理由：答案整体事实正确，但未提供具体研究或临床试验的细节；仅提到NINDS资助研究，未说明具体药物或基因研究；引用NIH但未提供具体PMID或临床试验编号。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What is (are) vitamin D-dependent rickets ?",
+    "answer": "Vitamin D-dependent rickets is a disorder of bone development that leads to softening and weakening of the bones (rickets). The condition is split into two major types: type 1 (VDDR1), which is also known as pseudovitamin D deficiency rickets or vitamin D 1-hydroxylase deficiency, and type 2 (VDDR2)...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 6.5  \n5. 简要理由：答案详细描述了维生素D依赖性佝偻病的症状、类型和生化特征，事实完全正确；机制描述较为详细，但缺少分子层面的具体作用机制；未提供任何可验证的引用证据。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "How to diagnose Parkinson's Disease ?",
+    "answer": "There are currently no blood or laboratory tests to diagnose sporadic Parkinson's disease. Diagnosis is based on a person's medical history and a neurological examination, but the disease can be difficult to diagnose accurately. Doctors may sometimes request brain scans or laboratory tests in order ...",
+    "factuality": 4.0,
+    "granularity": 1.0,
+    "grounding": 0.5,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：1.0  \n3. 证据可追溯性：0.5  \n4. 总分 = 5.5  \n5. 简要理由：答案关于帕金森病诊断的事实完全正确，但未涉及分子机制（仅描述临床方法），且仅提到FDA批准DaTscan但未提供具体证据来源。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the treatments for Respiratory Failure ?",
+    "answer": "Treatment for respiratory failure depends on whether the condition is acute (short-term) or chronic (ongoing) and its severity. Treatment also depends on the condition's underlying cause.\n                \nAcute respiratory failure can be a medical emergency. It often is treated in an intensive care ...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：1.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 5.0  \n5. 简要理由：答案描述了呼吸衰竭的治疗方法，包括氧气疗法、呼吸机支持等，基本正确但缺乏分子机制细节。未提供任何可验证的证据来源。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "How to diagnose X-linked hypophosphatemia ?",
+    "answer": "How is X-linked hypophosphatemia diagnosed? X-linked hypophosphatemia (XLH) is diagnosed based on clinical observations, biochemical testing, imaging, and family history. Observable signs include low growth rate and noticeable bowing of the legs. X-rays provide more information that can rule out oth...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：0.0  \n4. 总分 = 6.0  \n5. 简要理由：答案详细描述了XLH的诊断方法，包括临床观察、生化检测、影像学和家族史，事实正确性高。机制精细度中等，主要描述了诊断方法而非分子机制。缺乏具体的可追溯证据（如PMID或数据库ID）。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the treatments for peroxisomal acyl-CoA oxidase deficiency ?",
+    "answer": "These resources address the diagnosis or management of peroxisomal acyl-CoA oxidase deficiency:  - Gene Review: Gene Review: Leukodystrophy Overview  - Genetic Testing Registry: Pseudoneonatal adrenoleukodystrophy   These resources from MedlinePlus offer information about the diagnosis and managemen...",
+    "factuality": 1.0,
+    "granularity": 0.0,
+    "grounding": 1.0,
+    "total": 2.0,
+    "raw_evaluation": "1. 事实正确性：1.0  \n2. 机制精细度：0.0  \n3. 证据可追溯性：1.0  \n4. 总分 = 2.0  \n5. 简要理由：答案仅列出诊断或管理资源，未提供具体治疗机制或药物作用细节（机制精细度0.0）；虽提及Gene Review和MedlinePlus等资源，但未明确关联具体证据（证据可追溯性1.0）；内容方向正确但缺乏关键治疗机制的事实支撑（事实正确性1.0）。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the treatments for Prescription and Illicit Drug Abuse ?",
+    "answer": "The first step in a substance treatment program is often detoxification (detox), the process of allowing the body to get rid of the substance. Detoxification under medical supervision allows the symptoms of withdrawal to be treated, but is not addiction treatment in and of itself. (Withdrawal is the...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：1.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 5.0  \n5. 简要理由：答案描述了戒毒的基本流程和部分症状，事实基本正确但缺乏具体分子机制（如神经递质变化）。未提供任何可验证的引用证据。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What is (are) nonbullous congenital ichthyosiform erythroderma ?",
+    "answer": "Nonbullous congenital ichthyosiform erythroderma (NBCIE) is a condition that mainly affects the skin. Some affected infants are born with a tight, clear sheath covering their skin called a collodion membrane. This membrane is usually shed during the first few weeks of life. Individuals with NBCIE ha...",
+    "factuality": 4.0,
+    "granularity": 1.0,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：1.0  \n3. 证据可追溯性：0.0  \n4. 总分 = 5.0  \n5. 简要理由：描述的症状和临床表现准确无误，但未涉及任何分子机制或作用途径，且未提供任何可追溯的证据来源。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What is (are) Dumping Syndrome ?",
+    "answer": "The GI tract is a series of hollow organs joined in a long, twisting tube from the mouth to the anusthe opening where stool leaves the body. The body digests food using the movement of muscles in the GI tract, along with the release of hormones and enzymes. The upper GI tract includes the mouth, eso...",
+    "factuality": 0.0,
+    "granularity": 0.0,
+    "grounding": 0.0,
+    "total": 0.0,
+    "raw_evaluation": "1. 事实正确性：0.0  \n2. 机制精细度：0.0  \n3. 证据可追溯性：0.0  \n4. 总分 = 0.0  \n5. 简要理由：答案完全未提及\"Dumping Syndrome\"的核心机制或定义，仅描述了普通消化道解剖结构，与问题无关且无任何可验证证据。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "Is Wildervanck syndrome inherited ?",
+    "answer": "How is Wildervanck syndrome inherited? Wildervanck syndrome does not have a clear pattern of inheritance.  In most cases, only one person in a family is affected.  These cases are called isolated or sporadic because there is no family history of Wildervanck syndrome.  Because this syndrome occurs mo...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：1.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 5.0  \n5. 简要理由：答案基本正确但未提供具体遗传机制细节（如基因或分子层面），且缺乏可验证的引用证据。关于X连锁显性遗传的推测合理但未明确依据。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the symptoms of Pseudodiastrophic dysplasia ?",
+    "answer": "What are the signs and symptoms of Pseudodiastrophic dysplasia? The Human Phenotype Ontology provides the following list of signs and symptoms for Pseudodiastrophic dysplasia. If the information is available, the table below includes how often the symptom is seen in people with this condition. You c...",
+    "factuality": 4.0,
+    "granularity": 0.0,
+    "grounding": 3.0,
+    "total": 7.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：0.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 7.0  \n5. 简要理由：答案完全基于Human Phenotype Ontology和Orphanet数据库，事实正确性满分；但未涉及任何分子机制，故机制精细度0分；证据可追溯性完整，明确引用权威数据库。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What is (are) Alopecia universalis ?",
+    "answer": "Alopecia universalis (AU) is a condition characterized by the complete loss of hair on the scalp and body. It is an advanced form of alopecia areata, a condition that causes round patches of hair loss. Although the exact cause of AU is unknown, it is thought to be an autoimmune condition in which an...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：1.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 5.0  \n5. 简要理由：核心事实正确但缺少精确的分子机制描述（如具体免疫靶点或通路），且未提供任何可验证的文献或数据库证据。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What is (are) very long-chain acyl-CoA dehydrogenase deficiency ?",
+    "answer": "Very long-chain acyl-CoA dehydrogenase (VLCAD) deficiency is a condition that prevents the body from converting certain fats to energy, particularly during periods without food (fasting).  Signs and symptoms of VLCAD deficiency typically appear during infancy or early childhood and can include low b...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：1.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 5.0  \n5. 简要理由：答案基本正确描述了VLCAD缺乏症的症状和触发因素，但缺少分子机制细节（如VLCAD酶的具体功能或代谢通路影响）。未提供任何可验证的引用来源。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "Is aromatic l-amino acid decarboxylase deficiency inherited ?",
+    "answer": "This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the conditi...",
+    "factuality": 4.0,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：1.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 5.5  \n5. 简要理由：遗传模式描述完全正确（4.0分），但未提供分子机制细节（1.5分），且缺乏具体证据引用（0.0分）。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "Is Usher syndrome inherited ?",
+    "answer": "This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the conditi...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：0.0  \n4. 总分 = 6.0  \n5. 简要理由：答案完全正确地描述了Usher综合征的遗传模式（常染色体隐性遗传），但未提供分子机制细节（如具体基因突变），且缺乏可追溯的引用证据。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What is (are) Gum (Periodontal) Disease ?",
+    "answer": "Gingivitis is inflammation of the gums. In gingivitis, the gums become red, swollen and can bleed easily. Gingivitis is a mild form of gum disease. It can usually be reversed with daily brushing and flossing, and regular cleaning by a dentist or dental hygienist. This form of gum disease does not in...",
+    "factuality": 4.0,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：1.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 5.5  \n5. 简要理由：答案对牙龈炎的描述完全正确，但未涉及分子机制或具体作用路径，且未提供任何可验证的引用来源。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the symptoms of Northern epilepsy ?",
+    "answer": "What are the signs and symptoms of Northern epilepsy? The Human Phenotype Ontology provides the following list of signs and symptoms for Northern epilepsy. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePl...",
+    "factuality": 4.0,
+    "granularity": 0.0,
+    "grounding": 3.0,
+    "total": 7.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：0.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 7.0  \n5. 简要理由：答案详细列出了Northern epilepsy的症状，并引用了Human Phenotype Ontology和Orphanet等权威数据库，事实正确性高。然而，答案未涉及任何分子机制，因此机制精细度为0。证据可追溯性良好，提供了明确的数据库来源。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "Is hereditary angioedema inherited ?",
+    "answer": "This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In some cases, an affected person inherits the mutation from one affected parent. Other cases result from new mutations in the gene and occur in p...",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：0.0  \n4. 总分 = 6.0  \n5. 简要理由：答案关于遗传性血管性水肿的遗传模式描述完全正确（4.0分），说明了遗传模式但未涉及具体分子机制（2.0分），但未提供任何可验证的引用证据（0.0分）。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the symptoms of Flynn Aird syndrome ?",
+    "answer": "What are the signs and symptoms of Flynn Aird syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Flynn Aird syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the Medli...",
+    "factuality": 3.5,
+    "granularity": 0.5,
+    "grounding": 2.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：0.5  \n3. 证据可追溯性：2.0  \n4. 总分 = 6.0  \n5. 简要理由：症状列表详细且来源明确（HPO和Orphanet），但未提供具体PMID或数据库ID；机制部分仅描述症状，无分子机制细节。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "Is 3MC syndrome inherited ?",
+    "answer": "This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the conditi...",
+    "factuality": 4.0,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：1.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 5.5  \n5. 简要理由：遗传模式描述完全正确（4.0分），但仅说明遗传模式而无分子机制细节（1.5分），且未提供任何可验证的文献或数据库证据（0.0分）。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "How to diagnose Chronic Myeloproliferative Neoplasms ?",
+    "answer": "Tests that examine the blood and bone marrow are used to detect (find) and diagnose chronic myeloproliferative neoplasms. The following tests and procedures may be used:         -   Physical exam and history : An exam of the body to check general signs of health, including checking for signs of dise...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 0.5,
+    "total": 7.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：0.5  \n4. 总分 = 6.0  \n5. 简要理由：答案详细列出了诊断慢性骨髓增殖性肿瘤的多种测试和程序，内容完全正确且全面。机制精细度较高，但缺少分子机制的详细描述。证据可追溯性较弱，仅提到基因名称，未提供具体引用来源。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the symptoms of Amyloidosis and Kidney Disease ?",
+    "answer": "The most common sign of primary amyloidosis of the kidneys is nephrotic syndromea collection of signs that indicate kidney damage. The signs of nephrotic syndrome include\n                \n- albuminuriaan increased amount of albumin, a protein, in the urine. A person with nephrotic syndrome excretes ...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 1.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：1.5  \n3. 证据可追溯性：1.0  \n4. 总分 = 6.0  \n5. 简要理由：症状描述基本正确，但未涉及分子机制；仅提到NIDDK作为参考，未提供具体可追溯的证据链接或PMID。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "How to diagnose What I need to know about Cirrhosis ?",
+    "answer": "Your doctor will examine you and may perform\n                \n- blood tests to see whether your liver is working properly   - imaging tests, which may show the size of your liver and show swelling or shrinkage   - a liver biopsy, in which a doctor uses a needle to take a small piece of liver tissue ...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：1.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 5.0  \n5. 简要理由：诊断方法描述基本正确但未涉及分子机制，且缺乏具体证据引用。  \n\n（注：根据评分标准，该回答属于临床诊断流程描述，不涉及药物-靶点作用机制，因此在机制精细度和证据可追溯性维度得分较低）",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What is (are) Costello syndrome ?",
+    "answer": "Costello syndrome is a disorder that affects many parts of the body. This condition is characterized by delayed development and intellectual disability, loose folds of skin (which are especially noticeable on the hands and feet), unusually flexible joints, and distinctive facial features including a...",
+    "factuality": 4.0,
+    "granularity": 0.5,
+    "grounding": 0.0,
+    "total": 4.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：0.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 4.5  \n5. 简要理由：答案对Costello综合征的症状和特征描述准确且全面（事实正确性高），但未涉及分子机制（机制精细度低），且未提供任何可验证的证据来源（证据可追溯性缺失）。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "Is mitochondrial complex III deficiency inherited ?",
+    "answer": "Mitochondrial complex III deficiency is usually inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show sig...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 0.5,
+    "total": 7.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：0.5  \n4. 总分 = 6.0  \n5. 简要理由：答案核心机制100%正确，详细描述了常染色体隐性遗传和线粒体遗传模式；机制精细度较高但未提及具体分子功能变化；仅提到MT-CYB基因但未提供具体可验证证据。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "How many people are affected by generalized arterial calcification of infancy ?",
+    "answer": "The prevalence of GACI has been estimated to be about 1 in 391,000. At least 200 affected individuals have been described in the medical literature.",
+    "factuality": 3.5,
+    "granularity": 0.0,
+    "grounding": 0.5,
+    "total": 4.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：0.0  \n3. 证据可追溯性：0.5  \n4. 总分 = 4.0  \n5. 简要理由：答案提供了准确的流行病学数据（事实正确性较高），但未涉及药物-靶点作用机制（机制精细度为0），且未提供具体可验证的文献引用（仅描述“medical literature”）。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the genetic changes related to familial dilated cardiomyopathy ?",
+    "answer": "Mutations in more than 30 genes have been found to cause familial dilated cardiomyopathy. These genes provide instructions for making proteins that are found in cardiac muscle cells called cardiomyocytes.  Many of these proteins play important roles in the contraction of the cardiac muscle through t...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 0.5,
+    "total": 6.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：0.5  \n4. 总分 = 6.5  \n5. 简要理由：答案核心机制基本正确，但缺少具体基因和突变的详细证据；机制描述较为完整，但部分细节不够精确；仅提到基因名称，无具体可验证的引用来源。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the treatments for hypermanganesemia with dystonia, polycythemia, and cirrhosis ?",
+    "answer": "These resources address the diagnosis or management of HMDPC:  - Gene Review: Gene Review: Dystonia/Parkinsonism, Hypermanganesemia, Polycythemia, and Chronic Liver Disease  - Genetic Testing Registry: Hypermanganesemia with dystonia, polycythemia and cirrhosis   These resources from MedlinePlus off...",
+    "factuality": 2.0,
+    "granularity": 0.5,
+    "grounding": 1.5,
+    "total": 4.0,
+    "raw_evaluation": "1. 事实正确性：2.0  \n2. 机制精细度：0.5  \n3. 证据可追溯性：1.5  \n4. 总分 = 4.0  \n5. 简要理由：答案方向正确但未提供具体治疗机制，仅列出资源名称而无具体治疗细节或分子机制。证据部分列出数据库但未明确关联具体治疗信息。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "Is distal myopathy 2 inherited ?",
+    "answer": "Distal myopathy 2 is inherited in an autosomal dominant pattern, which means one copy of the altered MATR3 gene in each cell is sufficient to cause the disorder.",
+    "factuality": 4.0,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.0  \n3. 证据可追溯性：0.0  \n4. 总分 = 6.0  \n5. 简要理由：遗传模式描述完全正确，但缺乏分子机制细节（如MATR3基因的具体功能变化），且未提供任何可验证的引用证据。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "How to diagnose Gerstmann-Straussler-Scheinker disease ?",
+    "answer": "How is Gerstmann-Straussler-Scheinker disease diagnosed? The diagnosis of Gerstmann-Straussler-Scheinker disease (GSS) is based on a combination of the following: Characteristic signs and symptoms Nervous system findings including multiple amyloid plaques (clumps which form in the brain and cause th...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 0.5,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.0  \n3. 证据可追溯性：0.5  \n4. 总分 = 6.0  \n5. 简要理由：答案基本正确，描述了GSS的诊断标准，包括症状、家族史和基因检测，但缺少具体分子机制细节（如PRNP基因突变的具体作用）。证据部分仅提到PRNP基因，未提供具体可追溯的PMID或数据库ID。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "Is Tubular aggregate myopathy inherited ?",
+    "answer": "Is tubular aggregate myopathy genetic? It is evident from family history studies that the condition can be passed through families in either an autosomal dominant or autosomal recessive fashion. Some cases appear to be due to dominant mutations in the STIM1 gene. Sporadic cases of tubular aggregate ...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.5,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：1.5  \n3. 证据可追溯性：0.5  \n4. 总分 = 5.5  \n5. 简要理由：答案基本正确描述了遗传模式（常显/常隐）和STIM1基因突变，但未提供具体分子机制细节（如突变如何导致疾病）。仅提到\"family history studies\"作为证据，但未提供具体PMID或数据库ID。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What is (are) Cerebral Arteriosclerosis ?",
+    "answer": "Cerebral arteriosclerosis is the result of thickening and hardening of the walls of the arteries in the brain. Symptoms of cerebral arteriosclerosis include headache, facial pain, and impaired vision.\n                \nCerebral arteriosclerosis can cause serious health problems. If the walls of an ar...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 6.5  \n5. 简要理由：答案对脑动脉硬化的定义、症状和并发症描述准确且全面（事实正确性4.0），机制描述涵盖了缺血性卒中、出血性卒中和血管性痴呆的病理过程但缺乏分子层面的细节（机制精细度2.5），未提供任何可验证的文献或数据库引用（证据可追溯性0.0）。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the treatments for Klippel Feil syndrome ?",
+    "answer": "How might Klippel-Feil syndrome be treated? There is no cure for Klippel Feil syndrome (KFS); treatment is generally symptomatic and supportive. Management depends on the features and severity in each person, and can be life-long. Careful evaluation, consistent follow-up, and coordination with vario...",
+    "factuality": 4.0,
+    "granularity": 1.0,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：1.0  \n3. 证据可追溯性：0.0  \n4. 总分 = 5.0  \n5. 简要理由：答案对Klippel-Feil综合征的治疗描述全面且准确，但未提供分子机制细节，且缺乏具体证据引用。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the treatments for histidinemia ?",
+    "answer": "These resources address the diagnosis or management of histidinemia:  - Genetic Testing Registry: Histidinemia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Ge...",
+    "factuality": 1.0,
+    "granularity": 0.0,
+    "grounding": 0.5,
+    "total": 1.5,
+    "raw_evaluation": "1. 事实正确性：1.0  \n2. 机制精细度：0.0  \n3. 证据可追溯性：0.5  \n4. 总分 = 1.5  \n5. 简要理由：答案仅列出通用资源类别（如Genetic Testing Registry、MedlinePlus），未提供具体治疗方法的机制或证据。无分子机制描述，且证据关联性极弱（仅数据库名）。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What causes Pityriasis rubra pilaris ?",
+    "answer": "What causes pityriasis rubra pilaris? In most cases, pityriasis rubra pilaris (PRP) occurs sporadically for unknown reasons. In a few families with the inherited form, familial PRP, the condition is caused by mutations in the CARD14 gene. This gene gives instructions for making a protein that turns ...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 1.0,
+    "total": 7.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.0  \n4. 总分 = 7.0  \n5. 简要理由：核心机制（CARD14基因突变导致异常炎症反应）基本正确，但缺少具体分子功能变化的细节；未提供任何可验证的引用来源（如PMID或UniProt），仅描述研究状态。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What is (are) hereditary spherocytosis ?",
+    "answer": "Hereditary spherocytosis is a condition that affects red blood cells. People with this condition typically experience a shortage of red blood cells (anemia), yellowing of the eyes and skin (jaundice), and an enlarged spleen (splenomegaly). Most newborns with hereditary spherocytosis have severe anem...",
+    "factuality": 4.0,
+    "granularity": 0.5,
+    "grounding": 0.0,
+    "total": 4.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：0.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 4.0 + 0.5 + 0.0 = 4.5  \n5. 简要理由：答案对遗传性球形红细胞增多症的症状、分类和临床表现描述准确（事实正确性高），但未涉及分子机制（机制精细度低），且未提供任何可验证的证据来源（证据可追溯性缺失）。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the treatments for Microscopic Colitis: Collagenous Colitis and Lymphocytic Colitis ?",
+    "answer": "Treatment depends on the severity of symptoms. The gastroenterologist will\n                \n- review the medications the person is taking  - make recommendations to change or stop certain medications  - recommend that the person quit smoking\n                \nThe gastroenterologist may prescribe medi...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.5,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：1.5  \n3. 证据可追溯性：0.5  \n4. 总分 = 5.5  \n5. 简要理由：答案提供了多种治疗药物和一般性建议，事实基本正确但缺乏具体机制细节。证据部分仅提到\"Scientists have shown\"但无具体引用，无法验证。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "Is Roberts syndrome inherited ?",
+    "answer": "This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the conditi...",
+    "factuality": 4.0,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：1.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 5.5  \n5. 简要理由：答案关于遗传模式的事实完全正确，但缺乏分子机制细节（如具体基因或蛋白），且未提供任何可验证的证据来源。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the symptoms of Neutropenia chronic familial ?",
+    "answer": "What are the signs and symptoms of Neutropenia chronic familial? The Human Phenotype Ontology provides the following list of signs and symptoms for Neutropenia chronic familial. If the information is available, the table below includes how often the symptom is seen in people with this condition. You...",
+    "factuality": 3.5,
+    "granularity": 0.5,
+    "grounding": 2.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：0.5  \n3. 证据可追溯性：2.0  \n4. 总分 = 6.0  \n5. 简要理由：症状描述基本正确且详细，但未涉及分子机制（仅描述表型），证据引用较笼统（提到HPO和Orphanet但未具体到条目或PMID）。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "Do you have information about Acupuncture",
+    "answer": "Summary : Acupuncture has been practiced in China and other Asian countries for thousands of years. Acupuncture involves stimulating specific points on the body. This is most often done by inserting thin needles through the skin, to cause a change in the physical functions of the body.    Research h...",
+    "factuality": 3.0,
+    "granularity": 1.5,
+    "grounding": 1.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：3.0  \n2. 机制精细度：1.5  \n3. 证据可追溯性：1.0  \n4. 总分 = 5.5  \n5. 简要理由：事实基本正确但缺乏精确机制描述；机制部分仅提到可能的化学物质作用但不够精细；证据仅提到NIH机构但无具体PMID或数据库ID。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What causes Leukoencephalopathy with vanishing white matter ?",
+    "answer": "What causes leukoencephalopathy with vanishing white matter? Leukoencephalopathy with vanishing white matter is a genetic condition caused by mutations in any of 5 genes - EIF2B1, EIF2B2, EIF2B3, EIF2B4, and EIF2B5. These genes give the body instructions to make the five parts (subunits) of a protei...",
+    "factuality": 4.0,
+    "granularity": 3.0,
+    "grounding": 1.0,
+    "total": 8.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：3.0  \n3. 证据可追溯性：1.0  \n4. 总分 = 8.0  \n5. 简要理由：核心机制描述完全正确且详细（EIF2B基因突变导致蛋白合成调控异常），但未提供具体PMID/UniProt等可追溯证据，仅陈述了研究共识。机制解释完整（基因→蛋白功能→细胞效应→病理表型），但未逐条绑定文献。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the treatments for Sialadenitis ?",
+    "answer": "How might sialadenitis be treated? The initial treatment for sialadenitis is antibiotics active against S. aureus. Hydration, ingesting things that trigger saliva flow (such as lemon juice or hard candy), warm compresses, gland massage, and good oral hygiene are also important. Abscesses need to be ...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：1.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 5.0  \n5. 简要理由：治疗建议基本正确，但缺乏分子机制细节；未提供任何可验证的引用证据。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What causes Nerve Disease and Bladder Control ?",
+    "answer": "Nerves that work poorly can lead to three different kinds of bladder control problems.\n                \nOveractive bladder. Damaged nerves may send signals to the bladder at the wrong time, causing its muscles to squeeze without warning. The symptoms of overactive bladder include\n                \n- ...",
+    "factuality": 3.5,
+    "granularity": 2.5,
+    "grounding": 0.0,
+    "total": 6.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 6.0  \n5. 简要理由：答案描述了神经损伤导致膀胱控制问题的三种机制，基本正确但缺乏具体分子细节（如神经递质或信号通路）。未提供任何可验证的引用来源。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What is (are) Cardiogenic Shock ?",
+    "answer": "Cardiogenic (kar-dee-oh-JE-nik) shock is a condition in which a suddenly weakened heart isn't able to pump enough blood to meet the body's needs. The condition is a medical emergency and is fatal if not treated right away.\n                \nThe most common cause of cardiogenic shock is damage to the ...",
+    "factuality": 3.5,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：1.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 5.0  \n5. 简要理由：答案对心源性休克的描述基本正确，但缺少分子机制细节（如具体信号通路或生物标志物），且未提供任何可验证的文献或数据库证据。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the stages of Thymoma and Thymic Carcinoma ?",
+    "answer": "Key Points\n                    - Tests done to detect thymoma or thymic carcinoma are also used to stage the disease.     - There are three ways that cancer spreads in the body.    - Cancer may spread from where it began to other parts of the body.    - The following stages are used for thymoma:    ...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.0  \n3. 证据可追溯性：0.0  \n4. 总分 = 5.5  \n5. 简要理由：答案提供了准确的胸腺瘤和胸腺癌分期信息，但缺乏具体的分子机制细节。虽然内容正确，但没有提供任何可验证的引用来源。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "How many people are affected by core binding factor acute myeloid leukemia ?",
+    "answer": "Acute myeloid leukemia occurs in approximately 3.5 per 100,000 individuals each year. CBF-AML accounts for 12 to 15 percent of acute myeloid leukemia cases in adults.",
+    "factuality": 3.5,
+    "granularity": 0.0,
+    "grounding": 0.0,
+    "total": 3.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：0.0  \n3. 证据可追溯性：0.0  \n4. 总分 = 3.5  \n5. 简要理由：数据基本正确但未精确到CBF-AML发病率，且无机制描述和证据引用。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "How many people are affected by Smith-Lemli-Opitz syndrome ?",
+    "answer": "Smith-Lemli-Opitz syndrome affects an estimated 1 in 20,000 to 60,000 newborns. This condition is most common in whites of European ancestry, particularly people from Central European countries such as Slovakia and the Czech Republic. It is very rare among African and Asian populations.",
+    "factuality": 3.5,
+    "granularity": 0.0,
+    "grounding": 0.0,
+    "total": 3.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：0.0  \n3. 证据可追溯性：0.0  \n4. 总分 = 3.5  \n5. 简要理由：答案提供了准确的流行病学数据（1:20,000-60,000），但未涉及任何药物-靶点作用机制，因此机制精细度和证据可追溯性均为0分。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What is (are) Nutrition for Early Chronic Kidney Disease in Adults ?",
+    "answer": "People with either type 1 or type 2 diabetes must choose foods carefully to control their blood glucose, the bodys main source of energy. Following a meal plan to keep blood glucose at a healthy level may prevent CKD from developing.\n                \nPeople with diabetes should talk with their healt...",
+    "factuality": 2.0,
+    "granularity": 0.5,
+    "grounding": 0.0,
+    "total": 2.5,
+    "raw_evaluation": "1. 事实正确性：2.0  \n2. 机制精细度：0.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 2.5  \n5. 简要理由：答案方向正确（饮食控制对糖尿病和CKD的影响），但缺乏具体分子机制和可验证证据。仅描述一般性建议，无机制细节或引用支持。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What is (are) X-linked adrenal hypoplasia congenita ?",
+    "answer": "X-linked adrenal hypoplasia congenita is a disorder that mainly affects males. It involves many hormone-producing (endocrine) tissues in the body, particularly a pair of small glands on top of each kidney called the adrenal glands. These glands produce a variety of hormones that regulate many essent...",
+    "factuality": 4.0,
+    "granularity": 1.5,
+    "grounding": 0.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：1.5  \n3. 证据可追溯性：0.0  \n4. 总分 = 5.5  \n5. 简要理由：事实描述完全正确且全面，但缺乏分子机制细节（如基因突变或信号通路），且未提供任何可验证的引用证据。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the treatments for Endometrial Cancer ?",
+    "answer": "Key Points\n                    - There are different types of treatment for patients with endometrial cancer.    - Five types of standard treatment are used:          - Surgery     - Radiation therapy      - Chemotherapy     - Hormone therapy         - Targeted therapy    - New types of treatment ar...",
+    "factuality": 4.0,
+    "granularity": 2.5,
+    "grounding": 1.5,
+    "total": 8.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：2.5  \n3. 证据可追溯性：1.5  \n4. 总分 = 7.0  \n5. 简要理由：答案全面列举了子宫内膜癌的标准治疗方法（手术、放疗、化疗等），事实正确性高；机制描述涵盖治疗类型但缺乏分子层面的细节；虽提及NCI等来源，但未提供具体PMID/UniProt等可验证证据。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What is (are) Idiopathic Pulmonary Fibrosis ?",
+    "answer": "Pulmonary fibrosis (PULL-mun-ary fi-BRO-sis) is a disease in which tissue deep in your lungs becomes thick and stiff, or scarred, over time. The formation of scar tissue is called fibrosis.\n                \nAs the lung tissue thickens, your lungs can't properly move oxygen into your bloodstream. As ...",
+    "factuality": 4.0,
+    "granularity": 1.0,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：1.0  \n3. 证据可追溯性：0.0  \n4. 总分 = 5.0  \n5. 简要理由：答案对IPF的定义和临床表现描述准确，但缺乏分子机制细节，且未提供任何可验证的引用证据。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the treatments for Li-Fraumeni syndrome ?",
+    "answer": "These resources address the diagnosis or management of Li-Fraumeni syndrome:  - Gene Review: Gene Review: Li-Fraumeni Syndrome  - Genetic Testing Registry: Li-Fraumeni syndrome  - Genetic Testing Registry: Li-Fraumeni syndrome 1  - Genetic Testing Registry: Li-Fraumeni syndrome 2  - MedlinePlus Ency...",
+    "factuality": 2.0,
+    "granularity": 0.5,
+    "grounding": 1.5,
+    "total": 4.0,
+    "raw_evaluation": "1. 事实正确性：2.0  \n2. 机制精细度：0.5  \n3. 证据可追溯性：1.5  \n4. 总分 = 4.0  \n5. 简要理由：答案方向正确但未具体说明治疗机制（仅列出资源），证据引用存在但不明确对应具体治疗措施。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "How to prevent Anemia ?",
+    "answer": "You might be able to prevent repeat episodes of some types of anemia, especially those caused by lack of iron or vitamins. Dietary changes or supplements can prevent these types of anemia from occurring again.\n                \nTreating anemia's underlying cause may prevent the condition (or prevent ...",
+    "factuality": 3.5,
+    "granularity": 1.0,
+    "grounding": 0.0,
+    "total": 4.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：1.0  \n3. 证据可追溯性：0.0  \n4. 总分 = 4.5  \n5. 简要理由：答案在事实正确性上表现较好，基本涵盖了贫血预防的常见方法，但缺乏分子机制细节（仅提到补充铁或维生素），且未提供任何可验证的引用证据。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What are the symptoms of Spinocerebellar ataxia 26 ?",
+    "answer": "What are the signs and symptoms of Spinocerebellar ataxia 26? The Human Phenotype Ontology provides the following list of signs and symptoms for Spinocerebellar ataxia 26. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can u...",
+    "factuality": 4.0,
+    "granularity": 0.0,
+    "grounding": 3.0,
+    "total": 7.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：0.0  \n3. 证据可追溯性：3.0  \n4. 总分 = 7.0  \n5. 简要理由：答案详细列出了Spinocerebellar ataxia 26的症状，并引用了Human Phenotype Ontology和Orphanet作为证据来源，事实正确性高；但未涉及任何分子机制，因此机制精细度为0；证据可追溯性良好，明确提到了数据来源。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What is (are) Limb-girdle muscular dystrophy, type 2C ?",
+    "answer": "Limb-girdle muscular dystrophy type 2C (LGMD2C) is a condition that affects the muscles and is caused by mutations in the gamma-sarcoglycan gene. This condition belongs to a group of muscle disorders called limb-girdle muscular dystrophies, which are characterized by progressive loss of muscle bulk ...",
+    "factuality": 3.5,
+    "granularity": 2.0,
+    "grounding": 0.0,
+    "total": 5.5,
+    "raw_evaluation": "1. 事实正确性：3.5  \n2. 机制精细度：2.0  \n3. 证据可追溯性：0.0  \n4. 总分 = 5.5  \n5. 简要理由：答案基本正确，描述了LGMD2C的遗传方式和主要症状，但缺少分子机制的细节（如突变如何影响肌肉功能）。未提供任何可验证的引用来源。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What is the outlook for Neurosarcoidosis ?",
+    "answer": "The prognosis for patients with neurosarcoidosis varies. Approximately two-thirds of those with the condition will recover completely; the remainder will have a chronically progressing or on-and-off course of illness. Complications resulting from immunosuppressive treatments, such as cryptococcal an...",
+    "factuality": 3.0,
+    "granularity": 1.0,
+    "grounding": 0.0,
+    "total": 4.0,
+    "raw_evaluation": "1. 事实正确性：3.0  \n2. 机制精细度：1.0  \n3. 证据可追溯性：0.0  \n4. 总分 = 4.0  \n5. 简要理由：预后描述整体正确但缺乏精确数据支持（3.0）；仅说明疾病进展和并发症，无分子机制（1.0）；未提供任何可验证的引用来源（0.0）。",
+    "source": "MedQuAD"
+  },
+  {
+    "question": "What is (are) task-specific focal dystonia ?",
+    "answer": "Task-specific focal dystonia is a movement disorder that interferes with the performance of particular tasks, such as writing, playing a musical instrument, or participating in a sport. Dystonias are a group of movement problems characterized by involuntary, sustained muscle contractions, tremors, a...",
+    "factuality": 4.0,
+    "granularity": 1.0,
+    "grounding": 0.0,
+    "total": 5.0,
+    "raw_evaluation": "1. 事实正确性：4.0  \n2. 机制精细度：1.0  \n3. 证据可追溯性：0.0  \n4. 总分 = 5.0  \n5. 简要理由：答案对任务特异性局灶性肌张力障碍的描述完全正确且详细，但缺乏分子机制细节，且未提供任何可验证的证据来源。",
+    "source": "MedQuAD"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "rag_query_rewrite": {
+    "n": 100,
+    "mean_factuality": 3.21,
+    "mean_granularity": 2.06,
+    "mean_grounding": 2.135,
+    "mean_total": 7.405
+  }
+}

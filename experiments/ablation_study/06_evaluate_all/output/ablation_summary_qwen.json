@@ -1,0 +1,46 @@
+{
+  "scores": {
+    "full_system": {
+      "n": 195,
+      "mean_factuality": 3.408,
+      "mean_granularity": 2.341,
+      "mean_grounding": 2.4,
+      "mean_total": 8.149
+    },
+    "wo_pmid_whitelist": {
+      "n": 200,
+      "mean_factuality": 2.433,
+      "mean_granularity": 1.137,
+      "mean_grounding": 0.693,
+      "mean_total": 4.263
+    },
+    "wo_correction_loop": {
+      "n": 195,
+      "mean_factuality": 2.151,
+      "mean_granularity": 0.749,
+      "mean_grounding": 0.392,
+      "mean_total": 3.292
+    },
+    "wo_struct_constraint": {
+      "n": 197,
+      "mean_factuality": 2.944,
+      "mean_granularity": 2.0,
+      "mean_grounding": 0.947,
+      "mean_total": 5.891
+    },
+    "wo_retrieval": {
+      "n": 200,
+      "mean_factuality": 2.553,
+      "mean_granularity": 1.655,
+      "mean_grounding": 0.66,
+      "mean_total": 4.867
+    }
+  },
+  "hallucination_rates": {
+    "full_system": 0.0,
+    "wo_pmid_whitelist": 0.0,
+    "wo_correction_loop": 0.0,
+    "wo_struct_constraint": 0.0,
+    "wo_retrieval": 0.0
+  }
+}

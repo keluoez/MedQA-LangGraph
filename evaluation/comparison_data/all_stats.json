@@ -1,0 +1,56 @@
+{
+  "medical_o1_deepseek": {
+    "count": 100, "factuality": 1.16, "granularity": 0.58, "grounding": 0.075, "total": 1.815
+  },
+  "medical_o1_qwen": {
+    "count": 100, "factuality": 3.585, "granularity": 1.73, "grounding": 0.005, "total": 5.32
+  },
+  "medical_o1_gpt4o": {
+    "count": 100, "factuality": 3.65, "granularity": 2.13, "grounding": 0.19, "total": 5.97
+  },
+  "chatdoctor_deepseek": {
+    "count": 100, "factuality": 2.215, "granularity": 0.895, "grounding": 0.03, "total": 3.14
+  },
+  "chatdoctor_qwen": {
+    "count": 100, "factuality": 2.445, "granularity": 1.075, "grounding": 0.0, "total": 3.52
+  },
+  "chatdoctor_gpt4o": {
+    "count": 100, "factuality": 2.40, "granularity": 1.05, "grounding": 0.0, "total": 3.45
+  },
+  "medquad_deepseek": {
+    "count": 98, "factuality": 3.5, "granularity": 1.301, "grounding": 0.469, "total": 5.27
+  },
+  "medquad_qwen": {
+    "count": 98, "factuality": 3.398, "granularity": 1.02, "grounding": 0.245, "total": 4.663
+  },
+  "medquad_gpt4o": {
+    "count": 100, "factuality": 3.415, "granularity": 1.385, "grounding": 0.415, "total": 5.215
+  },
+  "reasonmed_deepseek": {
+    "count": 100, "factuality": 3.595, "granularity": 2.57, "grounding": 1.52, "total": 7.685
+  },
+  "reasonmed_qwen": {
+    "count": 100, "factuality": 3.445, "granularity": 2.49, "grounding": 1.61, "total": 7.545
+  },
+  "reasonmed_gpt4o": {
+    "count": 100, "factuality": 3.405, "granularity": 2.455, "grounding": 1.695, "total": 7.555
+  },
+  "biographletqa_deepseek": {
+    "count": 100, "factuality": 3.185, "granularity": 1.995, "grounding": 1.185, "total": 6.365
+  },
+  "biographletqa_qwen": {
+    "count": 100, "factuality": 3.11, "granularity": 1.975, "grounding": 0.98, "total": 6.065
+  },
+  "biographletqa_gpt4o": {
+    "count": 100, "factuality": 2.92, "granularity": 2.025, "grounding": 1.08, "total": 6.025
+  },
+  "ours_deepseek": {
+    "count": 100, "factuality": 3.795, "granularity": 2.705, "grounding": 2.89, "total": 9.07
+  },
+  "ours_qwen": {
+    "count": 100, "factuality": 3.50, "granularity": 2.327, "grounding": 2.617, "total": 8.444
+  },
+  "ours_gpt4o": {
+    "count": 100, "factuality": 3.84, "granularity": 2.85, "grounding": 2.80, "total": 9.345
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "biographletqa": {
+    "n": 100,
+    "mean_factuality": 2.92,
+    "mean_granularity": 2.025,
+    "mean_grounding": 1.08,
+    "mean_total": 6.025
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "zero_shot": {
+    "zero_shot": {
+      "n": 99,
+      "mean_factuality": 3.439,
+      "mean_granularity": 1.015,
+      "mean_grounding": 2.141,
+      "mean_total": 6.596
+    }
+  },
+  "fewshot_reasonmed": {
+    "fewshot_reasonmed": {
+      "n": 99,
+      "mean_factuality": 3.323,
+      "mean_granularity": 1.111,
+      "mean_grounding": 1.293,
+      "mean_total": 5.727
+    }
+  },
+  "fewshot_ours": {
+    "fewshot_ours": {
+      "n": 99,
+      "mean_factuality": 3.434,
+      "mean_granularity": 1.323,
+      "mean_grounding": 2.146,
+      "mean_total": 6.904
+    }
+  }
+}
